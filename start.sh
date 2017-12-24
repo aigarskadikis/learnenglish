@@ -1,5 +1,7 @@
 #!/bin/bash
 
+start=$(date +%s)
+
 clear
 
 tmp="tmp.log"
@@ -105,8 +107,13 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 
 done;
 
+end=$(date +%s)
+
+runtime=$((($(date +%s)-$start)/60)) 
+
+
 #all words has been parsed
-echo Visus vārdus esi izņemis. Kļūdu skaits ir $e
+echo Visus $s vārdus esi izņemis. Kļūdu skaits ir $e. Kopā pavadītais laiks ir $runtime minūtes
 
 if [ -f "$tmp" ]; then
   rm "$tmp"
