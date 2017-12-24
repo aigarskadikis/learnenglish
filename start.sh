@@ -18,6 +18,9 @@ answer="asdf"
 #set word counter
 c=0
 
+#errors or not in time
+e=0
+
 #size of database
 s=$(grep -v "^$" vocabulary.db | wc -l)
 echo datubazes vārdu krājums ir $s
@@ -38,10 +41,15 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 	ask=$(echo "$line" | sed 's/|.*$//')
 
 	#ask the question
-	read -p "$ask: " answer
-
+	read -t 15 -p "$ask: " answer
+	
 	#calculate the correct answer
 	correct=$(echo "$line" | sed 's/^.*|//')
+	
+	#if there is some onswer typed in
+	len=$(echo $answer | wc -w)
+	if [ $len -gt 0 ]; then
+
 
 		#compare the correct answer with user input
 		echo $correct | grep "$answer" > /dev/null
@@ -59,10 +67,35 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 		#the word in not coorect. bad news
 		else 
 		echo nav pareizi!
+		sleep 3
+		clear
+		echo
+		echo $ask = $correct
+		echo 
+		pico2wave -w correct.wav "$correct" > /dev/null
+		aplay -q correct.wav > /dev/null
+		sleep 15
+		clear
+		e=$((e+1))
 
 		fi
 		
 		echo
+	
+	#if the answer was empy string
+	else
+		echo nav pareizi!
+		sleep 3
+		clear
+		echo
+		echo $ask = $correct
+		echo 
+		pico2wave -w correct.wav "$correct" > /dev/null
+		aplay -q correct.wav > /dev/null
+		sleep 15
+		clear
+		e=$((e+1))
+	fi
 
 
 	#end of word [correct or not correct answer]
@@ -73,7 +106,7 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 done;
 
 #all words has been parsed
-echo visus vārdu Tu zini perfekti!
+echo Visus vārdus esi izņemis. Kļūdu skaits ir $e
 
 if [ -f "$tmp" ]; then
   rm "$tmp"
