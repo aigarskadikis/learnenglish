@@ -111,3 +111,8 @@ echo Visus vārdus esi izņemis. Kļūdu skaits ir $e
 if [ -f "$tmp" ]; then
   rm "$tmp"
 fi
+
+if [ -f "correct.wav" ]; then
+  rm "correct.wav"
+fi
+
