@@ -1,0 +1,84 @@
+/* used in the scrollable list in own words etc. - the 
+positioning disrupts the border body (if turned on)
+ */
+
+#pseudoWindow {
+               position: absolute; 
+               top: 60px; 
+               left: 10px;
+              }
+#outerWrapper {
+               position: absolute; 
+               top: 0px; 
+               left: 0px; 
+               height: 10px; 
+               width: 110px; 
+               overflow: hidden; 
+               border-top: 1px solid #666666; 
+               border-left: 1px solid #666666; 
+               border-right: 0px solid #cccccc; 
+               border-bottom: 1px solid #cccccc; 
+               background-color: #ffffff
+              }
+#innerWrapper {
+               position:absolute; 
+               top: 0px; 
+               left: 0px; 
+               padding-left: 25px; 
+               font: 13px Vendana, Ariel, Helvetica, sans-serif
+              }
+#myp {margin-top: 0em}
+
+#itemListing {
+
+position: absolute; top: 40px; left: 150px;
+padding-right: 50px;
+margin-top: 10px
+}
+
+#arrows {
+
+position: absolute; top: 560px; left: 10px;
+height: 18px;
+border: thin solid white;
+padding-right: 7px;
+padding-left: 0px;
+width: 92px;
+}
+
+.lTit {
+
+margin-bottom: 20px;
+background-Color: yellow;
+padding: 3px;
+}
+
+.highItem {
+
+font: 110% Verdana;
+color: black;
+
+}
+
+.tit {
+
+font: 90% Verdana;
+color: purple;
+width: 80px;
+}
+
+.idi,.idDef,.idExam,.idExplan {
+padding-left: 4px;
+
+}
+
+.idDef {
+
+font-style: oblique;
+}
+
+.idi {
+
+font-weight: bold;
+}
+

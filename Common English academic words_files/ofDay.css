@@ -1,0 +1,144 @@
+
+.posp { 
+font : 80% Courier; 
+} 
+
+#verb { 
+font : 105% Verdana; 
+color : black; 
+} 
+
+#def { 
+font-size : 105%; 
+font-style : oblique; 
+} 
+
+#ex { 
+font-family : Verdana; 
+} 
+
+.dfarbe { 
+font-weight : bold; 
+} 
+
+.acLink1 { 
+border-bottom : 1px dashed silver; 
+} 
+
+.acLink2 { 
+border-bottom : 1px dotted #008000;
+cursor: pointer; 
+} 
+
+.black { 
+font-weight : bold; 
+} 
+
+.dayword { 
+font-weight : bold; 
+} 
+
+.daydef { 
+font-style : oblique; 
+} 
+
+.dayEx { 
+font-style : oblique; 
+} 
+
+.dayExp { 
+font-style : oblique; 
+} 
+
+.dayNote { 
+font-style : oblique; 
+} 
+
+.dayHits { 
+font-style : oblique; 
+} 
+
+#entry { 
+margin-left : 1%; 
+margin-right : 5%; 
+text-align : justify; 
+font-family : Verdana; 
+} 
+
+.idi { 
+width : 85%; 
+font-weight : bold; 
+} 
+
+.tit { 
+width : 15%; 
+font-style : oblique; 
+} 
+
+.antWord { 
+color : black; 
+} 
+
+.idDef { 
+font : 95% Verdana; 
+font-style : oblique; 
+} 
+
+.idExam { 
+margin-right : 20%; 
+} 
+
+span.bold { 
+font-weight : bold; 
+} 
+
+.extraWord { 
+font-weight : bold; 
+} 
+
+.extraDef { 
+font-style : oblique; 
+} 
+
+.extraExample { 
+font-style : oblique; 
+} 
+
+.extra { 
+font : 80% Verdana; 
+} 
+
+.farbLine { 
+background-color : #ffebdc; 
+line-height : 150%; 
+} 
+
+.space { 
+line-height : 50%; 
+} 
+
+.tite { 
+line-height : 150%; 
+} 
+
+.pos { 
+font : 110% "Courier New"; 
+color : green; 
+} 
+
+.mot { 
+color : red; 
+font : 110% Verdana; 
+} 
+
+.exes { 
+font : 80% Verdana; 
+list-style-image : url('http://esl.fis.edu/images/li2.gif'); 
+text-indent : 15px; 
+padding : 1px; 
+margin : 1px; 
+} 
+
+.fullWord { 
+font : 10pt Verdana; 
+}

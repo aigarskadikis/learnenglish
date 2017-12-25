@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#sox and pico2wave needs to installed before using
+
 start=$(date +%s)
 
 clear
@@ -78,32 +80,63 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 		#the word in not coorect. bad news
 		else 
 		echo nav pareizi!
-		sleep 3
+		sleep 1
 		clear
 		echo
 		echo $ask = $correct
 		echo 
 		pico2wave -w correct.wav "$correct" > /dev/null
-		aplay -q correct.wav > /dev/null
-		sleep 15
+		sleep 1
+		play -q correct.wav # > /dev/null
+		sleep 1
+		
+			echo "$line" | grep "(.*)" > /dev/null
+			if [ $? -eq 0 ]; then
+			full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
+			echo "$full"
+			pico2wave -w full.wav "$full" # > /dev/null
+			sleep 1
+			play -q full.wav # > /dev/null
+						
+			fi
+		
+		sleep 9
+
+		
 		clear
 		e=$((e+1))
 		echo "$line">> "$todo"
 		fi
+		
+
 		
 		echo
 	
 	#if the answer was empy string
 	else
 		echo nav pareizi!
-		sleep 3
+		sleep 1
 		clear
 		echo
 		echo $ask = $correct
 		echo 
 		pico2wave -w correct.wav "$correct" > /dev/null
-		aplay -q correct.wav > /dev/null
-		sleep 15
+		play -q correct.wav > /dev/null
+
+		sleep 1
+		
+			echo "$line" | grep "(.*)" > /dev/null
+			if [ $? -eq 0 ]; then
+			full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
+			echo "$full"
+			pico2wave -w full.wav "$full" # > /dev/null
+			sleep 1
+			play -q full.wav # > /dev/null
+						
+			fi
+		
+		sleep 9
+
 		clear
 		e=$((e+1))
 		echo "$line">> "$todo"
@@ -125,7 +158,7 @@ runtime=$((($(date +%s)-$start)/60))
 
 #all words has been parsed
 echo All $s words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
-echo Words that need to take time with:
+echo Words that need to take time with are:
 #count occurrences of a words who did not work well
 sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
 echo
@@ -142,3 +175,6 @@ if [ -f "correct.wav" ]; then
   rm "correct.wav"
 fi
 
+if [ -f "full.wav" ]; then
+  rm "full.wav"
+fi

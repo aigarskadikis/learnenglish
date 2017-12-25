@@ -1,0 +1,518 @@
+p::-moz-selection 
+{
+ background: yellow;
+}
+
+p::selection 
+{
+ background: yellow;
+}
+
+
+html {background-color:#ffffff}
+body {
+background-color: white; 
+font-family: Verdana,Arial,Tahoma,Helvetica,sans-serif; 
+font-size:1em;
+margin-left:10px; 
+margin-right:10px; 
+padding:5px; 
+}
+
+#menubar { /* top most bar with main navigation  */
+background-color: #901818; 
+height: 25px;
+font: 12pt Verdana;
+}
+h1.h1TitleLeft {color: #8B0000; font-size: 1.4em;} /* page main title */
+h1.h1TitleCenter {color: #8B0000; font-size: 1.2em;} /* page main title */
+
+#thisTitel { /* information page title */
+color: #8b0000; 
+font-size:1.2em;
+margin-left: -2px;
+} 
+
+pre {
+font: 130% verdana;
+}
+
+h2 {color: #2f4f4f; font: 1.1em Verdana;margin-bottom: -3px; font-weight: bold;} 
+h3{color: #2f4f4f; font: 1em Verdana; margin-bottom: -5px; font-weight: bold;} 
+h4 {color: #2f4f4f; font: 0.9em Verdana; margin-bottom: -7px; font-weight: bold;} 
+h5 {color: #2f4f4f; font: 0.8em Verdana; margin-bottom: -9px; font-weight: bold;} 
+h6 {color: #2f4f4f; font: 0.7em Verdana; margin-bottom: -11px; font-weight: bold;} 
+
+span.logo 
+{
+    color: #FFFFFF; font: 101% sans-serif; margin-right: 12px;
+}
+  
+a.hp
+{
+     font: 11pt Verdana, sans-serif; 
+     margin-right: 5px;
+	 color: white;
+	 text-decoration: none;
+}
+
+a.hp:hover 
+{
+     font : 11pt Verdana, sans-serif; 
+     margin-right:5px;
+	 color: yellow;
+	 text-shadow: 1px 1px 2px hsla(0,0%,0%,0.7);
+}
+ address {font: 80% Verdana; text-align: center;}
+#top {background-color: #00CCFF; position: relative; left:0px; top:0px;}
+.last {color: #336699; margin-bottom: -.3em; margin-right: 0%; font-style:normal; font-variant:normal; font-weight:normal; font: 80% Verdana}
+
+#indexNoPic {
+margin-top: 32px;
+padding-left:20px;
+}
+  
+#endHeim {
+clear: both;
+}
+
+/* OLD
+html {background-color:#cccccc}
+body {background-color:#ffffff; font-family:Tahoma,Arial,Helvetica,sans-serif; font-size:12px;
+	  margin-left:5%; margin-right:5%; border:2px groove darkred; padding:15px}
+*/
+
+
+/* next are floats for index pages */
+.floatRight{
+float: left; 
+width: 30%;
+margin-top: 65px;
+
+}
+
+.floatLeft{
+float: left; 
+width: 70%;
+}
+.leftFloatPadding {
+padding-top: 20px;
+padding-left: 20px;
+}
+
+/* end floats for index pages */
+
+/*
+body {
+padding: 0px 0px 0px 00px;
+
+margin: 10px; 
+
+background-Color: #FFFFCE; 
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+}
+
+#menues {width: 100%; background-color: #009900; position: absolute; top: 35px;}
+*/
+
+#menues { /* green bar in quizzes */
+
+background-color: #009900;
+z-index: 1; 
+margin-top: 2px; 
+margin-bottom: 5px; 
+height: 30px;
+vertical-align: bottom;
+} 
+
+.summary { /* external box */
+font: 0.8em Georgia;
+color: #2f4f4f;
+font-weight: 500;
+padding: 8px 20px 8px 10px;
+text-align: justify;
+border-bottom: thin solid gray;
+
+}
+.indexSummary { /* internal text - when no pic on page*/
+
+}
+
+#qKnopf { /* div for q1-15 buttons */
+margin-bottom: 3px; 
+padding-bottom: 5px; 
+border: 1px solid silver;
+display: none; /* botch to turn off all qKnopf copied to files that don't need it - turned back on in gen.js*/
+}
+
+#thisTitel { /* information page title */
+color: #8b0000; 
+font-size:1.2em;
+margin-left: -2px;
+} 
+
+td {vertical-align: top;}
+
+#tag {
+font-style: oblique; 
+font: 70% Verdana; 
+color: gray; 
+position: relative; top: 10px; left: -8px;
+z-index: 20;
+}
+
+a.kopf:link {color: #FFFFFF; font: 8pt Verdana; text-decoration: none}
+a.kopf:visited {color: #FFFFFF; font: 8pt Verdana; text-decoration: none}
+a.kopf:hover 
+{
+    color: #FFFF99; 
+    text-shadow: 1px 1px 2px hsla(0,0%,0%,0.7);
+   /* background-color: #660066; */
+}
+
+a.alink:link {color: #336699; text-decoration: none; font: 90% Verdana;}
+a.alink:visited {text-decoration: none; font: 90% Verdana; color: #FF00FF}
+a.alink:hover {text-decoration: underline;}
+
+a.blink:link {color: #336699; text-decoration: none; font: 90% Verdana;}
+a.blink:visited {text-decoration: none; font: 90% Verdana; color: #336699}
+a.blink:hover {text-decoration: underline;}
+
+
+a.link:link {color: #336699; text-decoration: none; font: 80% Verdana;}
+a.link:visited {text-decoration: none; font: 80% Verdana; color: #FF00FF}
+a.link:hover {text-decoration: underline; background-Color: #FFFFFF;}
+
+a.show:link {text-decoration: none; color: blue; font: 100% Verdana;}
+a.show:visited {text-decoration: none; font: 100% Verdana; color: #FF00FF}
+a.show:hover {text-decoration: underline; background-Color: #FFFFFF;}
+
+a.menuArrow:link {color: #336699; text-decoration: none;}
+a.menuArrow:visited {color: #336699; text-decoration: none;}
+a.menuArrow:hover {color: #336699; text-decoration: underline;}
+
+/* next are q1-15 link buttons */
+a.wordBut:link {color: black; text-decoration: none;}
+a.wordBut:visited {color: #336699; text-decoration: none;}
+a.wordBut:hover {color: #000000;}
+a.wordBut:hover {background-color: #FFFFCE;}
+
+#alles{ /* content of information pages */
+float: left; 
+width: 62%; 
+
+font-family: Verdana, sans-serif; 
+color: #000000;
+margin-top: 15px;
+line-height: 1.3;
+} 
+#art { /* - right pic in info pages */
+float: left;
+width: 25%;
+margin-top: 70px;
+}
+
+#biggif { /* print + - buttons */
+float: left; 
+width: 11%;
+margin-top: 35px;
+} 
+#grosser, #kleiner {
+height: 11px; 
+width: 12px; 
+cursor: pointer;
+}
+
+
+#raum {float: left;width: 2%;} /* spacer div */
+
+#rightMarg { /* the quote box */
+font: 65% Verdana; 
+background-Color: #FFFFFF; 
+padding: 7px 4px 7px 4px; 
+cursor: pointer; 
+visibility: hidden; 
+width: 128px;
+z-Index: -100;
+border-top: thin solid darkred;
+border-bottom: thin solid maroon;
+}
+
+img.tArt {cursor: pointer; height: 96px; width: 128px;z-Index: -100;}
+
+#prompt {  /* used in eg. q5 */
+text-align: center;
+}
+
+LI.li {list-style-image: url('http://esl.fis.edu/images/li2.gif')}
+LI.multi {
+margin-left:-30px;
+list-style-image: url('http://esl.fis.edu/images/li2.gif')
+
+}
+LI.selLi {list-style-image: url('http://esl.fis.edu/images/selLi.gif'); list-style-position: outside;}
+
+li.easy {list-style-type: square; background-color: #FFFFCE;}
+
+div.wa { /*color writing activities*/
+margin-left: 30px; 
+margin-top: 30px;
+}
+
+.instruct {
+/* font-style: oblique; */
+font: .8em Verdana;
+margin-top: 0.5em;
+padding-left: 10px;
+
+}
+
+
+table.indexTable { /* main indexes with without pictures */
+padding: 0; 
+width: 100%;
+} 
+
+TD.picTD {padding-left: 30px; text-align: left;}
+img.iSmall {cursor: pointer; width: 250px; height: 240px;} 
+
+
+
+UL.ok { /*various*/
+color: black; 
+position: relative; 
+left: 8%;
+}
+
+
+ul.faq {color: #000000}
+HR {color: silver; height: 1px; text-align: center}
+A.picInfo {color: #336699; font: 80% Verdana;}
+
+/*
+LI {margin-right: 10px;} 
+*/
+P.klein {font-size: smaller;}
+.pHead {font-weight: bold; color: #696969}
+.trenn {font-size: 70%; color: #336699;}
+.ktrenn {font-size: 70%; color: #FFFFFF;}
+P.gross {font-size: larger;}
+P.center {text-align: center}
+P.example {background-color: #FFFF99; margin-left:7%;}
+
+P.read, #fragen {font: 110% Verdana}  
+hr.meet  {height: 1px; background-color: silver; border: none;}
+
+SPAN.klein {font-size: smaller;}
+SPAN.gross {font-size: larger;}
+SPAN.strike {text-decoration: line-through;}
+SPAN.farbe {font-size: 110%; color: red;}
+SPAN.farbe2 {color: red;}
+SPAN.new {font-weight: bold; font-size: 70%; background-color: yellow; position: relative; left: 6px;}
+
+EM.fett {font-weight: bold; font-style: normal;}
+.normal {font-style: normal; font-weight: 700;}
+EM.red {font-size: larger; color: red;}
+.sup {color: red;}
+#aus {visibility: hidden; text-align: right;}
+#off {font-size: 80%; cursor: pointer; text-align: right}
+SPAN.word {color: red; cursor: pointer;}
+#off {visibility: visible; cursor: pointer; color: black;}
+#links {font-size: 80%;} 
+SPAN.curr {font-weight: bold; color: black;}
+SPAN.but {text-align: center; 
+          width: 20px; 
+          border-style: outset; 
+          border-width: 1px; 
+          cursor: pointer; 
+          font: 70% "Arial"; 
+          margin-right: 6px; 
+          background: #D4D0C8; 
+          color: #000000;
+          border-radius: 2px;
+} 
+
+SPAN.but:hover {
+backgroundColor: #87CEFA;
+}
+/* next is current quiz in q1-15 */
+.ab {text-align: center; background-color: #FF6347; width: 20px; border-style: outset; border-width: 1px; cursor: text; font: 70% "Arial"; margin-right: 6px; }
+
+span.extra {color: blue; font-size: 102%; cursor: pointer;}
+
+/* next are score table tds and contents in quizzes */
+
+TD.score {font-family: Verdana; color: #FFFFFF;}
+TD.titel {width: 52%; text-align: center; font-style:normal; font-variant:normal; font-size: 90%; color: white} 
+TD.knoepfe {text-align: right;} 
+#arrows {text-align: right; padding-right: 12px;}
+#vis {color:red; visibility: hidden;}
+#score, #mscore, #qnum, .tit, .qTitel {color: white; font-family: Verdana, sans-serif;}
+
+.qbut { /* if change change in bookA.css self.css  too*/
+font: 80% caption;
+border-style: outset; 
+border-width: 1px; 
+cursor: pointer; 
+padding: 0px 5px 0px 5px;
+margin-right: 6px; 
+background: #D4D0C8;
+text-decoration: none;
+border-radius: 3px;
+} 
+.qbut:hover {
+border: 1px solid maroon;
+background-color: #ffffce;
+}
+
+#b1, #b2, #b3, #b4 {cursor: pointer;}
+.black {font-weight: bold}
+
+.click {cursor: pointer}
+
+.rank {font: 0.7em Verdana}
+
+.underline {text-decoration: underline}
+.nobr {white-space: nowrap}
+em.germanU {cursor: pointer; font: 80% Courier New; font-style: normal;}
+/* input text box */
+
+#guess {font-size: 140%}
+#noscriptMenu {margin-bottom: 10px;}
+#noscriptWarning {margin-bottom: 10px; font-size: 80%; color: red;}
+
+
+.black_overlay{
+
+  display: none;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 1724px;
+  height: 568px;
+  background-color: black;
+  z-index:1001;
+  -moz-opacity: 0.8;
+  opacity:.60;
+  filter: alpha(opacity=60);
+}
+
+.white_content {
+
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 500px;
+  padding: 6px;
+  border: 6px solid #900;
+  background-color: white;
+  z-index:1002;
+  overflow: auto;
+}
+
+noscript {
+color: red;
+}
+
+#audio {
+vertical-align: bottom; 
+margin-bottom: 2px;
+cursor: pointer;
+}
+
+a.mlink {
+
+font: 100% verdana;
+text-decoration: none;
+}
+
+sub.farbe, sup.farbe, em.farbe {
+color: red;
+}
+
+
+/* MOBILE */
+
+        
+        #mobile 
+        {
+            display: none;
+            }
+        
+        
+#goToTop 
+{
+    font-size: 200%;
+    border: thin solid gray;
+    border-radius: 4px;
+    padding:4px;
+ 
+}   
+    
+    
+
+    
+ 
+ 
+     #mobile 
+        {
+            display: block;
+            }
+
+.mobileLI
+{
+    list-style-type: none;
+    width: 200px;
+    background-color: Yellow;
+    border: thin solid maroon;
+    margin-bottom: 6px;
+    
+    padding-left: 5px;
+    border-radius: 3px;
+    text-align: center;
+    }
+    
+ .mobileLI > a 
+ {
+     text-decoration: none;
+     }   
+    
+    .mobileH3 
+    {
+        background-color: Maroon;
+        height: 25px;
+        vertical-align: middle;
+        padding-top: 5px;
+        padding-left: 6px;
+        width: 320px;
+        }
+        
+        .mobileH3 > a 
+        {
+            color: White;
+            text-decoration: none;
+            
+            }
+ 
+ #mobileBut {
+border: thin solid silver;
+border-radius: 5px;
+background-color: #ffffce;
+width: 60px;
+font-size: 80%;
+text-align: center;
+cursor: pointer;
+ }
+
+ #mobileBut:hover {
+background-color: lightblue;
+}
+
+ .anchor {
+  border-top: thin solid gray;
+  padding-top: 10px;
+  
+ }
+
