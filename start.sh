@@ -5,13 +5,22 @@ start=$(date +%s)
 clear
 
 tmp="tmp.log"
+todo="todo.log"
 
 if [ -f "$tmp" ]; then
   rm "$tmp"
 fi
 
+if [ -f "$todo" ]; then
+  rm "$todo"
+fi
+
 if [ ! -f "$tmp" ]; then
   touch "$tmp"
+fi
+
+if [ ! -f "$todo" ]; then
+  touch "$todo"
 fi
 
 #set a junk answer to enable the word checking loop
@@ -79,7 +88,7 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 		sleep 15
 		clear
 		e=$((e+1))
-
+		echo "$line">> "$todo"
 		fi
 		
 		echo
@@ -97,6 +106,8 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 		sleep 15
 		clear
 		e=$((e+1))
+		echo "$line">> "$todo"
+
 	fi
 
 
@@ -113,10 +124,18 @@ runtime=$((($(date +%s)-$start)/60))
 
 
 #all words has been parsed
-echo Visus $s vārdus esi izņemis. Kļūdu skaits ir $e. Kopā pavadītais laiks ir $runtime minūtes
+echo All $s words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
+echo Words that need to take time with:
+#count occurrences of a words who did not work well
+sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
+echo
 
 if [ -f "$tmp" ]; then
   rm "$tmp"
+fi
+
+if [ -f "$todo" ]; then
+  rm "$todo"
 fi
 
 if [ -f "correct.wav" ]; then
