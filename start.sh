@@ -89,6 +89,10 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 		sleep 1
 		play -q correct.wav # > /dev/null
 		sleep 1
+
+		if [ -f "correct.wav" ]; then
+			rm "correct.wav"
+		fi
 		
 			echo "$line" | grep "(.*)" > /dev/null
 			if [ $? -eq 0 ]; then
@@ -97,10 +101,14 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 			pico2wave -w full.wav "$full" # > /dev/null
 			sleep 1
 			play -q full.wav # > /dev/null
+			
+				if [ -f "full.wav" ]; then
+					rm "full.wav"
+				fi	
 						
 			fi
 		
-		sleep 9
+		sleep 8
 
 		
 		clear
@@ -125,6 +133,10 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 
 		sleep 1
 		
+		if [ -f "correct.wav" ]; then
+			rm "correct.wav"
+		fi
+		
 			echo "$line" | grep "(.*)" > /dev/null
 			if [ $? -eq 0 ]; then
 			full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
@@ -132,10 +144,15 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 			pico2wave -w full.wav "$full" # > /dev/null
 			sleep 1
 			play -q full.wav # > /dev/null
-						
+			sleep 1
+			
+				if [ -f "full.wav" ]; then
+					rm "full.wav"
+				fi	
+				
 			fi
 		
-		sleep 9
+		sleep 8
 
 		clear
 		e=$((e+1))
