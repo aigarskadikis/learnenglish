@@ -175,7 +175,7 @@ runtime=$((($(date +%s)-$start)/60))
 
 #all words has been parsed
 echo All $s words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
-echo Words that need to take time with are:
+echo Words that you need to take time with are:
 #count occurrences of a words who did not work well
 sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
 echo
