@@ -54,7 +54,7 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 	ask=$(echo "$line" | sed 's/|.*$//')
 
 	#ask the question
-	read -t 15 -p "$ask: " answer
+	read -t 20 -p "$ask: " answer
 	
 	#calculate the correct answer
 	correct=$(echo "$line" | sed 's/^.*|//')
