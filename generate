@@ -1,0 +1,1 @@
+curl -s https://www.victoria.ac.nz/lals/resources/academicwordlist/sublists/sublist01 | sed "s/<p>/\n<p>/g;s/<\/p>/<\/p>\n/g" | grep "<p>" | sed "s/<p>\|<\/p>//g" | grep -v "[ ]" > awl01.db
