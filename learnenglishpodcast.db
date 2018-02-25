@@ -102,3 +102,18 @@ atrasties, dzīvot, puses vārds iesaistīts vārdā (the item we created will .
 izvēlēties, trīs burti (we would probably ... for aggregate items)|opt
 patvaļīgs (creating a new group is required if ... hosts must have an aggregate item calculated for them)|arbitrary
 rīve, režģis (You can chop meat or vegetables, slice things, erm.. ... things like cheese)|grate
+rodas, rasties (There are many simple and advanced checks you can use to inform you about tasks to perform or problems that ... when configuring systems)|arise
+vilinošs, kārdinošs (While it might be ... to add an item like this in the frontend, it is highly recommended to test all user parameters before configuring them in the frontend)|tempting
+burtu un ciparu (It is suggested that you keep key names to lowercase ... characters and dots)|alphanumeric
+niecīgs, nenozīmīgs, ikdienišķs (This ... user parameter actually illustrates a troubleshooting suggestion)|trivial
+atkārtojums, atkārtošana, iterācija (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
+ieteikts (User parameters are ... to be used as active items as they can tie up server connections if they do not return very quickly)|suggested
+iepriekš minētais (An alternative command for 'ss', matching the ... 'netstat' command, would be 'ss -t state connect')|aforementioned
+par laimi (If we want to monitor connections in different states, would we have to create a new user parameter for each? ..., no)|fortunately
+zvaigznīte, zīme ar ko apzīmē mainīgos, līdzīga reizināšanas zīmei|asterisk
+sekas, rezultāts (it would assume the parameter is unsupported and deactivate it as a ...)|consequence
+atbilstošs, identiski pirkstu nospiedumi (There are several reserved ranges that might contain other codes, used by a specific application or distribution-those should be looked up in the ... documentation)|corresponding
+kopā ar, pavadīt, Tev ir kompanjons, beidzas ar ied (each return code would be ... on the frontend with an explanatory message like the above)|accompanied
+vēlme, kāre (This way, we can create a single user parameter and use it for any service we ...)|desire
+piemērots (For an item like that, the ... key would be 'blablabla')|appropriate
+patentēta, ipašuma (they are quite popular in ... software)|proprietary
