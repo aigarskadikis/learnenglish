@@ -125,3 +125,4 @@ kas attiecas, par, sākas ar con (here, you can set some options ... your user a
 izsmeļošs, nogurdinošs, mokošs (this is not an ... list of things to monitor)|exhaustive
 piemērots (systems are never fast enought to ... all needs)|accommodate
 caurlaidspēja|throughput
+nepārprotami (this is the property that ... specifies what data has to be gathered for this item)|explicitly
