@@ -122,13 +122,13 @@ atšķirt (this makes it easier to ... this installation from other instances)|d
 nevēlams (software that starts doing something on its own would probably be a bit ...)|undesirable
 iedrošināties, riskēt (before we ... deeper into these categories)|venture
 kas attiecas, par, sākas ar con (here, you can set some options ... your user account)|concerning
-izsmeļošs, nogurdinošs, mokošs (this is not an ... list of things to monitor)|exhaustive
-piemērots (systems are never fast enought to ... all needs)|accommodate
+nogurdinošs, mokošs, izsmeļošs (this is not an ... list of things to monitor)|exhaustive
+piemērots, vārds beidzas ar randiņu (systems are never fast enought to ... all needs)|accommodate
 caurlaidspēja|throughput
 nepārprotami (this is the property that ... specifies what data has to be gathered for this item)|explicitly
 prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
 iegūt (zabbix does not allow several values to be ... from a single key or from a single invocation)|obtained
-postošs, iznīcinošs, kaitīgs (enable confirmation: This is a potentially ... action, so mark this checkbox)|destructive
+postošs, iznīcinošs, kaitīgs, bija tāda spēle .. derby (enable confirmation: This is a potentially ... action, so mark this checkbox)|destructive
 pamatotu, garantētu, attaisnotu (if we had a trigger that ... rebooting the whole system, we would create an action with appropriate conditions)|warranted
 piesaukts (operation is an action property that defined what to do if this action is ..., and escalations were configured with the help of operations)|invoked
 palielinājās (otherwise, both problem and recovery events would get ..., and it would be very, very confusing)|escalated
