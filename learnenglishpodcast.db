@@ -149,7 +149,7 @@ pārklājas (That allows us to ... host group permissions with action conditions
 izsmalcināts (That allows us to overlap host group permissions with action conditions to create quite ... notification scenarios)|sophisticated
 noliegt (We may also match or ... a substring)|negate
 izcelt vienu pašu ārā (Allows us to ... an important or unimportant host for action invocation)|single out
-piesaukšanas (A bit more flexible than the previous one, with this condition we can limit ... based on trigger name)|invocation
+izsaukšana (A bit more flexible than the previous one, with this condition we can limit ... based on trigger name)|invocation
 pēc (only acting ... triggers that have the string database in their names)|upon
 izpildīts, rūpīgi iznest ārā (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
 nomākts, abspiests (Operations can be carried out only if a problem has happened in a specified time period, or they can be ... for a specified time period instead)|suppressed

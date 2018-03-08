@@ -60,7 +60,7 @@ line=$(grep -v "^$" learnenglishpodcast.db | tail -$last | sort -R | head -1)
 	ask=$(echo "$line" | sed 's/|.*$//')
 
 	#ask the question
-	read -t 20 -p "$ask: " answer
+	read -t 60 -p "$ask: " answer
 	
 	#calculate the correct answer
 	correct=$(echo "$line" | sed 's/^.*|//')
