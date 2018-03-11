@@ -155,3 +155,14 @@ izpildīts, rūpīgi iznest ārā (Operations can be ... only if a problem has h
 nomākts, abspiests (Operations can be carried out only if a problem has happened in a specified time period, or they can be ... for a specified time period instead)|suppressed
 vietturis (Actual ... letters are likely to be different in the Zabbix frontend as the conditions are ordered)|placeholder
 jo īpaši, sevišķi (But the last column, titled ACTIONS, is ... different)|notably
+uzlikt, uzspiest (We looked at what limits an action can ..., but there are also possible limits per media)|impose
+apzīmējums (Days are represented by the numbers 1-7 and a 24-hour clock ... of HH:MM-HH:MM is used)|notation
+stingrība, bargums, smagums (Use if ... is very useful as well, as that poor technician might not want to receive informative SMS messages during the night, only disaster ones)|severity
+secināt, izsekot (We can easily ... that numbers in the event list represent notification counts - green for successful ones and red for unsuccessful ones)|deduce
+piesārņo, notašķa (It also shows us that actions should not be configured to send messages for users that do not have media correctly set, as such entries ... the action log and make it harder to review interesting entries)|pollute
+izlaist (For example, if we had ... the host name macro from our trigger, the e-mail alerts would have said SNMP trap has arrived)|omitted
+acīmredzams, skaidrs (The benefit of a macro is ... when we have a single action covering many cases)|evident
+neskaitāmi (We don't have to create a ... of actions to cover every possible situation)|myriad
+labākais (Return to Monitoring-Events, and move the mouse cursor over the red, ... number 1 in the ACTIONS column)|rightmost
+nosacīti (At this time, there is no way to ... print the item value, if it exists)|conditionally
+iegūstams (Sometimes, the receiver of the message might benefit from additional information that's, not directly ... from event-related macros)|obtainable
