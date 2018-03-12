@@ -164,5 +164,5 @@ izlaist (For example, if we had ... the host name macro from our trigger, the e-
 acīmredzams, skaidrs (The benefit of a macro is ... when we have a single action covering many cases)|evident
 neskaitāmi (We don't have to create a ... of actions to cover every possible situation)|myriad
 visvairāk pa labi (Return to Monitoring-Events, and move the mouse cursor over the red, ... number 1 in the ACTIONS column)|rightmost
-nosacīti, sākas līdzīgi kā atbilstoši (At this time, there is no way to ... print the item value, if it exists)|conditionally
+nosacīti, ceturtais burts ir d, sākas līdzīgi kā atbilstoši (At this time, there is no way to ... print the item value, if it exists)|conditionally
 iegūstams (Sometimes, the receiver of the message might benefit from additional information that's, not directly ... from event-related macros)|obtainable
