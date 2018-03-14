@@ -4,6 +4,12 @@
 
 start=$(date +%s)
 
+if [ "$1" -eq "" ]; then
+last=500
+else
+last=$1
+fi
+
 clear
 
 tmp="tmp.log"
@@ -35,7 +41,7 @@ c=0
 e=0
 
 #size of database
-s=$(grep -v "^$" vocabulary.db | wc -l)
+s=$(grep -v "^$" learnenglishpodcast.db | tail -$last | wc -l)
 echo datubazes vārdu krājums ir $s
 echo
 
@@ -43,7 +49,7 @@ while [ $c -lt $s ]; do
 
 
 #take new word
-line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
+line=$(grep -v "^$" learnenglishpodcast.db | tail -$last | sort -R | head -1)
 
 	grep "$line" "$tmp" > /dev/null
 
@@ -54,7 +60,7 @@ line=$(grep -v "^$" vocabulary.db | sort -R | head -1)
 	ask=$(echo "$line" | sed 's/|.*$//')
 
 	#ask the question
-	read -t 20 -p "$ask: " answer
+	read -t 60 -p "$ask: " answer
 	
 	#calculate the correct answer
 	correct=$(echo "$line" | sed 's/^.*|//')
@@ -175,10 +181,13 @@ runtime=$((($(date +%s)-$start)/60))
 
 #all words has been parsed
 echo All $s words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
+
+if [ $e -gt 0 ]; then
 echo Words that you need to take time with are:
 #count occurrences of a words who did not work well
 sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
 echo
+fi
 
 if [ -f "$tmp" ]; then
   rm "$tmp"

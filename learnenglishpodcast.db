@@ -144,17 +144,17 @@ iepriekšējais (if the output you see matches the ... output, continue by ussui
 aprakstošs (feel free to choose a ... name, or simple type another host)|descriptive
 sekojoši (that is two ... commas preceding 80)|subsequent
 saistīts (This value should end up in the snmptraps item in Another host and make the ... trigger fire)|associated
-atisināts (One way to also enable the sending of messages when a trigger is ... would be to remove that condition, but it will not be useful when escalation functionality is used)|resolved
+atrisināts (One way to also enable the sending of messages when a trigger is ... would be to remove that condition, but it will not be useful when escalation functionality is used)|resolved
 pārklājas (That allows us to ... host group permissions with action conditions to create quite sophisticated notification scenarios)|overlap
 izsmalcināts (That allows us to overlap host group permissions with action conditions to create quite ... notification scenarios)|sophisticated
 noliegt (We may also match or ... a substring)|negate
 izcelt vienu pašu ārā (Allows us to ... an important or unimportant host for action invocation)|single out
 izsaukšana (A bit more flexible than the previous one, with this condition we can limit ... based on trigger name)|invocation
 pēc (only acting ... triggers that have the string database in their names)|upon
-izpildīts, rūpīgi iznest ārā (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
+izpildīts, īstenotas, novestas līdz galam (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
 nomākts, abspiests (Operations can be carried out only if a problem has happened in a specified time period, or they can be ... for a specified time period instead)|suppressed
-vietturis (Actual ... letters are likely to be different in the Zabbix frontend as the conditions are ordered)|placeholder
-jo īpaši, sevišķi (But the last column, titled ACTIONS, is ... different)|notably
+vituris (Actual ... letters are likely to be different in the Zabbix frontend as the conditions are ordered)|placeholder
+jo īpaši, sevišķi, sākas ar piezīmju bloku (But the last column, titled ACTIONS, is ... different)|notably
 vienības (A set of ... .items, triggers, etc. ready to be applied to one or several hosts)|entities
 novērtēšanas prasmes|estimation skills
 novērtējuma precizitāte|accuracy of estimate
