@@ -42,7 +42,7 @@ defisi, likt savienojuma zīmi, domuzīme (sometimes it is two words and sometim
 lamu vārdi (we call this kind of word ...)|swear words
 rokas pulkstenis|wristwatch
 ādas siksna|leather strap
-uzvilkt to (I used to sit on my granddad.s knee and play with his watch and he used to let me ...)|wind it up
+uzvilkt to (I used to sit on my granddad's knee and play with his watch and he used to let me ...)|wind it up
 pulksteņa mehānisms|clockwork
 vinča, uzvelkamā atslēga (You wind it up there, with that ...)|winder
 mantojums (I do not really wear this watch very often, but it is important to me as a kind of ...)|heirloom
@@ -95,7 +95,7 @@ pikšņa, ja nevar atrast mencu tad ēd pikšņu, hint-bija piestātne (It can b
 etiķis|vinegar
 norūpējušies, beidzas ar ed (As I say, it’s not very healthy and people are more ... about healthy eating these days)|concerned
 pārbaudes laiks|probation period
-eksponēt (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
+izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 sadursme (we chose a key the would not ... with the native key)|clash
 piegādāt (we just ... item keys to the functions)|supplied
 atrasties, dzīvot, puses vārds iesaistīts vārdā (the item we created will ... on 'test host' only)|reside
@@ -106,14 +106,14 @@ rodas, rasties, uzplaukst kā saule (There are many simple and advanced checks y
 vilinošs, kārdinošs, beidzas ar ing (While it might be ... to add an item like this in the frontend, it is highly recommended to test all user parameters before configuring them in the frontend)|tempting
 burtu un ciparu (It is suggested that you keep key names to lowercase ... characters and dots)|alphanumeric
 niecīgs, nenozīmīgs, ikdienišķs (This ... user parameter actually illustrates a troubleshooting suggestion)|trivial
-atkārtojums, atkārtošana, iterācija (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
-ieteikts, vārdā ir 'gg' (User parameters are ... to be used as active items as they can tie up server connections if they do not return very quickly)|suggested
+atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
+ieteikts (User parameters are ... to be used as active items as they can tie up server connections if they do not return very quickly)|suggested
 iepriekš minētais (An alternative command for 'ss', matching the ... 'netstat' command, would be 'ss -t state connect')|aforementioned
 par laimi (If we want to monitor connections in different states, would we have to create a new user parameter for each? ..., no)|fortunately
 zvaigznīte, zīme ar ko apzīmē mainīgos, līdzīga reizināšanas zīmei|asterisk
 sekas, rezultāts, vārds sākas līdzīgi kā sirdsapziņa (it would assume the parameter is unsupported and deactivate it as a ...)|consequence
 atbilstošs, identiski pirkstu nospiedumi, vards sākas ar kodolu (There are several reserved ranges that might contain other codes, used by a specific application or distribution-those should be looked up in the ... documentation)|corresponding
-kopā ar, pavadīt, Tev ir kompanjons, beidzas ar ied (each return code would be ... on the frontend with an explanatory message like the above)|accompanied
+kopā ar, pavadīt, beidzas ar ied (each return code would be ... on the frontend with an explanatory message like the above)|accompanied
 vēlme, kāre (This way, we can create a single user parameter and use it for any service we ...)|desire
 atbilstošs, piemērots (For an item like that, the ... key would be 'blablabla')|appropriate
 patentēta, ipašuma (they are quite popular in ... software)|proprietary
@@ -138,7 +138,7 @@ blāvs, garlaicīgs, truls, neass (the weather is miserable and ...)|dull
 līņāt, smidzināt, smalks lietus|drizzle
 ērtība, izdevīgums (push notifications provide ... and value to app users)|convenience
 saskaņā ar (you will have to set it ... to the values provided)|according
-vidējais rādītājs (trends are data calculated from history and ... for every hour to reduce long-term storage requirements)|averaged
+pa vidu izmērītais (trends are data calculated from history and ... for every hour to reduce long-term storage requirements)|averaged
 patērējoši (in a large installation, navigating like this could be very time ...)|consuming
 iepriekšējais (if the output you see matches the ... output, continue by ussuing the following command)|preceding
 aprakstošs (feel free to choose a ... name, or simple type another host)|descriptive
