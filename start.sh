@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#sox and pico2wave needs to installed before using
-
 start=$(date +%s)
 
 if [ "$1" -eq "" ]; then
@@ -47,7 +45,6 @@ echo
 
 while [ $c -lt $s ]; do
 
-
 #take new word
 line=$(grep -v "^$" learnenglishpodcast.db | tail -$last | sort -R | head -1)
 
@@ -60,12 +57,12 @@ line=$(grep -v "^$" learnenglishpodcast.db | tail -$last | sort -R | head -1)
 	ask=$(echo "$line" | sed 's/|.*$//')
 
 	#ask the question
-	read -t 60 -p "$ask: " answer
+	read -p "$ask: " answer
 	
 	#calculate the correct answer
 	correct=$(echo "$line" | sed 's/^.*|//')
 	
-	#if there is some onswer typed in
+	#if there is some answer typed in
 	len=$(echo $answer | wc -w)
 	if [ $len -gt 0 ]; then
 
@@ -75,97 +72,72 @@ line=$(grep -v "^$" learnenglishpodcast.db | tail -$last | sort -R | head -1)
 
 		#if you typed correct answer
 		if [ $? -eq 0 ]; then
-		echo malacis!
+
+		c=$((c+1))
+		togo=$((s-c))
+
+		echo correct! $togo more to go
 		
 		#set one more word as known
-		c=$((c+1))
 
 		#put the word in database (session)
 		echo "$line">> "$tmp"
 
 		#the word in not coorect. bad news
 		else 
-		echo nav pareizi!
+		echo wrong!
 		sleep 1
 		clear
 		echo
-		echo $ask = $correct
+		echo "   your: $answer"
+		echo
+		echo "correct: $correct"
 		echo 
-		pico2wave -w correct.wav "$correct" > /dev/null
-		sleep 1
-		play -q correct.wav # > /dev/null
-		sleep 1
+		sleep 2
 
-		if [ -f "correct.wav" ]; then
-			rm "correct.wav"
-		fi
-		
 			echo "$line" | grep "(.*)" > /dev/null
 			if [ $? -eq 0 ]; then
 			full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
 			echo "$full"
-			pico2wave -w full.wav "$full" # > /dev/null
-			sleep 1
-			play -q full.wav # > /dev/null
-			
-				if [ -f "full.wav" ]; then
-					rm "full.wav"
-				fi	
-						
 			fi
 		
-		sleep 8
-
+		echo
+		read -p "Press any key to continue... "
 		
 		clear
 		e=$((e+1))
 		echo "$line">> "$todo"
 		fi
-		
-
 		
 		echo
 	
 	#if the answer was empy string
 	else
-		echo nav pareizi!
+		echo you gave an empty answer!
 		sleep 1
 		clear
 		echo
-		echo $ask = $correct
+		echo "   your: $answer"
+		echo
+		echo "correct: $correct"
 		echo 
-		pico2wave -w correct.wav "$correct" > /dev/null
-		play -q correct.wav > /dev/null
 
 		sleep 1
-		
-		if [ -f "correct.wav" ]; then
-			rm "correct.wav"
-		fi
 		
 			echo "$line" | grep "(.*)" > /dev/null
 			if [ $? -eq 0 ]; then
 			full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
 			echo "$full"
-			pico2wave -w full.wav "$full" # > /dev/null
-			sleep 1
-			play -q full.wav # > /dev/null
-			sleep 1
-			
-				if [ -f "full.wav" ]; then
-					rm "full.wav"
-				fi	
-				
 			fi
 		
-		sleep 8
-
+		echo
+		read -p "Press any key to continue... "
+		
 		clear
 		e=$((e+1))
 		echo "$line">> "$todo"
 
 	fi
-
 
 	#end of word [correct or not correct answer]
 	fi
@@ -177,7 +149,6 @@ done;
 end=$(date +%s)
 
 runtime=$((($(date +%s)-$start)/60)) 
-
 
 #all words has been parsed
 echo All $s words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
@@ -197,10 +168,3 @@ if [ -f "$todo" ]; then
   rm "$todo"
 fi
 
-if [ -f "correct.wav" ]; then
-  rm "correct.wav"
-fi
-
-if [ -f "full.wav" ]; then
-  rm "full.wav"
-fi
