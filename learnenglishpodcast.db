@@ -218,4 +218,20 @@ liktenis, četri burti|fate
 pienākums (Before we proceed, I'm ... to ask)|obliged
 pārdomāšu (Oh, baby, I'll ... my foolish notion)|reconsider
 jēdziens, priekšstats, uzskats (Oh, baby, I'll reconsider my foolish ...)|notion
-neatbilstība (The file containing false positive changes has an ... against the specification or specification is incorrect)|inconsistency
+neatbilstība, pa vidu ir vārds sist (The file containing false positive changes has an ... against the specification or specification is incorrect)|inconsistency
+pielāgots (each user will have a dedicated workstation with a ... desktop environment)|tailored
+nodrošinot (That's where actions come in, ... notifications and other methods to react upon condition change)|providing
+nosacījumu (That's where actions come in, providing notifications and other methods to react upon ... change)|condition
+paļaujas (The following activities ... on a correctly configured e-mail setup)|rely
+pārliecinās, nodrošina (This condition ... that the action will only do something when the problem happens)|ensures
+noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
+acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
+skatiens (The flow of information between Zabbix entities can be non-obvious at first ...)|glance
+beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK state)|ceases
+pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
+ICMP stands for|internet control message protocol
+aptverošs, plašs (we have gained quite ... knowledge of what kind of information we can gather using items)|comprehensive
+a summary of what has been said, pieci burti (let's ... what a trigger is)|recap
+jāapsver (a trigger defines when a condition is ... worthy of attention)|considered
+ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
+trūkst (trigger fires, when item data or ... of it matches a particular condition)|lack
