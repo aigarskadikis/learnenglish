@@ -195,7 +195,7 @@ nomierinoš, remdējošs (It’s the very early morning, when most people are as
 nodaļa (I could be staying in the emergency room or in the ... looking after patients)|ward
 nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
 apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
-zinošs, labi informēts, pa vidu vārdam ir līga (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
+zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
 filiāle (For example, a couple-of-minutes-long connection loss to a ... might not be critical)|branch office
 pakāpeniski, līdzīgi kā pabeigt skolu (Let's look at what tools Zabbix provides to enable such ... activities and configure a simple example)|gradual
 dalītājs (The biggest common ... for the starting time of delayed alerts)|divisor
@@ -205,7 +205,7 @@ aptver (If an operation ... steps 5-7)|spans
 veidot (With the first operation updated, let's ... the last few steps again)|model
 minēts (some trigger information and the last values of items that are being ... in triggers)|referenced
 izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
-pieņemot, vārdā ir divi 'ss' (We might want to make the following changes, ... that this is not a critical problem and does not warrant a quick response)|assuming
+pieņemot (We might want to make the following changes, ... that this is not a critical problem and does not warrant a quick response)|assuming
 ietverot (currently ... steps 1-5)|spanning
 izlika, kopā ar out (The first change for the default operation step ... all steps out)|spaced
 robeža (That resulted in some further operations not being so nicely aligned to the 5-minute ..., so we moved them to step 7)|boundary
@@ -235,3 +235,8 @@ a summary of what has been said, pieci burti (let's ... what a trigger is)|recap
 jāapsver (a trigger defines when a condition is ... worthy of attention)|considered
 ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
 trūkst (trigger fires, when item data or ... of it matches a particular condition)|lack
+solījumi (somebody got a head start on her ...)|vows
+bieži apmeklēt, viens vārds (a nearby Chinese restaurant that Einstein used to ...)|frequent
+smeļamais kauss, pavāra karote (too deep is a ..., not a spoon)|ladle
+apakšpunkts, below an average level|subpar
+nepārtraukti (We enlarge our team ... and we have a great team of experts working in different fields)|steadily
