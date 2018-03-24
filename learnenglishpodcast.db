@@ -31,7 +31,6 @@ tāpēc (I do not think people understand the effects completely and ... will no
 saglabāšana, konservēšana (Carolina and her boyfriend Jamie are members of a society at the university – the ... Society)|conservation
 īgņa, rubenis (I can not wait to see the black ...)|grouse
 dabas rezervāts (That is what they are trying to do at the ... - save the black grouse)|nature reserve
-dzīvšogi, daudzskaitlī (plant ....)|hedges 
 iedegums (trying to get a ...)|suntan
 sauļošanās (I am ... on the beach)|sunbathing
 ievērojamu vietu apskate, viens vārds (our two-week trip combines spectacular ... and superb hospitality)|sightseeing
@@ -95,7 +94,6 @@ pikšņa, ja nevar atrast mencu tad ēd pikšņu, hint-bija piestātne (It can b
 etiķis|vinegar
 norūpējušies, beidzas ar ed (As I say, it’s not very healthy and people are more ... about healthy eating these days)|concerned
 pārbaudes laiks|probation period
-izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 sadursme (we chose a key the would not ... with the native key)|clash
 piegādāt (we just ... item keys to the functions)|supplied
 atrasties, dzīvot, puses vārds iesaistīts vārdā (the item we created will ... on 'test host' only)|reside
@@ -106,12 +104,9 @@ rodas, rasties, uzplaukst kā saule (There are many simple and advanced checks y
 vilinošs, kārdinošs, beidzas ar ing (While it might be ... to add an item like this in the frontend, it is highly recommended to test all user parameters before configuring them in the frontend)|tempting
 burtu un ciparu (It is suggested that you keep key names to lowercase ... characters and dots)|alphanumeric
 niecīgs, nenozīmīgs, ikdienišķs (This ... user parameter actually illustrates a troubleshooting suggestion)|trivial
-atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
-ieteikts (User parameters are ... to be used as active items as they can tie up server connections if they do not return very quickly)|suggested
 iepriekš minētais (An alternative command for 'ss', matching the ... 'netstat' command, would be 'ss -t state connect')|aforementioned
 par laimi (If we want to monitor connections in different states, would we have to create a new user parameter for each? ..., no)|fortunately
 zvaigznīte, zīme ar ko apzīmē mainīgos, līdzīga reizināšanas zīmei|asterisk
-sekas, rezultāts, vārds sākas līdzīgi kā sirdsapziņa (it would assume the parameter is unsupported and deactivate it as a ...)|consequence
 atbilstošs, identiski pirkstu nospiedumi, vards sākas ar kodolu (There are several reserved ranges that might contain other codes, used by a specific application or distribution-those should be looked up in the ... documentation)|corresponding
 kopā ar, pavadīt, beidzas ar ied (each return code would be ... on the frontend with an explanatory message like the above)|accompanied
 vēlme, kāre (This way, we can create a single user parameter and use it for any service we ...)|desire
@@ -119,9 +114,7 @@ atbilstošs, piemērots (For an item like that, the ... key would be 'blablabla'
 patentēta, ipašuma (they are quite popular in ... software)|proprietary
 karpa|carp
 atšķirt (this makes it easier to ... this installation from other instances)|distinguish
-nevēlams (software that starts doing something on its own would probably be a bit ...)|undesirable
 iedrošināties, riskēt (before we ... deeper into these categories)|venture
-kas attiecas, par, sākas ar con (here, you can set some options ... your user account)|concerning
 nogurdinošs, mokošs, izsmeļošs (this is not an ... list of things to monitor)|exhaustive
 piemērots, vārds beidzas ar randiņu (systems are never fast enought to ... all needs)|accommodate
 caurlaidspēja|throughput
@@ -137,7 +130,6 @@ aptvert, piesegt (The unit did not ... nuclear weapons in as much detail as some
 blāvs, garlaicīgs, truls, neass (the weather is miserable and ...)|dull
 līņāt, smidzināt, smalks lietus|drizzle
 ērtība, izdevīgums (push notifications provide ... and value to app users)|convenience
-saskaņā ar (you will have to set it ... to the values provided)|according
 pa vidu izmērītais (trends are data calculated from history and ... for every hour to reduce long-term storage requirements)|averaged
 patērējoši (in a large installation, navigating like this could be very time ...)|consuming
 iepriekšējais (if the output you see matches the ... output, continue by ussuing the following command)|preceding
@@ -147,14 +139,12 @@ saistīts (This value should end up in the snmptraps item in Another host and ma
 atrisināts (One way to also enable the sending of messages when a trigger is ... would be to remove that condition, but it will not be useful when escalation functionality is used)|resolved
 pārklājas (That allows us to ... host group permissions with action conditions to create quite sophisticated notification scenarios)|overlap
 izsmalcināts (That allows us to overlap host group permissions with action conditions to create quite ... notification scenarios)|sophisticated
-noliegt (We may also match or ... a substring)|negate
 izcelt vienu pašu ārā (Allows us to ... an important or unimportant host for action invocation)|single out
 izsaukšana (A bit more flexible than the previous one, with this condition we can limit ... based on trigger name)|invocation
 pēc (only acting ... triggers that have the string database in their names)|upon
 izpildīts, īstenotas, novestas līdz galam (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
 nomākts, abspiests (Operations can be carried out only if a problem has happened in a specified time period, or they can be ... for a specified time period instead)|suppressed
 vituris (Actual ... letters are likely to be different in the Zabbix frontend as the conditions are ordered)|placeholder
-jo īpaši, sevišķi, sākas ar piezīmju bloku (But the last column, titled ACTIONS, is ... different)|notably
 vienības (A set of ... .items, triggers, etc. ready to be applied to one or several hosts)|entities
 novērtēšanas prasmes|estimation skills
 novērtējuma precizitāte|accuracy of estimate
@@ -163,8 +153,6 @@ galda piederumi|tableware
 nepareiza valoda|foul language
 kārtīgi (... comress bottles)|neatly
 attiecinātu (the item name to ... to the first, second.. ninth parameter of the item key)|refer
-lielapjoma atpazīšana|bulk acknowledgment
-pakārtotie hosti|downstream hosts
 izplūdušais (... trigger, then?)|fuzzy
 nodrošināt (... our vision)|provide
 pieklājīji (we are ... asking for you to upgrade your instance)|kindly
@@ -186,7 +174,6 @@ sparā (The work is already in full ..., we just need to test and finalize every
 palielināt (We ... our team steadily and we have a great team of experts working in different fields)|enlarge
 noejošs (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
 KPI stands for, tršais vārds saistīts ar gaismas diodi|key performance indicators
-daudzveidīga (Our audience is much ..., as Zabbix is suitable for everyone ranging from single users to global enterprises with highly distributed environment in different parts of the world)|diversified
 sākot no (Our audience is much diversified, as Zabbix is suitable for everyone ... from single users to global enterprises with highly distributed environment in different parts of the world)|ranging
 izpildīt (problem will be fixed automatically thanks to a built-in ability to ... problem auto-remediation)|perform
 pārmērīgs (With active items, log monitoring is both quick to react, as it is checking the file locally, and also avoids ... connections)|excessive
@@ -194,16 +181,11 @@ mazākums (But you’re in the ...)|minority
 nomierinoš, remdējošs (It’s the very early morning, when most people are asleep and there is a ... and peaceful silence)|soothing
 nodaļa (I could be staying in the emergency room or in the ... looking after patients)|ward
 nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
-apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
-zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
 filiāle (For example, a couple-of-minutes-long connection loss to a ... might not be critical)|branch office
 pakāpeniski, līdzīgi kā pabeigt skolu (Let's look at what tools Zabbix provides to enable such ... activities and configure a simple example)|gradual
 dalītājs (The biggest common ... for the starting time of delayed alerts)|divisor
-atzīmē (The two Steps fields ... the step this operation should start and end with)|denote
 apgrūtināt, kaitēt (On the other hand, it currently sends the message only once, but we want to ... our administrator for five minutes)|pester
 aptver (If an operation ... steps 5-7)|spans
-veidot (With the first operation updated, let's ... the last few steps again)|model
-minēts (some trigger information and the last values of items that are being ... in triggers)|referenced
 izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
 pieņemot (We might want to make the following changes, ... that this is not a critical problem and does not warrant a quick response)|assuming
 ietverot (currently ... steps 1-5)|spanning
@@ -227,19 +209,15 @@ pārliecinās, nodrošina (This condition ... that the action will only do somet
 noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
 acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
 skatiens (The flow of information between Zabbix entities can be non-obvious at first ...)|glance
-beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK state)|ceases
 pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
 ICMP stands for|internet control message protocol
 aptverošs, plašs (we have gained quite ... knowledge of what kind of information we can gather using items)|comprehensive
 a summary of what has been said, pieci burti (let's ... what a trigger is)|recap
-jāapsver (a trigger defines when a condition is ... worthy of attention)|considered
-ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
 trūkst (trigger fires, when item data or ... of it matches a particular condition)|lack
 solījumi (somebody got a head start on her ...)|vows
 bieži apmeklēt, viens vārds (a nearby Chinese restaurant that Einstein used to ...)|frequent
 smeļamais kauss, pavāra karote (too deep is a ..., not a spoon)|ladle
 apakšpunkts, below an average level|subpar
-nepārtraukti (We enlarge our team ... and we have a great team of experts working in different fields)|steadily
 aizrautīgi (High sense of responsibility, ability to work in a team and ... to learn and grow professionally)|eagerness
 ieguvums (Constant in-depth ... of Zabbix monitoring software)|acquisition
 apmeklēt (As a general rule, all persons wishing to ... the conference must register and pay for participation)|attend
@@ -247,20 +225,15 @@ realizēt, īstenot, paveikt (One of the first monitoring solutions most adminis
 cūkošanās (neat and clean script system starts to grow into a performance-... script hairball that costs more time in upkeep than it saves)|hogging
 a ball of hair that collects in the stomach of a cat or similar animal as a result of the animal's licking its coat|hairball
 apgalvo (While the do-it-yourself crowd ... that nobody needs dedicated software for most tasks)|claims
-veltīto, svinīgi atklāto, veltīt for life (While the do-it-yourself crowd claims that nobody needs ... software for most tasks)|dedicated
 atškirt (Humans are better at ... visualized data than raw numbers)|distinguishing
 pārvaldāms (In the quest for a ... monitoring system, wondrous adventurers stumbled upon collections of scripts)|manageable
-brīnumains (In the quest for a manageable monitoring system, ... adventurers stumbled upon collections of scripts)|wondrous
 uzdūrās, divi vārdi (In the quest for a manageable monitoring system, wondrous adventurers ... collections of scripts)|stumbled upon
 neērtība (We apologize for any ... caused by this)|inconvenience
 attiecībā uz (Open this logfile and look for any interesting messages ... active checks)|regarding
 līdzinieki, vienaudži (It would be better tomorrow, I would try to coordinate with my ... and let you know the exact time)|peers
 sarīkot, organizēt (Maybe it is better to ... remote session)|arrange
 pieprasījumi, apvaicāšanās (feel free to reopen if you have additional ...)|inquiries
-ierobežojuma, piespiešanas (duplicate key value violates unique ... "events_pkey")|constraint
 apgānīt, pārkāpj (duplicate key value ... unique constraint "events_pkey")|violates
-pamanījām, vārds ar priedēkli un nospiedumu (since this upgarde, we ... that the size of database increases considerably)|remark
-a lot of, daudz, ievērojami (since this upgarde, we remark that the size of database increases ...)|considerably
 uzturēt (Both ways will work, but external Perl script will be easier to ... for Linux system administrators)|maintain
 tendence, tieksme, virziens|trends
 uzlabojams (From a usability perspective the implementation of screen in zabbix is really ...)|improvable
@@ -272,7 +245,34 @@ aktīvs (Be very ... with this parameter-if cache usage significantly increases 
 skaņot, harmonēt (In the end, we looked at lower-level details and how we can ... all of that)|tune
 gludi (With SLA monitoring configured, we can happily proceed with making sure our systems run ...)|smoothly
 izgudrot, izdomāt (you are always free to ... your own mappings for custom-developed solutions)|invent
-ETA stands for|estimated time of arrival
 saskarties, sastapties, vārdā ir vārds skaitīt (If you ... any error messages, generated by this script, do not proceed, until you resolve the problem)|encounter
 smirdošs (Protecting your data from ... eyes)|prying
 salīdzina (Do not forget to set that your database support and ... utf8)|collate
+ieteikts (User parameters are ... to be used as active items as they can tie up server connections if they do not return very quickly)|suggested
+ierobežojuma, piespiešanas (duplicate key value violates unique ... "events_pkey")|constraint
+atzīmē (The two Steps fields ... the step this operation should start and end with)|denote
+a lot of, daudz, ievērojami (since this upgarde, we remark that the size of database increases ...)|considerably
+veltīto, svinīgi atklāto, veltīt for life (While the do-it-yourself crowd claims that nobody needs ... software for most tasks)|dedicated
+ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
+brīnumains (In the quest for a manageable monitoring system, ... adventurers stumbled upon collections of scripts)|wondrous
+nevēlams (software that starts doing something on its own would probably be a bit ...)|undesirable
+nepārtraukti (We enlarge our team ... and we have a great team of experts working in different fields)|steadily
+pamanījām, vārds ar priedēkli un nospiedumu (since this upgarde, we ... that the size of database increases considerably)|remark
+minēts (some trigger information and the last values of items that are being ... in triggers)|referenced
+jo īpaši, sevišķi, sākas ar piezīmju bloku (But the last column, titled ACTIONS, is ... different)|notably
+noliegt (We may also match or ... a substring)|negate
+veidot (With the first operation updated, let's ... the last few steps again)|model
+zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
+atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
+dzīvšogi, daudzskaitlī (plant ....)|hedges 
+izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
+ETA stands for|estimated time of arrival
+pakārtotie hosti|downstream hosts
+daudzveidīga (Our audience is much ..., as Zabbix is suitable for everyone ranging from single users to global enterprises with highly distributed environment in different parts of the world)|diversified
+jāapsver (a trigger defines when a condition is ... worthy of attention)|considered
+sekas, rezultāts, vārds sākas līdzīgi kā sirdsapziņa (it would assume the parameter is unsupported and deactivate it as a ...)|consequence
+apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
+kas attiecas, par, sākas ar con (here, you can set some options ... your user account)|concerning
+beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK state)|ceases
+lielapjoma atpazīšana|bulk acknowledgment
+saskaņā ar (you will have to set it ... to the values provided)|according
