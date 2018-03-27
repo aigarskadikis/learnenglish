@@ -282,7 +282,7 @@ pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the userna
 mūžīgs, patstāvīgs, vienmēr (This could be useful if we would like to extract some data that is not stored ... on the Zabbix server)|permanently
 atvasinājumi (Normally RHEL and ... have port 22 standard open in the firewall)|derivatives
 uzsākts, ierosināts (we need is a properly setup Zabbix server and a host with or without Zabbix agent as the check is ... by the Zabbix server)|initiated
-korekcijas, noregulēšana, uzstādīšana (we need to reload the firewall so that our ... become active)adjustments
+korekcijas, noregulēšana, uzstādīšana (we need to reload the firewall so that our ... become active)|adjustments
 mainīts, it tāds taustiņš uz klaviatūras (For this, we have to ... the file /etc/securetty first on the host)|alter
 iešņaukt (remember that anyone will be able to ... the root password)|sniff
 piemēram, divi vārdi (..., we can make use of avg, count, max, min, sum, and so on)|for instance
@@ -296,7 +296,7 @@ iesaistīt, iejaukt, iepīt (In bigger companies, monitoring will ... virtual ma
 mērogojams|scalable
 trūkumi, daudzskaitlī, sīmējuma-muguras (One of the ... is that Zabbix will create automatically a new guest for each VMware guest and link it to a VMware guest template)|drawbacks
 pacietība (After we have configured Zabbix for VMware monitoring, the only thing we need to have is some ...)|patience
-paredzēts, nojausts (Add a Description so that people know why there is a maintenance ...)|foreseen
+paredzētā tehniskā apkope (Add a Description so that people know why there is a ...)|maintenance foreseen
 atkārtojas (In this tab, we were able to do some more fine-tuning in our maintenance schedule, for example, ... periods on a weekly basis)|recurring
 apsvērums, apdomāšana (it's very useful to update for performance ... if not for the new features)|considerations
 
