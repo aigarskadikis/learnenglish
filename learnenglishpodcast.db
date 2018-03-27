@@ -299,4 +299,4 @@ pacietība (After we have configured Zabbix for VMware monitoring, the only thin
 paredzētā tehniskā apkope (Add a Description so that people know why there is a ...)|maintenance foreseen
 atkārtojas (In this tab, we were able to do some more fine-tuning in our maintenance schedule, for example, ... periods on a weekly basis)|recurring
 apsvērums, apdomāšana (it's very useful to update for performance ... if not for the new features)|considerations
-
+uz vietas|onsite
