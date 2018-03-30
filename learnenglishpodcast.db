@@ -300,3 +300,24 @@ paredzētā tehniskā apkope (Add a Description so that people know why there is
 atkārtojas (In this tab, we were able to do some more fine-tuning in our maintenance schedule, for example, ... periods on a weekly basis)|recurring
 apsvērums, apdomāšana (it's very useful to update for performance ... if not for the new features)|considerations
 uz vietas|onsite
+izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
+ierobežojumi (If you are trying to query a network device, it might have ... on who is allowed to use the SNMP agent)|restrictions
+tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|id divulged
+pildīts (This seems to be an APC UPS, and it's providing a lot of information ... in this output, including serial number and even firmware versions)|stuffed
+ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
+stenogrāfs, a method of rapid writing by means of abbreviations and symbols, used especially for taking dictation (Nevertheless, it is commonly referred to as just the OID, and we will use the same ... in this book)|shorthand
+sastāv (The OID itself currently ... of two parts, separated by two colons)|consists
+godīgi (As we have learned, Net-SNMP tools are ... good at supporting such a discovery process)|fairly
+atšķirties, mainīties (Device implementations can also ... in quality, so it might be useful to test your configuration of Zabbix against a known solution: Net-SNMP daemon)|vary
+vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values
+parādīt, paziņot, sākās ar veci (In Zabbix, this could ... as one device working properly but stopping when another one is added to monitoring)|manifest
+paplašināms (SNMP MIBs are ...-anybody can add new information, and many vendors do)|extensible
+ražotāja pārstāvis (A certain large printer ... claimed that they do not provide SNMP MIBs)|manufacturer representative
+bruņota ar šīm zināšanām (..., we can instruct any command to include this file)|armed with this knowledge
+aizdoma (snmpget included the correct MIB and obtained the full textual string, which confirms our ... that this might be a serial number)|suspicion
+apstiprina, apliecina (snmpget included the correct MIB and obtained the full textual string, which ... our suspicion that this might be a serial number)|confirms
+izlaist, neievērot (If you ... the +, the MIB list will be replaced with the one you specified)|omit
+uzturēties, patverties, glabāties (sometimes, you might have to ... to tools such as grep to find out which file contains which MIB)|resort
+garlaicīgs, nogurdinošs (While passing individual MIB names on the command line is nice for a quick one-time query, it gets very ... once you have to perform these actions more often and the MIB list grows)|tedious
+saprātīgs, prātīgs, uztverams (Enter something ..., such as Serial number, if you are using an OID from an SNMP agent)|sensible
+rezultāts, iznākums (Now, the ... will depend on several factors)|outcome
