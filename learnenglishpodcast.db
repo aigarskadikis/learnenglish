@@ -302,7 +302,7 @@ apsvērums, apdomāšana (it's very useful to update for performance ... if not 
 uz vietas|onsite
 izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
 ierobežojumi (If you are trying to query a network device, it might have ... on who is allowed to use the SNMP agent)|restrictions
-tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|id divulged
+tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|it divulged
 pildīts (This seems to be an APC UPS, and it's providing a lot of information ... in this output, including serial number and even firmware versions)|stuffed
 ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
 stenogrāfs, a method of rapid writing by means of abbreviations and symbols, used especially for taking dictation (Nevertheless, it is commonly referred to as just the OID, and we will use the same ... in this book)|shorthand
@@ -317,21 +317,21 @@ bruņota ar šīm zināšanām (..., we can instruct any command to include this
 aizdoma (snmpget included the correct MIB and obtained the full textual string, which confirms our ... that this might be a serial number)|suspicion
 apstiprina, apliecina (snmpget included the correct MIB and obtained the full textual string, which ... our suspicion that this might be a serial number)|confirms
 izlaist, neievērot (If you ... the +, the MIB list will be replaced with the one you specified)|omit
-uzturēties, patverties, glabāties (sometimes, you might have to ... to tools such as grep to find out which file contains which MIB)|resort
+bieži apmeklēt, patverties (sometimes, you might have to ... to tools such as grep to find out which file contains which MIB)|resort
 garlaicīgs, nogurdinošs (While passing individual MIB names on the command line is nice for a quick one-time query, it gets very ... once you have to perform these actions more often and the MIB list grows)|tedious
 saprātīgs, prātīgs, uztverams (Enter something ..., such as Serial number, if you are using an OID from an SNMP agent)|sensible
 rezultāts, iznākums (Now, the ... will depend on several factors)|outcome
 iegūt, atvasināt (But how do we ... the corresponding numeric OID from a textual one)|derive
 tīkls turp un atpakaļ|(While we could use snmpget to retrieve the particular value and output it in numeric form, that requires the availability of the device and ...)|network roundtrip
-atšķiras, neskrist (If you have such a device available, you can try monitoring it instead, though the network interface name will most likely ...)|differ
+atšķiras, nesakrist (If you have such a device available, you can try monitoring it instead, though the network interface name will most likely ...)|differ
 netālu, blakus (..., we can find actual information we are interested in-traffic values)|nearby
-salikts(Make sure that the ... OID is entered correctly, paying close attention to quotes and spelling)|compound
+salikts (Make sure that the ... OID is entered correctly, paying close attention to quotes and spelling)|compound
 kopējā slodze (Using dynamic index items can slightly increase ..., as two SNMP values are required to obtain the final data)|overall load
 lielapjoma pieprasījumi|bulk requests
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 daļēja decentralizācija, pa daļām (One drawback is ... of the configuration. SNMP trap-sending conditions and parameters have to be set for each device or device group individually)|partial decentralization
-have a mutual relationship or connection, in which one thing affects or depends on another (If the input voltage suddenly peaks or drops for a minute, your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
-papildinājums, piedeva (Instead, they ... them by leaving statistical information-gathering to the queries and providing notifications of various events happening in the devices, usually notifying us of emergencies)|supplement
+have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
+papildināt (Before we create a rule, it might be helpful to understand what an LLD rule is and what other entities ... it)|supplement
 izcelsmes (Filtering values by ... host)|originating
 ķēdes (Now, we should be able to receive SNMP traps through all the ... links)|chain
 pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
