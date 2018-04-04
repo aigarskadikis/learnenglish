@@ -336,3 +336,5 @@ izcelsmes (Filtering values by ... host)|originating
 ķēdes (Now, we should be able to receive SNMP traps through all the ... links)|chain
 pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
 aptumšot (For example, if a network switch is sending various traps, including link up and down ones, we'll probably want to place these in a single item so they do not ... other traps that much)|obscure
+pārmērīgs (other jvms now have missing data, leading to ... alerts)|excessive
+pagarināts (it is now ... until christmas)|prolonged
