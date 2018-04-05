@@ -338,3 +338,5 @@ pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
 aptumšot (For example, if a network switch is sending various traps, including link up and down ones, we'll probably want to place these in a single item so they do not ... other traps that much)|obscure
 pārmērīgs (other jvms now have missing data, leading to ... alerts)|excessive
 pagarināts (it is now ... until christmas)|prolonged
+something that deviates from what is standard, normal, or expected|anomalies
+aizvien vairāk (Our database server has become suddenly ... busy this afternoon resulting in many slow query notifications)|increasingly
