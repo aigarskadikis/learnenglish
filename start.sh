@@ -80,7 +80,7 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 			c=$((c+1))
 			togo=$((s-c))
 
-			echo correct! $togo more to go
+			echo correct! $togo more to go. $e incorrect answers.
 			
 			#set one more word as known
 

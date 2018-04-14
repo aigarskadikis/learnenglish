@@ -11,7 +11,6 @@ sirdsapziņa (if you do not tell the truth your ... is going to haunt you foreve
 saņemšana, kvīts, recepte (have you still got the ... ?)|receipt
 daudzskaitlis (Is nobody singular or ... ?)|plural
 tādā veidā, tādējādi (it cannot graph logs, ... there is a history link)|thus
-līdz šim (the website has been cracked three times ... )|thus far
 obligāts (required ... version)|mandatory
 piekraste (I am from Essex, from a small village - on the ..., but I have lived in London for a few years now)|coast
 smags, muļķīgs, ākstīgs (It is ... because it is quite close to Manchester)|daft
@@ -49,7 +48,6 @@ mantojums (I do not really wear this watch very often, but it is important to me
 prāmis|ferry
 tēvišķīgs (have a ... love from him)|fatherly
 sitiens, pļauka (and then suddenly reaches across the counter and . ... .)|thwack
-kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
 bākas (We are just coming out past the ... now into the open waters of the Atlantic Ocean)|lighthouses
 apmetnis (Batman in the black ...)|cape
 menca|cod
@@ -169,7 +167,6 @@ saremontēt (thanks to a built-in ability to perform problem auto-...)|remediati
 izvietojot (We organize Zabbix Meetups all around the globe, ... our users in their regions with the help of our partners)|uniting
 taču, cits vārds nevis though (..., frequent releases allow us to introduce more and more new things into Zabbix and deliver it faster to those who need it right now)|nevertheless
 sparā (The work is already in full ..., we just need to test and finalize everything)|swing
-palielināt (We ... our team steadily and we have a great team of experts working in different fields)|enlarge
 noejošs (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
 KPI stands for, tršais vārds saistīts ar gaismas diodi|key performance indicators
 sākot no (Our audience is much diversified, as Zabbix is suitable for everyone ... from single users to global enterprises with highly distributed environment in different parts of the world)|ranging
@@ -215,7 +212,6 @@ apmeklēt (As a general rule, all persons wishing to ... the conference must reg
 realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 cūkošanās (neat and clean script system starts to grow into a performance-... script hairball that costs more time in upkeep than it saves)|hogging
 a ball of hair that collects in the stomach of a cat or similar animal as a result of the animal's licking its coat|hairball
-apgalvo (While the do-it-yourself crowd ... that nobody needs dedicated software for most tasks)|claims
 atškirt (Humans are better at ... visualized data than raw numbers)|distinguishing
 pārvaldāms (In the quest for a ... monitoring system, wondrous adventurers stumbled upon collections of scripts)|manageable
 uzdūrās, divi vārdi (In the quest for a manageable monitoring system, wondrous adventurers ... collections of scripts)|stumbled upon
@@ -268,7 +264,6 @@ lielapjoma atpazīšana|bulk acknowledgment
 saskaņā ar (you will have to set it ... to the values provided)|according
 novecojis (the version of WhatsApp is ...)|obsolete
 ligzdošanas veidnes|nesting templates
-pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the username, password, and the ... link to the SDK)|proper
 mūžīgs, patstāvīgs, vienmēr (This could be useful if we would like to extract some data that is not stored ... on the Zabbix server)|permanently
 atvasinājumi (Normally RHEL and ... have port 22 standard open in the firewall)|derivatives
 uzsākts, ierosināts (we need is a properly setup Zabbix server and a host with or without Zabbix agent as the check is ... by the Zabbix server)|initiated
@@ -279,7 +274,6 @@ piemēram, divi vārdi (..., we can make use of avg, count, max, min, sum, and s
 ieteicams (It's always ... to use templates as much as possible)|advised
 mest, sviest, iegāzt (What we have not seen yet is a way to test our triggers before ... everything in production)|throwing
 uzraksts, sinonīms vārdam teika (The Show legend will display the graphs ... if marked)|legend
-attiecīgi (Items that are disabled or in maintenance status will get a square background in gray and orange ...)|respectively
 make small adjustments in order to achieve the best or a desired performance, divi vārdi (Press the Show filter button on top to ... the selection by host, host group, and period)|fine tune
 spraigums, spriegums (Palette will give you the ability to change the colors and the ...)|intensity
 mērogojams|scalable
@@ -374,3 +368,9 @@ izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a sing
 nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
 pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
 veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
+apgalvo (While the do-it-yourself crowd ... that nobody needs dedicated software for most tasks)|claims
+attiecīgi (Items that are disabled or in maintenance status will get a square background in gray and orange ...)|respectively
+kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
+līdz šim (the website has been cracked three times ... )|thus far
+palielināt (We ... our team steadily and we have a great team of experts working in different fields)|enlarge
+pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the username, password, and the ... link to the SDK)|proper
