@@ -41,7 +41,6 @@ lamu vārdi (we call this kind of word ...)|swear words
 rokas pulkstenis|wristwatch
 ādas siksna|leather strap
 uzvilkt to (I used to sit on my granddad's knee and play with his watch and he used to let me ...)|wind it up
-pulksteņa mehānisms|clockwork
 vinča, uzvelkamā atslēga (You wind it up there, with that ...)|winder
 mantojums (I do not really wear this watch very often, but it is important to me as a kind of ...)|heirloom
 žagas|hiccups
@@ -115,7 +114,6 @@ iedrošināties, riskēt (before we ... deeper into these categories)|venture
 nogurdinošs, mokošs, izsmeļošs (this is not an ... list of things to monitor)|exhaustive
 piemērots, vārds beidzas ar randiņu (systems are never fast enought to ... all needs)|accommodate
 caurlaidspēja|throughput
-prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
 iegūt (zabbix does not allow several values to be ... from a single key or from a single invocation)|obtained
 postošs, iznīcinošs, kaitīgs, bija tāda spēle .. derby (enable confirmation: This is a potentially ... action, so mark this checkbox)|destructive
 piesaukts (operation is an action property that defined what to do if this action is ..., and escalations were configured with the help of operations)|invoked
@@ -161,7 +159,6 @@ saremontēt (thanks to a built-in ability to perform problem auto-...)|remediati
 izvietojot (We organize Zabbix Meetups all around the globe, ... our users in their regions with the help of our partners)|uniting
 taču, cits vārds nevis though (..., frequent releases allow us to introduce more and more new things into Zabbix and deliver it faster to those who need it right now)|nevertheless
 sparā (The work is already in full ..., we just need to test and finalize everything)|swing
-noejošs (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
 KPI stands for, tršais vārds saistīts ar gaismas diodi|key performance indicators
 sākot no (Our audience is much diversified, as Zabbix is suitable for everyone ... from single users to global enterprises with highly distributed environment in different parts of the world)|ranging
 izpildīt (problem will be fixed automatically thanks to a built-in ability to ... problem auto-remediation)|perform
@@ -297,7 +294,6 @@ izcelsmes (Filtering values by ... host)|originating
 aptumšot (For example, if a network switch is sending various traps, including link up and down ones, we'll probably want to place these in a single item so they do not ... other traps that much)|obscure
 pārmērīgs (other jvms now have missing data, leading to ... alerts)|excessive
 pagarināts (it is now ... until christmas)|prolonged
-something that deviates from what is standard, normal, or expected|anomalies
 aizvien vairāk, pieagoši (Our database server has become suddenly ... busy this afternoon resulting in many slow query notifications)|increasingly
 novecojis (Zabbix Official Repository ...)|deprecated
 a mutual relationship or connection between two or more things|correlation
@@ -329,7 +325,6 @@ es zināmā mērā nepiekrītu|i disagree to some extent
 pāradresēt, bet ne forward (public relations policies are sometimes intended to ... attention away from criticism)|divert
 paredzēt, gaidīt, nojaust (Because multicultural audiences will likely become more and more common, you will need to ... cultural differences when you analyze your audience)|anticipate
 paredzēts (public relations policies are sometimes ... to divert attention away from criticism)|intended
-pieņēmums (That was the ... but needed to make sure)|assumption
 have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
 pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
 novērtē (Instead it ... the ICMP ping itself)|evaluates
@@ -360,7 +355,6 @@ beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK st
 apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
 ērtība, izdevīgums (push notifications provide ... and value to app users)|convenience
 nomierinoš, remdējošs (It’s the very early morning, when most people are asleep and there is a ... and peaceful silence)|soothing
-tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|it divulged
 uzdūrās, divi vārdi (In the quest for a manageable monitoring system, wondrous adventurers ... collections of scripts)|stumbled upon
 par, attiecoties uz (here, you can set some options ... your user account)|concerning
 minēts (some trigger information and the last values of items that are being ... in triggers)|referenced
@@ -380,3 +374,9 @@ norobežoti (As a solution to this problem I propose that all negotiation parame
 lieta, darišana, jautajums (The school is investigating the ...)|affair
 sarunu (As a solution to this problem I propose that all ... parameters be delimited at the end)|negotiation
 inquire too closely into a person's private affairs|prying
+tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|it divulged
+pēc vēlēšanās, ilgots, noejošs (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
+pieņēmums (That was the ... but needed to make sure)|assumption
+prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
+pulksteņa mehānisms|clockwork
+something that deviates from what is standard, normal, or expected|anomalies
