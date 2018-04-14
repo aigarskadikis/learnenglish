@@ -342,7 +342,6 @@ something that deviates from what is standard, normal, or expected|anomalies
 aizvien vairāk, pieagoši (Our database server has become suddenly ... busy this afternoon resulting in many slow query notifications)|increasingly
 novecojis (Zabbix Official Repository ...)|deprecated
 a mutual relationship or connection between two or more things|correlation
-novirzīt, noklīst (It would not be wise to ... from our planned course of action)|deviate
 gaidāms, paredzēts, cerēts (Internet access will take longer than ...)|anticipated
 risinājums (In such a case, it becomes very desirable to split incoming traps in some sort of logical structure, similar to the way we did with the Perl receiver ... earlier)|solution
 veikts (At the very least, a split based on existing hosts can be ...)|performed
@@ -351,7 +350,7 @@ pieeja (One way to ... trap distribution is to create custom mappings that choos
 apgrūtinoša, traucējošs, neērts (Such mapping, while being relatively ... to set up, is also the most flexible, as you can perform all kinds of specific case handling)|cumbersome
 izmests, atsacīts, atlaists (Any error output is ... -redirected to /dev/null- so in case of a database misconfiguration, traps are not lost but end up in the generic trap-handling host)|discarded
 vispārējs (Any error output is discarded, so in case of a database misconfiguration, traps are not lost but end up in the ... trap-handling host)|generic
-nedaudz samazināties (While that might ... the prettiness of the data, we want to keep this script simple for now and this will also improve performance a bit)|slightly decrease
+nedaudz (While that might ... decrease the prettiness of the data, we want to keep this script simple for now and this will also improve performance a bit)|slightly
 gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
 varbūt, iespējams (Depending on that, we'll decide whether it needs its own host with an snmptraps item, or ... even individual items for each trap type)|perhaps
 tūlīt noderīgi (While we have created several hosts by now, we only paid attention to the host properties that were ...)|immediately useful
@@ -372,5 +371,7 @@ saknes (will think together where can be the issue ...)|roots
 es zināmā mērā nepiekrītu|i disagree to some extent
 pieņēmums (That was the ... but needed to make sure)|assumption
 nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|irregular
-pāradresēt, novirzīt (public relations policies are sometimes intended to ... attention away from criticism)|divert
+pāradresēt, bet ne forward (public relations policies are sometimes intended to ... attention away from criticism)|divert
 paredzēts (public relations policies are sometimes ... to divert attention away from criticism)|intended
+paredzēt, gaidīt, nojaust (Because multicultural audiences will likely become more and more common, you will need to ... cultural differences when you analyze your audience)|anticipate
+novirzīt, noklīst, beidzās ar apēst pagātnē (It would not be wise to ... from our planned course of action)|deviate
