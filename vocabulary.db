@@ -159,7 +159,6 @@ sasniegts (it can be ...)|achieved
 guļ (That would allow them to do a quick evaluation of where the problem most likely ...)|lies
 kāpt, pieaugt (if the NFS service is down or is having performance problems of its own, then the system load on these two servers most likely has ... because of that, and the NFS server admin will have to take care of that)|risen
 apstiprinājums (This will make the outgoing recovery messages have a sort of a double-... that everything is good)|affirmation
-notikums, gadījums (The number at the end of the line is the event ID-a unique identifier of the ... of the problem)|occurrence
 pieeja (A very useful ... is automatically matching recovery messages with the problem ones)|approach
 unikāli (If you would want to ... identify the recovery event, there's yet another macro for that)|uniquely
 censties (There is Zabbix Professional Training for those who ... to become a true Zabbix expert)|strive
@@ -226,7 +225,6 @@ uzlabojams (From a usability perspective the implementation of screen in zabbix 
 drīzāk, visai, labāk (It is used to avoid scanning the history cache, which could get ... large)|rather
 apsūdzēt, apvainot (Students should not ... others of cheating unless there is clear evidence)|accuse
 atspoguļo, atstaro (drag it to the left and then release, and the graph is updated to ... the period changes)|reflect
-nepiemērots, neatbilstošs (As we discussed before, simply gathering data is nice, but awfully ...)|inadequate
 aktīvs (Be very ... with this parameter-if cache usage significantly increases or you plan to add monitoring for lots of new hosts, increase the configuration cache)|proactive
 skaņot, harmonēt (In the end, we looked at lower-level details and how we can ... all of that)|tune
 gludi (With SLA monitoring configured, we can happily proceed with making sure our systems run ...)|smoothly
@@ -374,3 +372,5 @@ palielināt (We ... our team steadily and we have a great team of experts workin
 pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the username, password, and the ... link to the SDK)|proper
 pārkāpj, apgānīt (duplicate key value ... unique constraint "events_pkey")|violates
 izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
+nepiemērots, neatbilstošs (As we discussed before, simply gathering data is nice, but awfully ...)|inadequate
+notikums, gadījums (The number at the end of the line is the event ID-a unique identifier of the ... of the problem)|occurrence

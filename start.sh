@@ -167,6 +167,7 @@ echo The programm was terminated by user cheat "end"
 echo
 fi
 
+echo
 if [ $e -gt 0 ]; then
 echo Words that you need to take time with are:
 #count occurrences of a words who did not work well
