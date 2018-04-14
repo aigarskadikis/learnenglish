@@ -160,7 +160,7 @@ runtime=$((($(date +%s)-$start)/60))
 #if the programm was terminated by user
 echo "end" | grep "$answer" > /dev/null
 if [ $? -ne 0 ]; then
-echo All $s words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
+echo $c words you have parsed. Number of errors are $e. Total time spent is $runtime minutes. 
 else
 echo
 echo The programm was terminated by user cheat "end"
