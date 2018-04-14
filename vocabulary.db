@@ -166,7 +166,6 @@ pieeja (A very useful ... is automatically matching recovery messages with the p
 unikāli (If you would want to ... identify the recovery event, there's yet another macro for that)|uniquely
 censties (There is Zabbix Professional Training for those who ... to become a true Zabbix expert)|strive
 saremontēt (thanks to a built-in ability to perform problem auto-...)|remediation
-audzināt (What has your project team done to help build and ... your community)|nurture
 izvietojot (We organize Zabbix Meetups all around the globe, ... our users in their regions with the help of our partners)|uniting
 taču, cits vārds nevis though (..., frequent releases allow us to introduce more and more new things into Zabbix and deliver it faster to those who need it right now)|nevertheless
 sparā (The work is already in full ..., we just need to test and finalize everything)|swing
@@ -179,17 +178,13 @@ pārmērīgs (With active items, log monitoring is both quick to react, as it is
 mazākums (But you’re in the ...)|minority
 nomierinoš, remdējošs (It’s the very early morning, when most people are asleep and there is a ... and peaceful silence)|soothing
 nodaļa (I could be staying in the emergency room or in the ... looking after patients)|ward
-nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
 filiāle (For example, a couple-of-minutes-long connection loss to a ... might not be critical)|branch office
 pakāpeniski, līdzīgi kā pabeigt skolu (Let's look at what tools Zabbix provides to enable such ... activities and configure a simple example)|gradual
 dalītājs (The biggest common ... for the starting time of delayed alerts)|divisor
-apgrūtināt, kaitēt (On the other hand, it currently sends the message only once, but we want to ... our administrator for five minutes)|pester
 aptver (If an operation ... steps 5-7)|spans
-izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
 pieņemot (We might want to make the following changes, ... that this is not a critical problem and does not warrant a quick response)|assuming
 ietverot (currently ... steps 1-5)|spanning
 robeža (That resulted in some further operations not being so nicely aligned to the 5-minute ..., so we moved them to step 7)|boundary
-veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
 piesardzīgi (We must be ... in how we interpret the data)|cautious
 saprātīgi (most players don't think ... about a throw)|consciously
 piesardzību (anyone receiving a suspect package should exercise extreme ...|caution
@@ -205,9 +200,7 @@ nosacījumu (That's where actions come in, providing notifications and other met
 paļaujas (The following activities ... on a correctly configured e-mail setup)|rely
 pārliecinās, nodrošina (This condition ... that the action will only do something when the problem happens)|ensures
 noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
-acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
 skatiens (The flow of information between Zabbix entities can be non-obvious at first ...)|glance
-pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
 ICMP stands for|internet control message protocol
 aptverošs, plašs (we have gained quite ... knowledge of what kind of information we can gather using items)|comprehensive
 a summary of what has been said, pieci burti (let's ... what a trigger is)|recap
@@ -263,7 +256,6 @@ veidot (With the first operation updated, let's ... the last few steps again)|mo
 zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
 atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
 dzīvšogi, daudzskaitlī (plant ....)|hedges 
-izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 ETA stands for|estimated time of arrival
 pakārtotie hosti|downstream hosts
 daudzveidīga (Our audience is much ..., as Zabbix is suitable for everyone ranging from single users to global enterprises with highly distributed environment in different parts of the world)|diversified
@@ -301,7 +293,6 @@ izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more th
 ierobežojumi (If you are trying to query a network device, it might have ... on who is allowed to use the SNMP agent)|restrictions
 tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|it divulged
 pildīts (This seems to be an APC UPS, and it's providing a lot of information ... in this output, including serial number and even firmware versions)|stuffed
-ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
 stenogrāfs, a method of rapid writing by means of abbreviations and symbols, used especially for taking dictation (Nevertheless, it is commonly referred to as just the OID, and we will use the same ... in this book)|shorthand
 sastāv (The OID itself currently ... of two parts, separated by two colons)|consists
 godīgi (As we have learned, Net-SNMP tools are ... good at supporting such a discovery process)|fairly
@@ -374,3 +365,12 @@ nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|i
 vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values
 izlika, kopā ar out (The first change for the default operation step ... all steps out)|spaced
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
+acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
+apgrūtināt, kaitēt (On the other hand, it currently sends the message only once, but we want to ... our administrator for five minutes)|pester
+audzināt (What has your project team done to help build and ... your community)|nurture
+ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
+izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
+izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
+nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
+pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
+veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
