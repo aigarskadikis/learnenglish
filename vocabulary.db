@@ -292,7 +292,6 @@ uzraksts, sinonīms vārdam teika (The Show legend will display the graphs ... i
 attiecīgi (Items that are disabled or in maintenance status will get a square background in gray and orange ...)|respectively
 make small adjustments in order to achieve the best or a desired performance, divi vārdi (Press the Show filter button on top to ... the selection by host, host group, and period)|fine tune
 spraigums, spriegums (Palette will give you the ability to change the colors and the ...)|intensity
-iesaistīt, iejaukt, iepīt (In bigger companies, monitoring will ... virtual machines, machines in DMZ and machines in other locations including other parts of the world)|involve
 mērogojams|scalable
 trūkumi, daudzskaitlī, sīmējuma-muguras (One of the ... is that Zabbix will create automatically a new guest for each VMware guest and link it to a VMware guest template)|drawbacks
 pacietība (After we have configured Zabbix for VMware monitoring, the only thing we need to have is some ...)|patience
@@ -309,7 +308,6 @@ stenogrāfs, a method of rapid writing by means of abbreviations and symbols, us
 sastāv (The OID itself currently ... of two parts, separated by two colons)|consists
 godīgi (As we have learned, Net-SNMP tools are ... good at supporting such a discovery process)|fairly
 atšķirties, mainīties (Device implementations can also ... in quality, so it might be useful to test your configuration of Zabbix against a known solution: Net-SNMP daemon)|vary
-vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values
 parādīt, paziņot, sākās ar veci (In Zabbix, this could ... as one device working properly but stopping when another one is added to monitoring)|manifest
 paplašināms (SNMP MIBs are ...-anybody can add new information, and many vendors do)|extensible
 ražotāja pārstāvis (A certain large printer ... claimed that they do not provide SNMP MIBs)|manufacturer representative
@@ -330,11 +328,9 @@ kopējā slodze (Using dynamic index items can slightly increase ..., as two SNM
 lielapjoma pieprasījumi|bulk requests
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 daļēja decentralizācija, pa daļām (One drawback is ... of the configuration. SNMP trap-sending conditions and parameters have to be set for each device or device group individually)|partial decentralization
-have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
 papildināt (Before we create a rule, it might be helpful to understand what an LLD rule is and what other entities ... it)|supplement
 izcelsmes (Filtering values by ... host)|originating
 ķēdes (Now, we should be able to receive SNMP traps through all the ... links)|chain
-pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
 aptumšot (For example, if a network switch is sending various traps, including link up and down ones, we'll probably want to place these in a single item so they do not ... other traps that much)|obscure
 pārmērīgs (other jvms now have missing data, leading to ... alerts)|excessive
 pagarināts (it is now ... until christmas)|prolonged
@@ -355,7 +351,6 @@ gaišums, glītums, jaukums (While that might slightly decrease the ... of the d
 varbūt, iespējams (Depending on that, we'll decide whether it needs its own host with an snmptraps item, or ... even individual items for each trap type)|perhaps
 tūlīt noderīgi (While we have created several hosts by now, we only paid attention to the host properties that were ...)|immediately useful
 atkarīgs, paļauties, atkarāties (Your final course grade will ... on your grades in the 3 trimester exams)|depend
-novērtē (Instead it ... the ICMP ping itself)|evaluates
 tādēļ (... the greyed out item in latest data)|hence
 uz priekšu (the shifts have been assigned for this week ...)|onwards
 izturēt, nēsāt, paciest, panest (Furthermore please ... with me)|bear
@@ -366,12 +361,16 @@ sirsnīgāko (Please accept my ... apology that it happened again)|sincerest
 apvienotās pūles|combined effort
 arrange in a series or sequence (It causes error in TLS layer, which ... into DB connection error)|cascades
 occurring at irregular intervals or only in a few places|sporadic
-iesaistīt (Some of the approaches you can try when troubleshooting the issue may ... reinstalling the browser completely on your OS)|involve
 saknes (will think together where can be the issue ...)|roots
 es zināmā mērā nepiekrītu|i disagree to some extent
-pieņēmums (That was the ... but needed to make sure)|assumption
-nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|irregular
 pāradresēt, bet ne forward (public relations policies are sometimes intended to ... attention away from criticism)|divert
 paredzēt, gaidīt, nojaust (Because multicultural audiences will likely become more and more common, you will need to ... cultural differences when you analyze your audience)|anticipate
-novirzīt (It would not be wise to ... from our planned course of action)|deviate
 paredzēts (public relations policies are sometimes ... to divert attention away from criticism)|intended
+pieņēmums (That was the ... but needed to make sure)|assumption
+have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
+novirzīt (It would not be wise to ... from our planned course of action)|deviate
+pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
+novērtē (Instead it ... the ICMP ping itself)|evaluates
+iesaistīt, iejaukt, iepīt (Some of the approaches you can try when troubleshooting the issue may ... reinstalling the browser completely on your OS)|involve
+nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|irregular
+vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values

@@ -173,7 +173,8 @@ echo Words that you need to take time with are:
 sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
 echo
 #calculate all words wich have more than 1 error. add useless line at the end
-critical=$(sed "s/^.*|//g" "$todo" | sort | uniq -c | grep -v "^[\t ]\+1 " | sed -e '$aend')
+critical=$(sed "s/^.*|//g" "$todo" | sort | uniq -c | sed -e '$aend')
+#grep -v "^[\t ]\+1 " |
 echo Critical words:
 echo "$critical" | sed '$ d'
 
