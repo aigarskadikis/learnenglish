@@ -39,14 +39,14 @@ c=0
 e=0
 
 #size of database
-s=$(grep -v "^$" learnenglishpodcast.db | tail -$last | wc -l)
+s=$(grep -v "^$" vocabulary.db | tail -$last | wc -l)
 echo datubazes vārdu krājums ir $s
 echo
 
 while [ $c -lt $s ]; do
 
 #take new word
-line=$(grep -v "^$" learnenglishpodcast.db | tail -$last | sort -R | head -1)
+line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 
 	grep "$line" "$tmp" > /dev/null
 
