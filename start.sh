@@ -2,7 +2,7 @@
 
 start=$(date +%s)
 
-if [ "$1" -eq "" ]; then
+if [ -z "$1" ]; then
 last=500
 else
 last=$1
