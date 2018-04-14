@@ -40,7 +40,7 @@ e=0
 
 #size of database
 s=$(grep -v "^$" vocabulary.db | tail -$last | wc -l)
-echo datubazes vārdu krājums ir $s
+echo the disctionary size is $s
 echo
 
 while [ $c -lt $s ]; do
@@ -70,8 +70,8 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 		#compare the correct answer with user input
 		echo $correct | grep "$answer" > /dev/null
 
-		#if you typed correct answer
-		if [ $? -eq 0 ]; then
+		#if you typed correct answer and the letter count is equal
+		if [ $? -eq 0 -a ${#correct} -eq ${#answer} ]; then
 
 		c=$((c+1))
 		togo=$((s-c))
