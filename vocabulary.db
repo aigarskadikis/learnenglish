@@ -160,7 +160,6 @@ versijas novērtējums|estimate of version
 sasniegts (it can be ...)|achieved
 guļ (That would allow them to do a quick evaluation of where the problem most likely ...)|lies
 kāpt, pieaugt (if the NFS service is down or is having performance problems of its own, then the system load on these two servers most likely has ... because of that, and the NFS server admin will have to take care of that)|risen
-sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
 apstiprinājums (This will make the outgoing recovery messages have a sort of a double-... that everything is good)|affirmation
 notikums, gadījums (The number at the end of the line is the event ID-a unique identifier of the ... of the problem)|occurrence
 pieeja (A very useful ... is automatically matching recovery messages with the problem ones)|approach
@@ -189,7 +188,6 @@ aptver (If an operation ... steps 5-7)|spans
 izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
 pieņemot (We might want to make the following changes, ... that this is not a critical problem and does not warrant a quick response)|assuming
 ietverot (currently ... steps 1-5)|spanning
-izlika, kopā ar out (The first change for the default operation step ... all steps out)|spaced
 robeža (That resulted in some further operations not being so nicely aligned to the 5-minute ..., so we moved them to step 7)|boundary
 veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
 piesardzīgi (We must be ... in how we interpret the data)|cautious
@@ -374,3 +372,5 @@ novērtē (Instead it ... the ICMP ping itself)|evaluates
 iesaistīt, iejaukt, iepīt (Some of the approaches you can try when troubleshooting the issue may ... reinstalling the browser completely on your OS)|involve
 nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|irregular
 vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values
+izlika, kopā ar out (The first change for the default operation step ... all steps out)|spaced
+sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
