@@ -220,7 +220,6 @@ attiecībā uz (Open this logfile and look for any interesting messages ... acti
 līdzinieki, vienaudži (It would be better tomorrow, I would try to coordinate with my ... and let you know the exact time)|peers
 sarīkot, organizēt (Maybe it is better to ... remote session)|arrange
 pieprasījumi, apvaicāšanās (feel free to reopen if you have additional ...)|inquiries
-apgānīt, pārkāpj (duplicate key value ... unique constraint "events_pkey")|violates
 uzturēt (Both ways will work, but external Perl script will be easier to ... for Linux system administrators)|maintain
 tendence, tieksme, virziens|trends
 uzlabojams (From a usability perspective the implementation of screen in zabbix is really ...)|improvable
@@ -364,7 +363,6 @@ apgrūtināt, kaitēt (On the other hand, it currently sends the message only on
 audzināt (What has your project team done to help build and ... your community)|nurture
 ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
 izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
-izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
 nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
 pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
 veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
@@ -374,3 +372,5 @@ kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
 līdz šim (the website has been cracked three times ... )|thus far
 palielināt (We ... our team steadily and we have a great team of experts working in different fields)|enlarge
 pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the username, password, and the ... link to the SDK)|proper
+pārkāpj, apgānīt (duplicate key value ... unique constraint "events_pkey")|violates
+izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for

@@ -43,7 +43,7 @@ s=$(grep -v "^$" vocabulary.db | tail -$last | wc -l)
 echo the disctionary size is $s
 echo
 
-while [ $c -lt $s ]; do
+while [ $c -lt $s -a $e -lt 2 ]; do
 
 #take new word
 line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
