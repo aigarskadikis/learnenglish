@@ -3,9 +3,9 @@
 start=$(date +%s)
 
 if [ ! -z "$1" ]; then
-last=500
-else
 last=$1
+else
+last=500
 fi
 
 clear
