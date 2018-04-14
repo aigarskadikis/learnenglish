@@ -173,28 +173,29 @@ echo Words that you need to take time with are:
 sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
 echo
 #calculate all words wich have more than 1 error. add useless line at the end
-critical=$(sed "s/^.*|//g" "$todo" | sort | uniq -c | sed -e '$aend')
+#critical=$(sed "s/^.*|//g" "$todo" | sort | uniq -c | sed -e '$aend')
+critical=$(cat "$todo" | sort | uniq -c | sed -e '$aend')
 #grep -v "^[\t ]\+1 " |
 echo Critical words:
 echo "$critical" | sed '$ d'
 
 #lets move the complicated word to the bottom of database
-printf %s "$critical" | while IFS= read -r oneword
+printf %s "$critical" | while IFS= read -r line
 do {
 #remove number
-clean=$(echo "$oneword" | sed "s/^.*[0-9]\+ //")
 
-#search the line in database 
-line=$(grep "|$clean$" vocabulary.db)
+#search the line number which is not understandable
+linenr=$(grep -n "$line" vocabulary.db | cut -f1 -d:)
 
 #delete appropriate line in file
-sed -i "/$line/d" vocabulary.db
+sed -i -e "$(echo $linenr)d" vocabulary.db
 
 #add the line at the end
 echo "$line" >> vocabulary.db
 
 } done
 
+#remove lines without content
 sed -i '/^$/d' vocabulary.db
 
 fi
