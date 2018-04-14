@@ -365,8 +365,6 @@ nepieciešams (Add the user that Zabbix would connect to the database as, and gr
 pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
 veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
 apgalvo (While the do-it-yourself crowd ... that nobody needs dedicated software for most tasks)|claims
-attiecīgi (Items that are disabled or in maintenance status will get a square background in gray and orange ...)|respectively
-kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
 līdz šim (the website has been cracked three times ... )|thus far
 palielināt (We ... our team steadily and we have a great team of experts working in different fields)|enlarge
 pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the username, password, and the ... link to the SDK)|proper
@@ -374,3 +372,5 @@ pārkāpj, apgānīt (duplicate key value ... unique constraint "events_pkey")|v
 izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
 nepiemērots, neatbilstošs (As we discussed before, simply gathering data is nice, but awfully ...)|inadequate
 notikums, gadījums (The number at the end of the line is the event ID-a unique identifier of the ... of the problem)|occurrence
+attiecīgi (Items that are disabled or in maintenance status will get a square background in gray and orange ...)|respectively
+kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
