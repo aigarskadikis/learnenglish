@@ -172,12 +172,15 @@ echo Words that you need to take time with are:
 #count occurrences of a words who did not work well
 sed "s/^.*|//g" "$todo" | sort | uniq -c | sort -nr
 echo
-#calculate all words wich have more than 1 error. add useless line at the end
+#calculate all words wich have more than 1 error.
 #critical=$(sed "s/^.*|//g" "$todo" | sort | uniq -c | sed -e '$aend')
-critical=$(cat "$todo" | sort | uniq -c | sed -e '$aend')
-#grep -v "^[\t ]\+1 " |
-echo Critical words:
-echo "$critical" | sed '$ d'
+critical=$(cat "$todo" | sort | uniq -c)
+
+#echo Critical words:
+echo "$critical"
+
+#calculate again critical words without count. add useless line at the end
+critical=$(cat "$todo" | sort | uniq | sed -e '$aend')
 
 #lets move the complicated word to the bottom of database
 printf %s "$critical" | while IFS= read -r line
