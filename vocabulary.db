@@ -206,7 +206,6 @@ neērtība (We apologize for any ... caused by this)|inconvenience
 attiecībā uz (Open this logfile and look for any interesting messages ... active checks)|regarding
 līdzinieki, vienaudži (It would be better tomorrow, I would try to coordinate with my ... and let you know the exact time)|peers
 sarīkot, organizēt (Maybe it is better to ... remote session)|arrange
-pieprasījumi, apvaicāšanās (feel free to reopen if you have additional ...)|inquiries
 uzturēt (Both ways will work, but external Perl script will be easier to ... for Linux system administrators)|maintain
 tendence, tieksme, virziens|trends
 uzlabojams (From a usability perspective the implementation of screen in zabbix is really ...)|improvable
@@ -250,7 +249,6 @@ korekcijas, noregulēšana, uzstādīšana (we need to reload the firewall so th
 mainīts, it tāds taustiņš uz klaviatūras (For this, we have to ... the file /etc/securetty first on the host)|alter
 iešņaukt (remember that anyone will be able to ... the root password)|sniff
 piemēram, divi vārdi (..., we can make use of avg, count, max, min, sum, and so on)|for instance
-ieteicams (It's always ... to use templates as much as possible)|advised
 mest, sviest, iegāzt (What we have not seen yet is a way to test our triggers before ... everything in production)|throwing
 uzraksts, sinonīms vārdam teika (The Show legend will display the graphs ... if marked)|legend
 make small adjustments in order to achieve the best or a desired performance, divi vārdi (Press the Show filter button on top to ... the selection by host, host group, and period)|fine tune
@@ -380,3 +378,10 @@ have a mutual relationship or connection, in which one thing affects or depends 
 sarunu (As a solution to this problem I propose that all ... parameters be delimited at the end)|negotiation
 apgrūtināt, kaitēt (On the other hand, it currently sends the message only once, but we want to ... our administrator for five minutes)|pester
 gripa|flu
+ieteicams (It's always ... to use templates as much as possible)|advised
+pieprasījumi, apvaicāšanās (feel free to reopen if you have additional ...)|inquiries
+apieties (Say please, how should we ... this ticket?)|treat
+reizēm, laiku pa laikam (Zabbix daemons now read /etc/resolv.conf file ...)|occasionally
+negaidīts (In this case I suppose you have ... alerts)|unexpected
+izstrādāts-rūpīgi (the key idea of the book is expressed in the title and elaborated in the text)|elaborated
+saglabāt, pasargāt (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
