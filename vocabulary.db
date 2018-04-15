@@ -322,7 +322,6 @@ saknes (will think together where can be the issue ...)|roots
 es zināmā mērā nepiekrītu|i disagree to some extent
 pāradresēt, bet ne forward (public relations policies are sometimes intended to ... attention away from criticism)|divert
 paredzēt, gaidīt, nojaust (Because multicultural audiences will likely become more and more common, you will need to ... cultural differences when you analyze your audience)|anticipate
-have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
 novērtē (Instead it ... the ICMP ping itself)|evaluates
 iesaistīt, iejaukt, iepīt (Some of the approaches you can try when troubleshooting the issue may ... reinstalling the browser completely on your OS)|involve
 nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|irregular
@@ -349,28 +348,20 @@ kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
 kāpt, pieaugt (if the NFS service is down or is having performance problems of its own, then the system load on these two servers most likely has ... because of that, and the NFS server admin will have to take care of that)|risen
 beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK state)|ceases
 apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
-nomierinoš, remdējošs (It’s the very early morning, when most people are asleep and there is a ... and peaceful silence)|soothing
-uzdūrās, divi vārdi (In the quest for a manageable monitoring system, wondrous adventurers ... collections of scripts)|stumbled upon
 par, attiecoties uz (here, you can set some options ... your user account)|concerning
 novirzīt (It would not be wise to ... from our planned course of action)|deviate
 pamatotu, garantētu, attaisnotu (if we had a trigger that ... rebooting the whole system, we would create an action with appropriate conditions)|warranted
 aptver (If an operation ... steps 5-7)|spans
 gripa|flu
-apsūdzēt, apvainot (Students should not ... others of cheating unless there is clear evidence)|accuse
-ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
 nepārprotami (this is the property that ... specifies what data has to be gathered for this item)|explicitly
 noskaidrot, jautāt (Where can I ... about the teaching job I saw in the newspaper?)|inquire
 gudrs, prātīgs (The government has taken the ... decision to consult the public before passing the proposed law)|wise
 ierosinu (As a solution to this problem I ... that all negotiation parameters be delimited at the end)|propose
-norobežoti (As a solution to this problem I propose that all negotiation parameters be ... at the end)|delimited
 lieta, darišana, jautajums (The school is investigating the ...)|affair
-sarunu (As a solution to this problem I propose that all ... parameters be delimited at the end)|negotiation
 inquire too closely into a person's private affairs|prying
-pēc vēlēšanās, ilgots, noejošs (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
 pieņēmums (That was the ... but needed to make sure)|assumption
 pulksteņa mehānisms|clockwork
 something that deviates from what is standard, normal, or expected|anomalies
-ērtība, izdevīgums (push notifications provide ... and value to app users)|convenience
 klātbūtne (let's check ... in Zabbix proxy database)|presence
 minēts (some trigger information and the last values of items that are being ... in triggers)|referenced
 pilnība, veselums (Excellent, we can see our trap in its ...)|entirety
@@ -380,3 +371,12 @@ apsvērums, apdomāšana (it's very useful to update for performance ... if not 
 paredzēts (public relations policies are sometimes ... to divert attention away from criticism)|intended
 prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
 saprātīgi (most players don't think ... about a throw)|consciously
+ērtība, izdevīgums (push notifications provide ... and value to app users)|convenience
+norobežoti (As a solution to this problem I propose that all negotiation parameters be ... at the end)|delimited
+pēc vēlēšanās, ilgots, noejošs (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
+apsūdzēt, apvainot (Students should not ... others of cheating unless there is clear evidence)|accuse
+ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
+nomierinoš, remdējošs (It’s the very early morning, when most people are asleep and there is a ... and peaceful silence)|soothing
+uzdūrās, divi vārdi (In the quest for a manageable monitoring system, wondrous adventurers ... collections of scripts)|stumbled upon
+have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
+sarunu (As a solution to this problem I propose that all ... parameters be delimited at the end)|negotiation
