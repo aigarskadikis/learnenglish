@@ -329,7 +329,6 @@ vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retri
 izlika, kopā ar out (The first change for the default operation step ... all steps out)|spaced
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
 acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
-apgrūtināt, kaitēt (On the other hand, it currently sends the message only once, but we want to ... our administrator for five minutes)|pester
 audzināt (What has your project team done to help build and ... your community)|nurture
 izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
@@ -352,7 +351,6 @@ par, attiecoties uz (here, you can set some options ... your user account)|conce
 novirzīt (It would not be wise to ... from our planned course of action)|deviate
 pamatotu, garantētu, attaisnotu (if we had a trigger that ... rebooting the whole system, we would create an action with appropriate conditions)|warranted
 aptver (If an operation ... steps 5-7)|spans
-gripa|flu
 nepārprotami (this is the property that ... specifies what data has to be gathered for this item)|explicitly
 noskaidrot, jautāt (Where can I ... about the teaching job I saw in the newspaper?)|inquire
 gudrs, prātīgs (The government has taken the ... decision to consult the public before passing the proposed law)|wise
@@ -380,3 +378,5 @@ nomierinoš, remdējošs (It’s the very early morning, when most people are as
 uzdūrās, divi vārdi (In the quest for a manageable monitoring system, wondrous adventurers ... collections of scripts)|stumbled upon
 have a mutual relationship or connection, in which one thing affects or depends on another (your checks might easily miss this event, thus making it impossible to ... it with problems with other devices that are not connected to the UPS)|correlate
 sarunu (As a solution to this problem I propose that all ... parameters be delimited at the end)|negotiation
+apgrūtināt, kaitēt (On the other hand, it currently sends the message only once, but we want to ... our administrator for five minutes)|pester
+gripa|flu
