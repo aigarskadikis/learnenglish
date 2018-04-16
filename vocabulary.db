@@ -333,7 +333,6 @@ pienācīgs, pieklājīgs (Zabbix with the needed credentials such as the userna
 pārkāpj, apgānīt (duplicate key value ... unique constraint "events_pkey")|violates
 izvēloties, divi vārdi (This time we wanted to avoid Resolved: OK:, ... a single mention that everything is good now)|opting for
 nepiemērots, neatbilstošs (As we discussed before, simply gathering data is nice, but awfully ...)|inadequate
-notikums, gadījums (The number at the end of the line is the event ID-a unique identifier of the ... of the problem)|occurrence
 attiecīgi (Items that are disabled or in maintenance status will get a square background in gray and orange ...)|respectively
 kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
 kāpt, pieaugt (if the NFS service is down or is having performance problems of its own, then the system load on these two servers most likely has ... because of that, and the NFS server admin will have to take care of that)|risen
@@ -374,14 +373,15 @@ gripa|flu
 ieteicams (It's always ... to use templates as much as possible)|advised
 apieties (Say please, how should we ... this ticket?)|treat
 negaidīts (In this case I suppose you have ... alerts)|unexpected
-reizēm, laiku pa laikam (Zabbix daemons now read /etc/resolv.conf file ...)|occasionally
 saglabāt, pasargāt (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
-izstrādāts-rūpīgi (the key idea of the book is expressed in the title and elaborated in the text)|elaborated
 iegūt, atvasināt (But how do we ... the corresponding numeric OID from a textual one)|derive
 līdz šim (the website has been cracked three times ... )|thus far
 pieprasījumi, apvaicāšanās (feel free to reopen if you have additional ...)|inquiries
 salīdzinājums (a better ... might be database failure)|comparison
 tūlīt noderīgi (While we have created several hosts by now, we only paid attention to the host properties that were ...)|immediately useful
 arrange in a series or sequence (It causes error in TLS layer, which ... into DB connection error)|cascades
-ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
 sirsnīgāko (Please accept my ... apology that it happened again)|sincerest
+ievērojami (It also has ... longer uptime than the previous systems: over 157 days)|considerably
+izstrādāts-rūpīgi (the key idea of the book is expressed in the title and elaborated in the text)|elaborated
+notikums, gadījums (The number at the end of the line is the event ID-a unique identifier of the ... of the problem)|occurrence
+reizēm, laiku pa laikam (Zabbix daemons now read /etc/resolv.conf file ...)|occasionally
