@@ -359,7 +359,6 @@ apsvērums, apdomāšana (it's very useful to update for performance ... if not 
 ķēdes (Now, we should be able to receive SNMP traps through all the ... links)|chain
 paredzēts (public relations policies are sometimes ... to divert attention away from criticism)|intended
 prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
-saprātīgi (most players don't think ... about a throw)|consciously
 ērtība, izdevīgums (push notifications provide ... and value to app users)|convenience
 norobežoti (As a solution to this problem I propose that all negotiation parameters be ... at the end)|delimited
 pieprasīts (But I am proud of what Zabbix has become, being highly competitive and ... in the market)|sought-after
@@ -373,7 +372,6 @@ gripa|flu
 ieteicams (It's always ... to use templates as much as possible)|advised
 apieties (Say please, how should we ... this ticket?)|treat
 negaidīts (In this case I suppose you have ... alerts)|unexpected
-saglabāt, pasargāt (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
 iegūt, atvasināt (But how do we ... the corresponding numeric OID from a textual one)|derive
 līdz šim (the website has been cracked three times ... )|thus far
 pieprasījumi, apvaicāšanās (feel free to reopen if you have additional ...)|inquiries
@@ -391,8 +389,6 @@ mēģinu (I'm ... to use discovery rules)|attempting
 nenozīmīgs, niecīgs, neievērojams (However the impact is ...)|insignificant
 spriedums (the jury returned a ... of 'not guilty')|verdict
 novērot (You should ... your installation and when it goes below the certain threshold - rise them up)|observe
-pretējs (Further should be notified with UP/DOWN parameters or even LOST which is ... to DISCOVERED)|opposite
-norāda (Nothing in the log ... about server problems)|indicates
 pieprasījums (Please consider this ... as resolved)|inquiry
 secinājām (As ... during a Webex session, the issue roots were in mismatch between the versions of Zabbix server and proxy)|concluded
 paskaidrot (Could you please ... the homework for me?)|clarify
@@ -401,8 +397,12 @@ go for and then bring back|fetch
 paradzētais (the ... victim escaped)|intended
 neērtības (sorry for the ... caused)|inconveniences
 kas sastāv no (an apparatus for signaling, ... an upright with movable parts)|consisting of
-secinājuma (each research group came to a similar ...)|conclusion
-the action or process of throwing away or getting rid of something|disposal
+iznīcināt, izlietot, noskaņot (We have never in history needed to ... of so much waste as we do today)|dispose
 an apparatus for signaling, consisting of an upright with movable parts|semaphore
 kļūdaini (they ... believed her to be pregnant)|mistakenly
-iznīcināt, izlietot, noskaņot (We have never in history needed to ... of so much waste as we do today)|dispose
+the action or process of throwing away or getting rid of something|disposal
+secinājuma (each research group came to a similar ...)|conclusion
+norāda (Nothing in the log ... about server problems)|indicates
+pretējs (Further should be notified with UP/DOWN parameters or even LOST which is ... to DISCOVERED)|opposite
+saglabāt, pasargāt (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
+saprātīgi (most players don't think ... about a throw)|consciously
