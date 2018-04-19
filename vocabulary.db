@@ -8,7 +8,6 @@ divvalodīga (a ... secretary)|bilingual
 uz ārzemēm, ārpus mājas, ārzemes (do you go ... to watch the big races?)|abroad
 kopums, kopumā (so I think on the ... I think it is better to tell the truth)|whole
 sirdsapziņa (if you do not tell the truth your ... is going to haunt you forever)|conscience
-saņemšana, kvīts, recepte (have you still got the ... ?)|receipt
 daudzskaitlis (Is nobody singular or ... ?)|plural
 tādā veidā, tādējādi (it cannot graph logs, ... there is a history link)|thus
 obligāts (required ... version)|mandatory
@@ -134,12 +133,10 @@ izsmalcināts (That allows us to overlap host group permissions with action cond
 izcelt vienu pašu ārā (Allows us to ... an important or unimportant host for action invocation)|single out
 izsaukšana (A bit more flexible than the previous one, with this condition we can limit ... based on trigger name)|invocation
 pēc (only acting ... triggers that have the string database in their names)|upon
-izpildīts, īstenotas, novestas līdz galam (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
 nomākts, abspiests (Operations can be carried out only if a problem has happened in a specified time period, or they can be ... for a specified time period instead)|suppressed
 viedturis (Actual ... letters are likely to be different in the Zabbix frontend as the conditions are ordered)|placeholder
 vienības (A set of ... .items, triggers, etc. ready to be applied to one or several hosts)|entities
 novērtēšanas prasmes|estimation skills
-novērtējuma precizitāte|accuracy of estimate
 biroja vienošanās|office conventions
 galda piederumi|tableware
 nepareiza valoda|foul language
@@ -243,7 +240,6 @@ saskaņā ar (you will have to set it ... to the values provided)|according
 novecojis (the version of WhatsApp is ...)|obsolete
 ligzdošanas veidnes|nesting templates
 mūžīgs, patstāvīgs, vienmēr (This could be useful if we would like to extract some data that is not stored ... on the Zabbix server)|permanently
-atvasinājumi (Normally RHEL and ... have port 22 standard open in the firewall)|derivatives
 uzsākts, ierosināts (we need is a properly setup Zabbix server and a host with or without Zabbix agent as the check is ... by the Zabbix server)|initiated
 korekcijas, noregulēšana, uzstādīšana (we need to reload the firewall so that our ... become active)|adjustments
 mainīts, it tāds taustiņš uz klaviatūras (For this, we have to ... the file /etc/securetty first on the host)|alter
@@ -339,7 +335,6 @@ kāpt, pieaugt (if the NFS service is down or is having performance problems of 
 beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK state)|ceases
 apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
 par, attiecoties uz (here, you can set some options ... your user account)|concerning
-novirzīt (It would not be wise to ... from our planned course of action)|deviate
 pamatotu, garantētu, attaisnotu (if we had a trigger that ... rebooting the whole system, we would create an action with appropriate conditions)|warranted
 aptver (If an operation ... steps 5-7)|spans
 nepārprotami (this is the property that ... specifies what data has to be gathered for this item)|explicitly
@@ -402,20 +397,25 @@ an apparatus for signaling, consisting of an upright with movable parts|semaphor
 kļūdaini (they ... believed her to be pregnant)|mistakenly
 the action or process of throwing away or getting rid of something|disposal
 secinājuma (each research group came to a similar ...)|conclusion
-norāda (Nothing in the log ... about server problems)|indicates
-pretējs (Further should be notified with UP/DOWN parameters or even LOST which is ... to DISCOVERED)|opposite
 saglabāt, pasargāt (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
 saprātīgi (most players don't think ... about a throw)|consciously
-design or provide with a form that presents very little resistance to a flow of air or water, increasing speed and ease of movement|streamline
-racionalizēt (We would like to ... certain aspects of working with our customers)|streamline
-likvidēt, izslēgt (This will ... the necessity of us bugging you)|eliminate
 nepieciešamība (This will eliminate the ... of us bugging you)|necessity
 vilcināties, svārstīties (please don't ... to reach out using other communication channels if we get stuck here)|hesitate
 ieligzdojusi (We have a template ... inside a template)|nested
 attālās vietnēs (i'm trying now to monitor the log files for server in ...)|far sites
-pietiekami (it seems clear and ... to me)|sufficient
 šaubu pilns, apšaubāms (Yes, the Problems and Triggers were indeed ...)|dubious
-iekļaušana (thank you for the update on the potential float range ...)|inclusion
 izdarīt, uzticēt, nodot (you will be able to quickly specify how much time you ... on the last session with customer)|committed
+pietiekami (it seems clear and ... to me)|sufficient
+design or provide with a form that presents very little resistance to a flow of air or water, increasing speed and ease of movement|streamline
+iekļaušana (thank you for the update on the potential float range ...)|inclusion
+likvidēt, izslēgt (This will ... the necessity of us bugging you)|eliminate
+racionalizēt (We would like to ... certain aspects of working with our customers)|streamline
 pretrunīgi (the actual message contents seem to be ... themselves)|contradicting
+norāda (Nothing in the log ... about server problems)|indicates
+pretējs (Further should be notified with UP/DOWN parameters or even LOST which is ... to DISCOVERED)|opposite
+atvasinājumi (Normally RHEL and ... have port 22 standard open in the firewall)|derivatives
+novērtējuma precizitāte|accuracy of estimate
+saņemšana, kvīts, recepte (have you still got the ... ?)|receipt
+izpildīts, īstenotas, novestas līdz galam (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
 pārprast (getting feedback on the first two items would be great - in case i have ... something there)|misunderstood
+novirzīt (It would not be wise to ... from our planned course of action)|deviate
