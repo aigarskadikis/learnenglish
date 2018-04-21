@@ -179,7 +179,6 @@ nodrošinot (That's where actions come in, ... notifications and other methods t
 nosacījumu (That's where actions come in, providing notifications and other methods to react upon ... change)|condition
 paļaujas (The following activities ... on a correctly configured e-mail setup)|rely
 pārliecinās, nodrošina (This condition ... that the action will only do something when the problem happens)|ensures
-noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
 skatiens (The flow of information between Zabbix entities can be non-obvious at first ...)|glance
 ICMP stands for|internet control message protocol
 aptverošs, plašs (we have gained quite ... knowledge of what kind of information we can gather using items)|comprehensive
@@ -216,7 +215,6 @@ ierobežojuma, piespiešanas (duplicate key value violates unique ... "events_pk
 atzīmē (The two Steps fields ... the step this operation should start and end with)|denote
 a lot of, daudz, ievērojami (since this upgarde, we remark that the size of database increases ...)|considerably
 veltīto, svinīgi atklāto, veltīt for life (While the do-it-yourself crowd claims that nobody needs ... software for most tasks)|dedicated
-ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
 brīnumains (In the quest for a manageable monitoring system, ... adventurers stumbled upon collections of scripts)|wondrous
 nevēlams (software that starts doing something on its own would probably be a bit ...)|undesirable
 nepārtraukti (We enlarge our team ... and we have a great team of experts working in different fields)|steadily
@@ -224,8 +222,6 @@ pamanījām, vārds ar priedēkli un nospiedumu (since this upgarde, we ... that
 jo īpaši, sevišķi, sākas ar piezīmju bloku (But the last column, titled ACTIONS, is ... different)|notably
 noliegt (We may also match or ... a substring)|negate
 veidot (With the first operation updated, let's ... the last few steps again)|model
-zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
-atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
 dzīvšogi, daudzskaitlī (plant ....)|hedges 
 pakārtotie hosti|downstream hosts
 daudzveidīga (Our audience is much ..., as Zabbix is suitable for everyone ranging from single users to global enterprises with highly distributed environment in different parts of the world)|diversified
@@ -379,7 +375,6 @@ mēģinu (I'm ... to use discovery rules)|attempting
 nenozīmīgs, niecīgs, neievērojams (However the impact is ...)|insignificant
 spriedums (the jury returned a ... of 'not guilty')|verdict
 novērot (You should ... your installation and when it goes below the certain threshold - rise them up)|observe
-pieprasījums (Please consider this ... as resolved)|inquiry
 secinājām (As ... during a Webex session, the issue roots were in mismatch between the versions of Zabbix server and proxy)|concluded
 paskaidrot (Could you please ... the homework for me?)|clarify
 atgūtu (A few years ago a robot was lowered to the seabed to ... some objects from the wreck of the Titanic)|recover
@@ -432,3 +427,8 @@ pieņemams (Trying to find out a design for an ... solution)|acceptable
 pietiekami (it seems clear and ... to me)|sufficient
 pretrunīgi (the actual message contents seem to be ... themselves)|contradicting
 vainas dēļ, a wicked or illegal act (a person who is responsible for a crime or other ...)|misdeed
+atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
+ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
+noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
+pieprasījums (Please consider this ... as resolved)|inquiry
+zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
