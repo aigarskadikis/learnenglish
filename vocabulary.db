@@ -419,19 +419,18 @@ ETA stands for|estimated time of arrival
 salīdzina (Do not forget to set that your database support and ... utf8)|collate
 a person who is responsible for a crime or other misdeed|culprit
 nepiemērots, neatbilstošs (As we discussed before, simply gathering data is nice, but awfully ...)|inadequate
-continue to have something|retain
+continue to have something (built in 1830, the house ... many of its original features)|retains
 sirdsapziņa (if you do not tell the truth your ... is going to haunt you forever)|conscience
-būtiski, to a great or significant extent|substantially
-starpposma uzlabojumi|intermediate upgrades
 pieņemams (Trying to find out a design for an ... solution)|acceptable
-pietiekami (it seems clear and ... to me)|sufficient
 pretrunīgi (the actual message contents seem to be ... themselves)|contradicting
 vainas dēļ, a wicked or illegal act (a person who is responsible for a crime or other ...)|misdeed
-atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
 ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
 noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
 pieprasījums (Please consider this ... as resolved)|inquiry
 zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
-daļējs (I think I was able to reproduce the issue ...)|partially
 ar kuru, by which (a system ... people could vote by telephone)|whereby
-
+būtiski, to a great or significant extent|substantially
+daļēji (I think I was able to reproduce the issue ...)|partially
+starpposma uzlabojumi|intermediate upgrades
+pietiekami (it seems clear and ... to me)|sufficient
+atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
