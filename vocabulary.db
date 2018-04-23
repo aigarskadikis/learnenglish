@@ -406,7 +406,7 @@ novērtējuma precizitāte|accuracy of estimate
 izpildīts, īstenotas, novestas līdz galam (Operations can be ... only if a problem has happened in a specified time period, or they can be suppressed for a specified time period instead)|carried out
 pārprast (getting feedback on the first two items would be great - in case i have ... something there)|misunderstood
 novirzīt (It would not be wise to ... from our planned course of action)|deviate
-paredzams (discovery rule keys are usually use filtering and hard ...)|predictable
+paredzams (during the rest of the day, the number of sessions is neither ..., nor that significant)|predictable
 brīvprātīgi (we are funded by ... contributions)|voluntary
 vienreizējs|one-off
 uzturmas (Perhaps we can treat this a a support request in a need of a ... solution)|maintainable
@@ -425,19 +425,19 @@ pieņemams (Trying to find out a design for an ... solution)|acceptable
 pretrunīgi (the actual message contents seem to be ... themselves)|contradicting
 vainas dēļ, a wicked or illegal act (a person who is responsible for a crime or other ...)|misdeed
 ceinīgs (a trigger defines when a condition is considered ... of attention)|worthy
-noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
 pieprasījums (Please consider this ... as resolved)|inquiry
-zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
-ar kuru, by which (a system ... people could vote by telephone)|whereby
-būtiski, to a great or significant extent|substantially
-daļēji (I think I was able to reproduce the issue ...)|partially
 starpposma uzlabojumi|intermediate upgrades
 pietiekami (it seems clear and ... to me)|sufficient
 ARP stands for|address resolution protocol
 aizstāvēt, apgalvot, state a fact or belief confidently and forcefully|assert
 piederošs, piederības, (a ... word or form)|possessive
 vietniekvārdi|pronouns
-īpašības vārds|adjective
 atkārtojums, atkārtošana (Whenever a user parameter fails and you can't figure out why, simplify it and test every ... with zabbix_get)|iteration
-domādams, izskatās ka (the Yakima Indians ... came from Asia by way of the Bering Strait)|presumably
 nodot, nogādāt, transport or carry to a place (pipes were laid to ... water to the house)|convey
+īpašības vārds|adjective
+ar kuru, by which (a system ... people could vote by telephone)|whereby
+būtiski, to a great or significant extent|substantially
+daļēji (I think I was able to reproduce the issue ...)|partially
+zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
+domādams, izskatās ka (the Yakima Indians ... came from Asia by way of the Bering Strait)|presumably
+noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
