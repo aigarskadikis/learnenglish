@@ -451,7 +451,6 @@ mainīt, grozīt (Unfortunately, this is hardcoded and change of behavior of thi
 uzskata (while proxy continues to ... host as available)|consider
 two words to describe active/passive setup, aka|high availability
 attiecībā uz vienumiem|in regards to items
-informēts (yes, we are ... of your specific functionality)|aware
 traucējumi, iejaukšanās (functionality does not ... with bug)|interference
 sākotnēji (... they were supposed to be only included in 4.0)|initially
 noliegumi (I can see different ...)|denials
@@ -476,3 +475,4 @@ izmantotas (The standard output can be further ... to created triggers)|utilised
 not or no longer needed or useful, sākas ar re (this ... brewery has been converted into a library)|redundant
 piepildīt, izpilda, achieve or realize (Let me check if this ... their needs)|fulfils
 atbilstošs, identiski pirkstu nospiedumi, vards sākas ar kodolu (There are several reserved ranges that might contain other codes, used by a specific application or distribution-those should be looked up in the ... documentation)|corresponding
+informēts (yes, we are ... of your specific functionality)|aware
