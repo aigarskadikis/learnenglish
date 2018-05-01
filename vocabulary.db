@@ -440,40 +440,41 @@ domādams, izskatās ka (the Yakima Indians ... came from Asia by way of the Ber
 noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
 sīki mājas darbi (My duty is to look after two children, helping with their school work if necessary and to do all the household ...|chores
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
-dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 deserts (There are so many great crumbles and puddings and ... and pies, they’re all delicious)|afters
 a mixture of flour and butter that is rubbed to the texture of breadcrumbs and cooked as a topping for fruit|crumbles
-virtuves māksla, a style or method of cooking, especially as characteristic of a particular country, region, or establishment|cuisine
 uzvedība (Unfortunately, this is hardcoded and change of ... of this check can be done only by altering the source code)|behavior
 mainīt, grozīt (Unfortunately, this is hardcoded and change of behavior of this check can be done only by ... the source code)|altering
 two words to describe active/passive setup, aka|high availability
 traucējumi, iejaukšanās (functionality does not ... with bug)|interference
-sākotnēji (... they were supposed to be only included in 4.0)|initially
-noliegumi (I can see different ...)|denials
-izraisīt (Navigating to the dashboard ... the node to eventually run out of memory and crash)|causes
 beidzot (Navigating to the dashboard causes the node to ... run out of memory and crash)|eventually
-atprasīt, obtain the return of (Memory used does not get ... after closing the window or navigating away from the dashboard page)|reclaimed
-an obstruction that makes movement or flow difficult or impossible|blockage
 no jauna sadalīt (their primary concern was to ... income from rich to poor)|redistribute
-before an action or event; in advance|beforehand
-šķietami, so as to give the impression of having a certain quality|seemingly
+iepriekš, before an action or event; in advance|beforehand
 nodrošināts (Solution ... to remove alerts from queue resolved the issue)|provided
-a remarkable concurrence of events or circumstances without apparent causal connection|coincidence
-atvieglot (he couldn't prevent her pain, only ... it)|alleviate
-make clean and hygienic|sanitize
 ieinteresētā persona, a person with an interest or concern in something, especially a business|stakeholder
 daļa (only a ... of these items were Not Supported)|portion
 arrange or direct the elements of a situation to produce a desired effect (Backups are performed via lvm snapshots which is ... by the backup software)|orchestrated
 žēļ (Well, that's a ...)|pity
-putra, piezputra|porridge
-izmantotas (The standard output can be further ... to created triggers)|utilised
-not or no longer needed or useful, sākas ar re (this ... brewery has been converted into a library)|redundant
 piepildīt, izpilda, achieve or realize (Let me check if this ... their needs)|fulfils
 atbilstošs, identiski pirkstu nospiedumi, vards sākas ar kodolu (There are several reserved ranges that might contain other codes, used by a specific application or distribution-those should be looked up in the ... documentation)|corresponding
 informēts (yes, we are ... of your specific functionality)|aware
 attiecībā uz vienumiem|in regards to items
-prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
 salīdzināšana (Fixed the character set and ... for the Zabbix Proxy table)|collation
 tendence, tieksme, virziens|trends
+miglas svilpe|foghorn
+izmantotas (The standard output can be further ... to created triggers)|utilised
+not or no longer needed or useful, sākas ar re (this ... brewery has been converted into a library)|redundant
 uzskata (while proxy continues to ... host as available)|consider
-miklas svilpe|foghorn
+putra, piezputra|porridge
+prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
+atvieglot (he couldn't prevent her pain, only ... it)|alleviate
+sakritība, a remarkable concurrence of events or circumstances without apparent causal connection|coincidence
+make clean and hygienic|sanitize
+an obstruction that makes movement or flow difficult or impossible|blockage
+šķietami, so as to give the impression of having a certain quality|seemingly
+atgūt, reģenerēt, obtain the return of (Memory used does not get ... after closing the window or navigating away from the dashboard page)|reclaimed
+izraisīt (Navigating to the dashboard ... the node to eventually run out of memory and crash)|causes
+noliegumi (I can see different ...)|denials
+virtuves māksla, a style or method of cooking, especially as characteristic of a particular country, region, or establishment|cuisine
+apgūt, buy or obtain an object or asset for oneself (I tried to ... the information on the internet, but could find nothing useful)|acquire
+dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
+sākotnēji (... they were supposed to be only included in 4.0)|initially
