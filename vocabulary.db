@@ -434,19 +434,15 @@ nodot, nogādāt, transport or carry to a place (pipes were laid to ... water to
 īpašības vārds|adjective
 ar kuru, by which (a system ... people could vote by telephone)|whereby
 būtiski, to a great or significant extent|substantially
-daļēji (I think I was able to reproduce the issue ...)|partially
 zinošs, labi informēts, pa vidu vārdam ir mala (At the time of writing this, the sales team is very ..., helpful, and friendly)|knowledgeable
-domādams, izskatās ka (the Yakima Indians ... came from Asia by way of the Bering Strait)|presumably
 noteikt, noskaidrot (Actually, Zabbix provides quite a lot of different conditions that ... when an action is invoked)|determine
 sīki mājas darbi (My duty is to look after two children, helping with their school work if necessary and to do all the household ...|chores
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
 deserts (There are so many great crumbles and puddings and ... and pies, they’re all delicious)|afters
-a mixture of flour and butter that is rubbed to the texture of breadcrumbs and cooked as a topping for fruit|crumbles
 uzvedība (Unfortunately, this is hardcoded and change of ... of this check can be done only by altering the source code)|behavior
 mainīt, grozīt (Unfortunately, this is hardcoded and change of behavior of this check can be done only by ... the source code)|altering
 two words to describe active/passive setup, aka|high availability
 traucējumi, iejaukšanās (functionality does not ... with bug)|interference
-beidzot (Navigating to the dashboard causes the node to ... run out of memory and crash)|eventually
 no jauna sadalīt (their primary concern was to ... income from rich to poor)|redistribute
 iepriekš, before an action or event; in advance|beforehand
 nodrošināts (Solution ... to remove alerts from queue resolved the issue)|provided
@@ -461,7 +457,6 @@ attiecībā uz vienumiem|in regards to items
 salīdzināšana (Fixed the character set and ... for the Zabbix Proxy table)|collation
 tendence, tieksme, virziens|trends
 miglas svilpe|foghorn
-izmantotas (The standard output can be further ... to created triggers)|utilised
 not or no longer needed or useful, sākas ar re (this ... brewery has been converted into a library)|redundant
 uzskata (while proxy continues to ... host as available)|consider
 putra, piezputra|porridge
@@ -474,7 +469,12 @@ an obstruction that makes movement or flow difficult or impossible|blockage
 atgūt, reģenerēt, obtain the return of (Memory used does not get ... after closing the window or navigating away from the dashboard page)|reclaimed
 izraisīt (Navigating to the dashboard ... the node to eventually run out of memory and crash)|causes
 noliegumi (I can see different ...)|denials
-virtuves māksla, a style or method of cooking, especially as characteristic of a particular country, region, or establishment|cuisine
 apgūt, buy or obtain an object or asset for oneself (I tried to ... the information on the internet, but could find nothing useful)|acquire
 dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 sākotnēji (... they were supposed to be only included in 4.0)|initially
+virtuves māksla, a style or method of cooking, especially as characteristic of a particular country, region, or establishment|cuisine
+izmantotas (The standard output can be further ... to created triggers)|utilised
+beidzot (Navigating to the dashboard causes the node to ... run out of memory and crash)|eventually
+a mixture of flour and butter that is rubbed to the texture of breadcrumbs and cooked as a topping for fruit|crumbles
+daļēji (I think I was able to reproduce the issue ...)|partially
+domādams, izskatās ka (the Yakima Indians ... came from Asia by way of the Bering Strait)|presumably
