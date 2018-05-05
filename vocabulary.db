@@ -480,6 +480,7 @@ notikt, happen, take place (His examination failure did not ... through lack of 
 the process of adding things together (create a calculated item which will perform ... each 10th second starting from 2s)|summation
 nostiprināšana, nostabilizēšana|consolidation
 nav sasniedzams (It isn't necessary to have the same amount of ... Pollers as you have regular Pollers)|unreachable
+<<<<<<< HEAD
 a lot of, daudz, ievērojami (since this upgarde, we remark that the size of database increases ...)|considerably
 izstrādāts-rūpīgi (the key idea of the book is expressed in the title and ... in the text)|elaborated
 jo īpaši, sevišķi, sākas ar piezīmju bloku (But the last column, titled ACTIONS, is ... different)|notably
@@ -510,3 +511,5 @@ izlaižot, leave out or exclude, either intentionally or forgetfully (If you do 
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
 atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
 tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
+an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
+pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
