@@ -493,23 +493,23 @@ tādēļ, no šā brīža, as a consequence, for this reason (... the greyed out
 veidot, fashion or shape a three-dimensional figure or object in a malleable material such as clay or wax (With the first operation updated, let's ... the last few steps again)|model
 attēlot, show or represent by a drawing, painting, or other art form (The following figure ... a relatively simple Zabbix setup with several of the monitoring capabilities used and different device categories connected)|depicts
 sastāvdaļa, a part or element of a larger whole, especially a part of a machine or vehicle (When running each ... on a separate machine, both the Zabbix server and the Zabbix web frontend need access to the Zabbix database)|component
-attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
 šāda pieeja, trīs vārdi (... seriously reduces the ability of a single misconfigured system to bring down the whole monitoring setup)|such an approach
 form a mental image of, imagine, beidzas ar ing (The frontend will provide various options for ... data)|visualizing
 apsvērumi (Here are a few ... that might help you select the method)|considerations
 atkarības, vienības kas atkarājās (... are usually sorted out)|dependencies
-nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 atšķirties mežonīgi|vary wildly
-noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
 pieņemams ātrums (generating graphs with many elements or other complex views could require more powerful hardware to operate at an ...)|acceptable speed
 sparīgāks un laimīgāks (the more resources you give to Zabbix, the ... it will be)|snappier and happier
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
-sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
 tieksme, an inclination toward a particular type of behavior (But remember that test installations have the ... of becoming production installations later)|tendency
 izlaižot, leave out or exclude, either intentionally or forgetfully (If you do not know the password, you can try ... -p)|omitting
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
 atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
-tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
 an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
+attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
+noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
+nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
+sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
+tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
