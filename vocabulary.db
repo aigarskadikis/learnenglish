@@ -57,7 +57,6 @@ pakāpiens ārdurvju priekšā|doorstep
 nē, nulle, nekas, mazvērtīgs, veltīgs, nenozīmīgs|nought
 atklāj (checking that ... that it has no data)|reveals
 novērtēt (This is somewhat less resource intensive as Zabbix does not have to ... the actual item value)|evaluate
-apdzīvot, ar ing (with the item in place, lets proceed by creating and ... some files that should be matched by our regexp)|populating
 vēlams, pievilcīgs, iekārojams (while that is not an issue in some cases, in others it is not ...)|desirable
 izplatīt, pavairot (same as before, it may take up to 3 minutes for this change to ... to zabbix agent)|propagate
 baumas (... about the API leaving the frontend)|rumours
@@ -115,7 +114,6 @@ iegūt (zabbix does not allow several values to be ... from a single key or from
 postošs, iznīcinošs, kaitīgs, bija tāda spēle .. derby (enable confirmation: This is a potentially ... action, so mark this checkbox)|destructive
 piesaukts (operation is an action property that defined what to do if this action is ..., and escalations were configured with the help of operations)|invoked
 palielinājās (otherwise, both problem and recovery events would get ..., and it would be very, very confusing)|escalated
-mērens (... climate)|temperate
 aptvert, piesegt (The unit did not ... nuclear weapons in as much detail as some of my students would have liked)|cover
 blāvs, garlaicīgs, truls, neass (the weather is miserable and ...)|dull
 līņāt, smidzināt, smalks lietus|drizzle
@@ -283,7 +281,6 @@ apgrūtinoša, traucējošs, neērts (Such mapping, while being relatively ... t
 izmests, atsacīts, atlaists (Any error output is ... -redirected to /dev/null- so in case of a database misconfiguration, traps are not lost but end up in the generic trap-handling host)|discarded
 vispārējs (Any error output is discarded, so in case of a database misconfiguration, traps are not lost but end up in the ... trap-handling host)|generic
 nedaudz (While that might ... decrease the prettiness of the data, we want to keep this script simple for now and this will also improve performance a bit)|slightly
-gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
 varbūt, iespējams (Depending on that, we'll decide whether it needs its own host with an snmptraps item, or ... even individual items for each trap type)|perhaps
 atkarīgs, paļauties, atkarāties (Your final course grade will ... on your grades in the 3 trimester exams)|depend
 uz priekšu (the shifts have been assigned for this week ...)|onwards
@@ -370,7 +367,6 @@ go for and then bring back|fetch
 neērtības (sorry for the ... caused)|inconveniences
 kas sastāv no (an apparatus for signaling, ... an upright with movable parts)|consisting of
 iznīcināt, izlietot, noskaņot (We have never in history needed to ... of so much waste as we do today)|dispose
-an apparatus for signaling, consisting of an upright with movable parts|semaphore
 kļūdaini (they ... believed her to be pregnant)|mistakenly
 the action or process of throwing away or getting rid of something|disposal
 secinājuma (each research group came to a similar ...)|conclusion
@@ -511,5 +507,11 @@ attēlots, show or represent by a drawing, painting, or other art form (The requ
 noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
 nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
-pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
+an apparatus for signaling, consisting of an upright with movable parts|semaphore
+apdzīvot, ar ing (with the item in place, lets proceed by creating and ... some files that should be matched by our regexp)|populating
+gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
+mērens (... climate)|temperate
+pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
+mantinieks|heir
+izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
