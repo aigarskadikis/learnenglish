@@ -515,3 +515,6 @@ mērens (... climate)|temperate
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 mantinieks|heir
 izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
+izturīgs (Redo logs are used to make sure writes are fast and ... and also during crash recovery)|durable
+precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
+paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
