@@ -501,7 +501,6 @@ let out, izlaist, supply or distribute (To actually compile Zabbix, ... the foll
 tieksme, an inclination toward a particular type of behavior (But remember that test installations have the ... of becoming production installations later)|tendency
 izlaižot, leave out or exclude, either intentionally or forgetfully (If you do not know the password, you can try ... -p)|omitting
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
-atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
 an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
 attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
 noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
@@ -513,8 +512,9 @@ apdzīvot, ar ing (with the item in place, lets proceed by creating and ... some
 gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
 mērens (... climate)|temperate
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
-mantinieks|heir
-izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
 izturīgs (Redo logs are used to make sure writes are fast and ... and also during crash recovery)|durable
 precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
 paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
+atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
+izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
+mantinieks|heir
