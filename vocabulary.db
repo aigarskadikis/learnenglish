@@ -503,7 +503,6 @@ izlaižot, leave out or exclude, either intentionally or forgetfully (If you do 
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
 an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
 attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
-noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
 nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
@@ -513,13 +512,14 @@ gaišums, glītums, jaukums (While that might slightly decrease the ... of the d
 mērens (... climate)|temperate
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 izturīgs (Redo logs are used to make sure writes are fast and ... and also during crash recovery)|durable
-precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
-paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
 atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
-izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
 mantinieks|heir
 a redecoration of a room or building (Size of the ... logs)|redo
 the neck or mouth of a bottle|bottleneck
-aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
 ienākošais (... traffic)|inbound
+izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
+paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
+precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
+aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
+noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
 veikspējas gudrība|performance wise
