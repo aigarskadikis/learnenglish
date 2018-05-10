@@ -510,17 +510,17 @@ an apparatus for signaling, consisting of an upright with movable parts|semaphor
 apdzīvot, ar ing (with the item in place, lets proceed by creating and ... some files that should be matched by our regexp)|populating
 gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
 mērens (... climate)|temperate
-pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 izturīgs (Redo logs are used to make sure writes are fast and ... and also during crash recovery)|durable
 atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
 mantinieks|heir
 a redecoration of a room or building (Size of the ... logs)|redo
 the neck or mouth of a bottle|bottleneck
 ienākošais (... traffic)|inbound
-izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
-paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
 precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
-aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
 noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
 veikspējas gudrība|performance wise
 allow oneself to enjoy the pleasure of, nodoties (let's gather in our training room and ... ourselves in a discussion)|indulge
+aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
+izpratne, the action or capability of understanding something (There are ... exercises to help)|comprehension
+paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
+pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
