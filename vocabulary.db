@@ -490,7 +490,6 @@ atkarības, vienības kas atkarājās (... are usually sorted out)|dependencies
 pieņemams ātrums (generating graphs with many elements or other complex views could require more powerful hardware to operate at an ...)|acceptable speed
 sparīgāks un laimīgāks (the more resources you give to Zabbix, the ... it will be)|snappier and happier
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
-let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
 tieksme, an inclination toward a particular type of behavior (But remember that test installations have the ... of becoming production installations later)|tendency
 izlaižot, leave out or exclude, either intentionally or forgetfully (If you do not know the password, you can try ... -p)|omitting
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
@@ -510,7 +509,7 @@ allow oneself to enjoy the pleasure of, nodoties (let's gather in our training r
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 express something definitely or clearly in speech or writing, norādīts, noteiks (As ... in the doc, db rollback is not possible)|stated
 officially register as a member of an institution or a student on a course, uzņemt, istāties|enroll
-continue to have something, keep possession of, paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
+continue to have something, keep possession of, paturēts, saglabāts, sākas ar 're' (As a result of either explicit management action or per configuration information ... by the managed system)|retained
 the continued possession, use, or control of something, saglabāšana (you are using housekeeper for data ...)|retention
 pārtverts, aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
 noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
@@ -526,3 +525,4 @@ gaišums, glītums, jaukums (While that might slightly decrease the ... of the d
 an apparatus for signaling, consisting of an upright with movable parts|semaphore
 careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
 atšķirties mežonīgi|vary wildly
+let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
