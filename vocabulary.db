@@ -486,9 +486,7 @@ attēlot, show or represent by a drawing, painting, or other art form (The follo
 sastāvdaļa, a part or element of a larger whole, especially a part of a machine or vehicle (When running each ... on a separate machine, both the Zabbix server and the Zabbix web frontend need access to the Zabbix database)|component
 šāda pieeja, trīs vārdi (... seriously reduces the ability of a single misconfigured system to bring down the whole monitoring setup)|such an approach
 form a mental image of, imagine, beidzas ar ing (The frontend will provide various options for ... data)|visualizing
-apsvērumi (Here are a few ... that might help you select the method)|considerations
 atkarības, vienības kas atkarājās (... are usually sorted out)|dependencies
-atšķirties mežonīgi|vary wildly
 pieņemams ātrums (generating graphs with many elements or other complex views could require more powerful hardware to operate at an ...)|acceptable speed
 sparīgāks un laimīgāks (the more resources you give to Zabbix, the ... it will be)|snappier and happier
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
@@ -497,13 +495,9 @@ tieksme, an inclination toward a particular type of behavior (But remember that 
 izlaižot, leave out or exclude, either intentionally or forgetfully (If you do not know the password, you can try ... -p)|omitting
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
 an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
-attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
-nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
-an apparatus for signaling, consisting of an upright with movable parts|semaphore
 apdzīvot, ar ing (with the item in place, lets proceed by creating and ... some files that should be matched by our regexp)|populating
-gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
 mērens (... climate)|temperate
 izturīgs (Redo logs are used to make sure writes are fast and ... and also during crash recovery)|durable
 mantinieks|heir
@@ -517,12 +511,18 @@ pieņemums, a thing that is accepted as true or as certain to happen, without pr
 express something definitely or clearly in speech or writing, norādīts, noteiks (As ... in the doc, db rollback is not possible)|stated
 officially register as a member of an institution or a student on a course, uzņemt, istāties|enroll
 continue to have something, keep possession of, paturēts, saglabāts (As a result of either explicit management action or per configuration information ... by the managed system)|retained
-izpratnes, īpašības vārds, the action or capability of understanding something (There are ... exercises to help)|comprehension
 the continued possession, use, or control of something, saglabāšana (you are using housekeeper for data ...)|retention
-aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
+pārtverts, aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
 noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
-iegūt, atvasināt (But how do we ... the corresponding numeric OID from a textual one)|derive
-izlika, kopā ar out (The first change for the default operation step ... all steps out)|spaced
-saglabāt, pasargāt (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
+obtain something from a specified source, atvasināt, are priedēkli, 6 burti (But how do we ... the corresponding numeric OID from a textual one)|derive
+izlika, izstūma ārā, viens vārds, vārds papildina teikuma pēdējo vārdu 'out' (The first change for the default operation step ... all steps out)|spaced
+maintain something in its original or existing state, saglabāt, pasargāt, vārdam ir priedēklis (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
-atsaukties, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
+atsaukties, 5 burti, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
+attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
+izpratnes, īpašības vārds, the action or capability of understanding something (There are ... exercises to help)|comprehension
+nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
+gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
+an apparatus for signaling, consisting of an upright with movable parts|semaphore
+careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
+atšķirties mežonīgi|vary wildly
