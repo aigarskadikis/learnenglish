@@ -489,7 +489,6 @@ form a mental image of, imagine, beidzas ar ing (The frontend will provide vario
 atkarības, vienības kas atkarājās (... are usually sorted out)|dependencies
 pieņemams ātrums (generating graphs with many elements or other complex views could require more powerful hardware to operate at an ...)|acceptable speed
 sparīgāks un laimīgāks (the more resources you give to Zabbix, the ... it will be)|snappier and happier
-vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
 tieksme, an inclination toward a particular type of behavior (But remember that test installations have the ... of becoming production installations later)|tendency
 izlaižot, leave out or exclude, either intentionally or forgetfully (If you do not know the password, you can try ... -p)|omitting
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
@@ -503,7 +502,6 @@ mantinieks|heir
 a redecoration of a room or building (Size of the ... logs)|redo
 the neck or mouth of a bottle|bottleneck
 ienākošais (... traffic)|inbound
-precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
 veikspējas gudrība|performance wise
 allow oneself to enjoy the pleasure of, nodoties (let's gather in our training room and ... ourselves in a discussion)|indulge
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
@@ -518,7 +516,6 @@ izlika, izstūma ārā, viens vārds, vārds papildina teikuma pēdējo vārdu '
 maintain something in its original or existing state, saglabāt, pasargāt, vārdam ir priedēklis (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
 atsaukties, 5 burti, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
-attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
 izpratnes, īpašības vārds, the action or capability of understanding something (There are ... exercises to help)|comprehension
 nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
@@ -526,3 +523,8 @@ an apparatus for signaling, consisting of an upright with movable parts|semaphor
 careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
 atšķirties mežonīgi|vary wildly
 let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
+a previous criminal conviction|prior
+ar laiku (The server is still encountering the issue ...)|intermittently
+attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
+precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
+vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
