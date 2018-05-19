@@ -523,16 +523,11 @@ let out, izlaist, supply or distribute (To actually compile Zabbix, ... the foll
 a previous criminal conviction|prior
 attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
 precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
-ar laiku (The server is still encountering the issue ...)|intermittently
 careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
-uzmācīgais (Enter enrolment key when .../trainer will tell you to start)|invigilator
-uzņemšanas (Enter ... key when invigilator/trainer will tell you to start)|enrolment
-CIDR stands for|classless inter-domain routing
 produce or provide a natural, agricultural, or industrial product, ražot, dot (A running service would ... the following)|yield
-make or manufacture from components or raw materials, ražot, uzrādīt (If it has been restarted, no output will be ...)|produced
 a feeling of uncertainty or lack of conviction, šaubas (The previous commands might work on other distributions, too, although some distributions might use runlevel 4 instead of runlevel 5 for a graphical environment-consult your distribution's documentation when in ...)|doubt
 the way in which one acts or conducts oneself, especially toward others, uzvedība, rīcība (We have only configured some low-level ..., so where's the meat?)|behavior
 a word, letter, or number placed before another, priedēklis (unless you manually changed the ... or installed an older Apache version)|prefix
@@ -544,3 +539,8 @@ easily understood, not needing explanation, pašsaprotami, ar svītru pa vidu (M
 apaļās iekavas (These values correspond to the descriptions in ... located in the PARAMETER column)|parentheses
 an advantage or profit gained from something, gūt labumu (The defaults for the host and port are suitable for us, but we could ... from filling in the Name field)|benefit
 suggest as a desirable or necessary course of action, norāda (This ... that the zabbix_agentd process is running and listening on all addresses on port 10050, just what we need)|indicates
+make or manufacture from components or raw materials, ražot, uzrādīt (If it has been restarted, no output will be ...)|produced
+uzņemšanas (Enter ... key when invigilator/trainer will tell you to start)|enrolment
+ar laiku (The server is still encountering the issue ...)|intermittently
+CIDR stands for|classless inter-domain routing
+uzmācīgais (Enter enrolment key when .../trainer will tell you to start)|invigilator
