@@ -520,11 +520,9 @@ gaišums, glītums, jaukums (While that might slightly decrease the ... of the d
 an apparatus for signaling, consisting of an upright with movable parts|semaphore
 atšķirties mežonīgi|vary wildly
 let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
-a previous criminal conviction|prior
 attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
 precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
 careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
-pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
 produce or provide a natural, agricultural, or industrial product, ražot, dot (A running service would ... the following)|yield
@@ -540,7 +538,10 @@ apaļās iekavas (These values correspond to the descriptions in ... located in 
 an advantage or profit gained from something, gūt labumu (The defaults for the host and port are suitable for us, but we could ... from filling in the Name field)|benefit
 suggest as a desirable or necessary course of action, norāda (This ... that the zabbix_agentd process is running and listening on all addresses on port 10050, just what we need)|indicates
 make or manufacture from components or raw materials, ražot, uzrādīt (If it has been restarted, no output will be ...)|produced
-uzņemšanas (Enter ... key when invigilator/trainer will tell you to start)|enrolment
 ar laiku (The server is still encountering the issue ...)|intermittently
 CIDR stands for|classless inter-domain routing
 uzmācīgais (Enter enrolment key when .../trainer will tell you to start)|invigilator
+a previous criminal conviction|prior
+pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
+uzņemšanas (Enter ... key when invigilator/trainer will tell you to start)|enrolment
+a formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law, pārliecība, notiesāšana (she had a previous ... for a similar offense)|conviction
