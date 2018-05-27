@@ -87,7 +87,6 @@ pikšņa, ja nevar atrast mencu tad ēd pikšņu, hint-bija piestātne (It can b
 etiķis|vinegar
 norūpējušies, beidzas ar ed (As I say, it’s not very healthy and people are more ... about healthy eating these days)|concerned
 pārbaudes laiks|probation period
-sadursme (we chose a key the would not ... with the native key)|clash
 piegādāt (we just ... item keys to the functions)|supplied
 atrasties, dzīvot, puses vārds iesaistīts vārdā (the item we created will ... on 'test host' only)|reside
 izvēlēties, trīs burti (we would probably ... for aggregate items)|opt
@@ -237,7 +236,6 @@ pacietība (After we have configured Zabbix for VMware monitoring, the only thin
 paredzētā tehniskā apkope (Add a Description so that people know why there is a ...)|maintenance foreseen
 atkārtojas (In this tab, we were able to do some more fine-tuning in our maintenance schedule, for example, ... periods on a weekly basis)|recurring
 uz vietas|onsite
-izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
 ierobežojumi (If you are trying to query a network device, it might have ... on who is allowed to use the SNMP agent)|restrictions
 pildīts (This seems to be an APC UPS, and it's providing a lot of information ... in this output, including serial number and even firmware versions)|stuffed
 stenogrāfs, a method of rapid writing by means of abbreviations and symbols, used especially for taking dictation (Nevertheless, it is commonly referred to as just the OID, and we will use the same ... in this book)|shorthand
@@ -366,7 +364,6 @@ iznīcināt, izlietot, noskaņot (We have never in history needed to ... of so m
 kļūdaini (they ... believed her to be pregnant)|mistakenly
 secinājuma (each research group came to a similar ...)|conclusion
 saprātīgi (most players don't think ... about a throw)|consciously
-nepieciešamība (This will eliminate the ... of us bugging you)|necessity
 vilcināties, svārstīties (please don't ... to reach out using other communication channels if we get stuck here)|hesitate
 ieligzdojusi (We have a template ... inside a template)|nested
 attālās vietnēs (i'm trying now to monitor the log files for server in ...)|far sites
@@ -427,7 +424,6 @@ iepriekš, before an action or event; in advance|beforehand
 nodrošināts (Solution ... to remove alerts from queue resolved the issue)|provided
 ieinteresētā persona, a person with an interest or concern in something, especially a business|stakeholder
 daļa (only a ... of these items were Not Supported)|portion
-arrange or direct the elements of a situation to produce a desired effect (Backups are performed via lvm snapshots which is ... by the backup software)|orchestrated
 žēļ (Well, that's a ...)|pity
 piepildīt, izpilda, achieve or realize (Let me check if this ... their needs)|fulfils
 atbilstošs, identiski pirkstu nospiedumi, vards sākas ar kodolu (There are several reserved ranges that might contain other codes, used by a specific application or distribution-those should be looked up in the ... documentation)|corresponding
@@ -479,7 +475,6 @@ tādēļ, no šā brīža, as a consequence, for this reason (... the greyed out
 veidot, fashion or shape a three-dimensional figure or object in a malleable material such as clay or wax (With the first operation updated, let's ... the last few steps again)|model
 attēlot, show or represent by a drawing, painting, or other art form (The following figure ... a relatively simple Zabbix setup with several of the monitoring capabilities used and different device categories connected)|depicts
 sastāvdaļa, a part or element of a larger whole, especially a part of a machine or vehicle (When running each ... on a separate machine, both the Zabbix server and the Zabbix web frontend need access to the Zabbix database)|component
-šāda pieeja, trīs vārdi (... seriously reduces the ability of a single misconfigured system to bring down the whole monitoring setup)|such an approach
 form a mental image of, imagine, beidzas ar ing (The frontend will provide various options for ... data)|visualizing
 atkarības, vienības kas atkarājās (... are usually sorted out)|dependencies
 pieņemams ātrums (generating graphs with many elements or other complex views could require more powerful hardware to operate at an ...)|acceptable speed
@@ -541,7 +536,6 @@ izpratnes, īpašības vārds, the action or capability of understanding somethi
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
 neither, arī ne|nor
 the action or state of including or of being included within a group or structure, iekļaušana|inclusion
-uzmācīgais (Enter enrolment key when .../trainer will tell you to start)|invigilator
 withdraw someone or something from service, in particular, ekspluatācijas pārtraukšana|decommission
 existing or coming before in time, order, or importance, pirms|prior
 piesātināts, sulīgs (I have not been able to detect any packet loss over the VPN, nor is the VPN even close to being ...)|saturated
@@ -561,3 +555,9 @@ the action or process of finishing something, pabeigšana (without waiting for t
 of a fabric or surface smooth and without seams or obvious joins, viengabala, bezšuvju|seamless
 provizoriski, neizšķirti|tentatively
 tas izpauda (Still, when queried using SNMPv1, ... information such as the serial number and series name)|it divulged
+arrange or direct the elements of a situation to produce a desired effect (Backups are performed via lvm snapshots which is ... by the backup software)|orchestrated
+izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
+šāda pieeja, trīs vārdi (... seriously reduces the ability of a single misconfigured system to bring down the whole monitoring setup)|such an approach
+sadursme (we chose a key the would not ... with the native key)|clash
+nepieciešamība (This will eliminate the ... of us bugging you)|necessity
+uzmācīgais (Enter enrolment key when .../trainer will tell you to start)|invigilator
