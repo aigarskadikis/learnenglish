@@ -496,15 +496,10 @@ allow oneself to enjoy the pleasure of, nodoties (let's gather in our training r
 express something definitely or clearly in speech or writing, norādīts, noteiks (As ... in the doc, db rollback is not possible)|stated
 officially register as a member of an institution or a student on a course, uzņemt, istāties|enroll
 continue to have something, keep possession of, paturēts, saglabāts, sākas ar 're' (As a result of either explicit management action or per configuration information ... by the managed system)|retained
-the continued possession, use, or control of something, saglabāšana (you are using housekeeper for data ...)|retention
 pārtverts, aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
-noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
-obtain something from a specified source, atvasināt, are priedēkli, 6 burti (But how do we ... the corresponding numeric OID from a textual one)|derive
-izlika, izstūma ārā, viens vārds, vārds papildina teikuma pēdējo vārdu 'out' (The first change for the default operation step ... all steps out)|spaced
 maintain something in its original or existing state, saglabāt, pasargāt, vārdam ir priedēklis (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
 atsaukties, 5 burti, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
 nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
-gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
 an apparatus for signaling, consisting of an upright with movable parts|semaphore
 atšķirties mežonīgi|vary wildly
 let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
@@ -566,3 +561,8 @@ roughly calculate or judge the value, number, quantity, or extent of, vērtēt (
 a previous criminal conviction|prior
 apaļās iekavas (These values correspond to the descriptions in ... located in the PARAMETER column)|parentheses
 of short duration, īss (... period)|brief
+gaišums, glītums, jaukums (While that might slightly decrease the ... of the data, we want to keep this script simple for now and this will also improve performance a bit)|prettiness
+izlika, izstūma ārā, viens vārds, vārds papildina teikuma pēdējo vārdu 'out' (The first change for the default operation step ... all steps out)|spaced
+noteiktas prasības, clearly stated or decided, not vague or doubtful|definite requirements
+obtain something from a specified source, atvasināt, are priedēkli, 6 burti (But how do we ... the corresponding numeric OID from a textual one)|derive
+the continued possession, use, or control of something, saglabāšana (you are using housekeeper for data ...)|retention
