@@ -521,13 +521,11 @@ suitable or proper in the circumstances, piemērots, atbilstošs (If you left th
 put a limit on, keep under control, ierobežot (It is suggested that you ... the permissions on this file afterwards to be readable only by the web server user, by issuing these commands as root)|restrict
 pēc tam, vēlāk (It is suggested that you restrict the permissions on this file ... to be readable only by the web server user, by issuing these commands as root)|afterwards
 easily understood, not needing explanation, pašsaprotami, ar svītru pa vidu (Most of the parameters in that file should be ...)|self-explanatory
-apaļās iekavas (These values correspond to the descriptions in ... located in the PARAMETER column)|parentheses
 an advantage or profit gained from something, gūt labumu (The defaults for the host and port are suitable for us, but we could ... from filling in the Name field)|benefit
 suggest as a desirable or necessary course of action, norāda (This ... that the zabbix_agentd process is running and listening on all addresses on port 10050, just what we need)|indicates
 make or manufacture from components or raw materials, ražot, uzrādīt (If it has been restarted, no output will be ...)|produced
 ar laiku (The server is still encountering the issue ...)|intermittently
 CIDR stands for|classless inter-domain routing
-a previous criminal conviction|prior
 uzņemšanas (Enter ... key when invigilator/trainer will tell you to start)|enrolment
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
 neither, arī ne|nor
@@ -535,7 +533,6 @@ the action or state of including or of being included within a group or structur
 withdraw someone or something from service, in particular, ekspluatācijas pārtraukšana|decommission
 existing or coming before in time, order, or importance, pirms|prior
 piesātināts, sulīgs (I have not been able to detect any packet loss over the VPN, nor is the VPN even close to being ...)|saturated
-of short duration, īss (... period)|brief
 pirms to izdarīt|prior to doing that
 disengage something and remove it, atdalīsies (the script will run and ... from zabbix agent)|detach
 remain undamaged or unaffected by; resist, izturēt, nepadoties|withstand
@@ -566,3 +563,6 @@ drained of one's physical or mental resources; very tired, izsmelts, nomocījies
 conformity in the application of something, typically that which is necessary for the sake of logic, accuracy, or fairness, konsekvence (it can cause ... issues)|consistency
 occur again, periodically, or repeatedly, atkārtojas, atgriezties (the issue is now ...)|recurring
 roughly calculate or judge the value, number, quantity, or extent of, vērtēt (is there any kind of calculation that would give us a way to ... the future requirement?)|estimate
+a previous criminal conviction|prior
+apaļās iekavas (These values correspond to the descriptions in ... located in the PARAMETER column)|parentheses
+of short duration, īss (... period)|brief
