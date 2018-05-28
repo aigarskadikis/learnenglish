@@ -513,7 +513,6 @@ precīzi izteikts, skaidri formulēts (As a result of either ... management acti
 careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
-produce or provide a natural, agricultural, or industrial product, ražot, dot (A running service would ... the following)|yield
 a feeling of uncertainty or lack of conviction, šaubas (The previous commands might work on other distributions, too, although some distributions might use runlevel 4 instead of runlevel 5 for a graphical environment-consult your distribution's documentation when in ...)|doubt
 the way in which one acts or conducts oneself, especially toward others, uzvedība, rīcība (We have only configured some low-level ..., so where's the meat?)|behavior
 a word, letter, or number placed before another, priedēklis (unless you manually changed the ... or installed an older Apache version)|prefix
@@ -529,10 +528,7 @@ make or manufacture from components or raw materials, ražot, uzrādīt (If it h
 ar laiku (The server is still encountering the issue ...)|intermittently
 CIDR stands for|classless inter-domain routing
 a previous criminal conviction|prior
-pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 uzņemšanas (Enter ... key when invigilator/trainer will tell you to start)|enrolment
-a formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law, pārliecība, notiesāšana (she had a previous ... for a similar offense)|conviction
-izpratnes, īpašības vārds, the action or capability of understanding something (There are ... exercises to help)|comprehension
 lai gan (Rony works in an import/export company in Egypt and loves it ... it’s sometimes boring)|although
 neither, arī ne|nor
 the action or state of including or of being included within a group or structure, iekļaušana|inclusion
@@ -559,5 +555,9 @@ arrange or direct the elements of a situation to produce a desired effect (Backu
 izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
 šāda pieeja, trīs vārdi (... seriously reduces the ability of a single misconfigured system to bring down the whole monitoring setup)|such an approach
 sadursme (we chose a key the would not ... with the native key)|clash
-nepieciešamība (This will eliminate the ... of us bugging you)|necessity
 uzmācīgais (Enter enrolment key when .../trainer will tell you to start)|invigilator
+a formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge in a court of law, pārliecība, notiesāšana (she had a previous ... for a similar offense)|conviction
+izpratnes, īpašības vārds, the action or capability of understanding something (There are ... exercises to help)|comprehension
+nepieciešamība (This will eliminate the ... of us bugging you)|necessity
+pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
+produce or provide a natural, agricultural, or industrial product, ražot, dot (A running service would ... the following)|yield
