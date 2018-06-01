@@ -495,17 +495,13 @@ veikspējas gudrība|performance wise
 allow oneself to enjoy the pleasure of, nodoties (let's gather in our training room and ... ourselves in a discussion)|indulge
 express something definitely or clearly in speech or writing, norādīts, noteiks (As ... in the doc, db rollback is not possible)|stated
 officially register as a member of an institution or a student on a course, uzņemt, istāties|enroll
-continue to have something, keep possession of, paturēts, saglabāts, sākas ar 're' (As a result of either explicit management action or per configuration information ... by the managed system)|retained
-pārtverts, aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
 maintain something in its original or existing state, saglabāt, pasargāt, vārdam ir priedēklis (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
 atsaukties, 5 burti, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
 nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 an apparatus for signaling, consisting of an upright with movable parts|semaphore
 atšķirties mežonīgi|vary wildly
-let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
 attēlots, show or represent by a drawing, painting, or other art form (The required connection directions are ... by arrows in the following figure)|depicted
 precīzi izteikts, skaidri formulēts (As a result of either ... management action or per configuration information retained by the managed system)|explicit
-careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
 sniegt papildu atsauces (To ... easy, I suggested you choose a directory to work in, for example, ~/zabbix)|make further references
 a feeling of uncertainty or lack of conviction, šaubas (The previous commands might work on other distributions, too, although some distributions might use runlevel 4 instead of runlevel 5 for a graphical environment-consult your distribution's documentation when in ...)|doubt
 the way in which one acts or conducts oneself, especially toward others, uzvedība, rīcība (We have only configured some low-level ..., so where's the meat?)|behavior
@@ -564,14 +560,18 @@ the continued possession, use, or control of something, saglabāšana (you are u
 pieņemums, a thing that is accepted as true or as certain to happen, without proof (Theoretically such monitoring may be working but few ... must be fulfilled)|assumptions
 vēlamo funkcionalitāti (Depending on your distribution and the ..., you might also need some or all of the following packages)|desired functionality
 stay in a place longer than necessary, typically because of a reluctance to leave, kavējās (this issue has been ... a while and I'd really like to get it resolved)|lingering
-a particular time or instance of an event, izdevība (but on ... we import a template)|occasion
-enroll or be enrolled in the armed services, dabūt savā pusē (as a workaround - you can use custom script, which ... mount points and generates JSON object)|enlists
 apaļās iekavas (These values correspond to the descriptions in ... located in the PARAMETER column)|parentheses
-clearly visible or understood; obvious, acīmredzams (these benefits usually become ... only when a table gets very large)|apparent
 izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
 occur again, periodically, or repeatedly, atkārtojas, atgriezties (the issue is now ...)|recurring
-bewildering or perplexing, neskaidro, apmulsināto (I will discuss with developers about the ... issue)|confusing
 obtain something from a specified source, atvasināt, are priedēkli, 6 burti (But how do we ... the corresponding numeric OID from a textual one)|derive
-sloppiness, unkemptness, niknums|slovenliness
 interrupt an event, activity, or process by causing a disturbance or problem, pārtraukt, sagraut (This functionality can only be included in the next major release, as it can ... existing installations)|disrupt
 spread and promote an idea, theory widely, pavairot, izplatīt (prototype status does not ... to already created entities)|propagate
+sloppiness, unkemptness, niknums, pa vidu vārdam ir line|slovenliness
+a particular time or instance of an event, izdevība (but on ... we import a template)|occasion
+careful thought, typically over a period of time, daudzskaitlī, apsvērumi (Here are a few ... that might help you select the method)|considerations
+continue to have something, keep possession of, paturēts, saglabāts, sākas ar 're' (As a result of either explicit management action or per configuration information ... by the managed system)|retained
+enroll or be enrolled in the armed services, dabūt savā pusē (as a workaround - you can use custom script, which ... mount points and generates JSON object)|enlists
+bewildering or perplexing, neskaidro, apmulsināto, īpašības vārds (I will discuss with developers about the ... issue)|confusing
+clearly visible or understood; obvious, acīmredzams (these benefits usually become ... only when a table gets very large)|apparent
+let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
+pārtverts, aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
