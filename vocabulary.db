@@ -610,12 +610,12 @@ nodrošināšanas laiks|provisioning time
 having been deserted or cast off, pamests, vārdam pa vidu ir padarīts vārds angļu valodā (sounds like a fixing an ... zabbix server)|abandoned
 having or showing eagerness or enthusiasm, vērīgs, aizrautīgs (we are ... to get this issue fixed ASAP)|keen
 PoC stands for|proof of concept
-DRBD stands for|distributed replicated block device
-disturbance or problems that interrupt an event, activity, or process, traucējumi (the schedule was planned to minimize ...)|disruption
-make clearer and easier to understand (this book attempts to ... technology)|demystify
-a limitation or restriction, ierobežojumi, saražģītais kļūdas paziņojums zabbixā (the availability of water is the main ... on food production)|constraint
 a minor change in a document, grozījumi (please make ... as appropriate)|amendments
 EDFA stands for|erbium-doped fiber amplifier
-form or group into a class or cluster, sakopot, pulcēties (Perhaps then we should notify of the problem and ... by eventid)|aggregate
-koncepta pierādījuma vienība (Any subset of the parameters d, c, l, m, and s may be present in a ...)|poc instance
 an area of a country or city, especially one regarded as a distinct unit because of a particular characteristic, apgabals (I would like a map that covers the whole school ...)|district
+form or group into a class or cluster, sakopot, pulcēties (Perhaps then we should notify of the problem and ... by eventid)|aggregate
+a limitation or restriction, ierobežojumi, saražģītais kļūdas paziņojums zabbixā (the availability of water is the main ... on food production)|constraint
+disturbance or problems that interrupt an event, activity, or process, traucējumi (the schedule was planned to minimize ...)|disruption
+DRBD stands for|distributed replicated block device
+make clearer and easier to understand (this book attempts to ... technology)|demystify
+koncepta pierādījuma vienība (Any subset of the parameters d, c, l, m, and s may be present in a ...)|poc instance
