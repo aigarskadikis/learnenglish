@@ -594,11 +594,6 @@ software is installed and runs on computers on the premises in the building of t
 balstīts uz droselēšanu (Percona XtraBackup performs ... on the number of IO operations per second )|throttling based
 SDN stands for|software defined network
 in other words|i.e.
-make something denser or more concentrated, kondesēt (In a description, you stated that you want to ... these 19 instances)|condense
-improvement in quality (these will improve the customer experience)|enhancements
-iemītnieks (Not ... OS performance)|guest
-surround or close off on all sides,pievienot,iežogot|enclose
-make suffering or problem less severe, atvieglot, sākas ar viss un beidzas ar apēst (Please let me know what can be done to ... these aggressive SQL calls)|alleviate
 MAN stands for|metropolitan area network
 IMHO stands for, saudzīgs viedoklis|in my humble opinion
 nodrošināšanas laiks|provisioning time
@@ -619,3 +614,8 @@ imagine as a future possibility, paredzēts (Could you please expand in detail o
 make someone aware of or familiar with, iepazīties, vārds satur aint (Within the next few days I will surely contact each of you personally to get ... closer)|acquainted
 regard or consider in a specified way, uzskatīt, domāt par (As far as I understand, the bug here is ... to be too hard to fix)|deemed
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
+iemītnieks (Not ... OS performance)|guest
+improvement in quality (these will improve the customer experience)|enhancements
+make something denser or more concentrated, kondesēt (In a description, you stated that you want to ... these 19 instances)|condense
+make suffering or problem less severe, atvieglot, sākas ar viss un beidzas ar apēst (Please let me know what can be done to ... these aggressive SQL calls)|alleviate
+surround or close off on all sides,pievienot,iežogot|enclose
