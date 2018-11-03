@@ -351,7 +351,6 @@ notikums, gadījums (The number at the end of the line is the event ID-a unique 
 reizēm, laiku pa laikam (Zabbix daemons now read /etc/resolv.conf file ...)|occasionally
 kļūdains (a car with ... brakes)|faulty
 turpina, pastāvēt uz savu (unfortunately that didn't change anything and the issue still ...)|persists
-mēģinu (I'm ... to use discovery rules)|attempting
 nenozīmīgs, niecīgs, neievērojams (However the impact is ...)|insignificant
 spriedums (the jury returned a ... of 'not guilty')|verdict
 novērot (You should ... your installation and when it goes below the certain threshold - rise them up)|observe
@@ -381,7 +380,6 @@ izpildīts, īstenotas, novestas līdz galam (Operations can be ... only if a pr
 pārprast (getting feedback on the first two items would be great - in case i have ... something there)|misunderstood
 novirzīt (It would not be wise to ... from our planned course of action)|deviate
 paredzams (during the rest of the day, the number of sessions is neither ..., nor that significant)|predictable
-brīvprātīgi (we are funded by ... contributions)|voluntary
 vienreizējs|one-off
 uzturmas (Perhaps we can treat this a a support request in a need of a ... solution)|maintainable
 nobirums (Was there any network ...)|outage
@@ -438,7 +436,6 @@ putra, piezputra|porridge
 prasība (similar to restarting the Apache web server, you might have to uncomment the ... option in /etc/sudoers)|requiretty
 atvieglot (he couldn't prevent her pain, only ... it)|alleviate
 sakritība, a remarkable concurrence of events or circumstances without apparent causal connection|coincidence
-an obstruction that makes movement or flow difficult or impossible|blockage
 šķietami, so as to give the impression of having a certain quality|seemingly
 atgūt, reģenerēt, obtain the return of (Memory used does not get ... after closing the window or navigating away from the dashboard page)|reclaimed
 izraisīt (Navigating to the dashboard ... the node to eventually run out of memory and crash)|causes
@@ -482,7 +479,6 @@ sparīgāks un laimīgāks (the more resources you give to Zabbix, the ... it wi
 tieksme, an inclination toward a particular type of behavior (But remember that test installations have the ... of becoming production installations later)|tendency
 izlaižot, leave out or exclude, either intentionally or forgetfully (If you do not know the password, you can try ... -p)|omitting
 sākotnējais, existing or occurring at the beginning (Let us populate the newly created database with a Zabbix schema and ... data)|initial
-an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
 tieša pieeja (If you installed from source, let's try the ...-running the binaries)|direct approach
 apdzīvot, ar ing (with the item in place, lets proceed by creating and ... some files that should be matched by our regexp)|populating
 mērens (... climate)|temperate
@@ -509,7 +505,6 @@ a word, letter, or number placed before another, priedēklis (unless you manuall
 give a polite word or sign of welcome or recognition to someone on meeting, sveicināts (If everything has been configured properly, you should be ... by the installation wizard)|greeted
 suitable or proper in the circumstances, piemērots, atbilstošs (If you left the defaults where ... and your database connection test was successful, it should be safe to continue by clicking on Next step)|appropriate
 put a limit on, keep under control, ierobežot (It is suggested that you ... the permissions on this file afterwards to be readable only by the web server user, by issuing these commands as root)|restrict
-pēc tam, vēlāk (It is suggested that you restrict the permissions on this file ... to be readable only by the web server user, by issuing these commands as root)|afterwards
 easily understood, not needing explanation, pašsaprotami, ar svītru pa vidu (Most of the parameters in that file should be ...)|self-explanatory
 an advantage or profit gained from something, gūt labumu (The defaults for the host and port are suitable for us, but we could ... from filling in the Name field)|benefit
 suggest as a desirable or necessary course of action, norāda (This ... that the zabbix_agentd process is running and listening on all addresses on port 10050, just what we need)|indicates
@@ -620,3 +615,8 @@ make something denser or more concentrated, kondesēt (In a description, you sta
 surround or close off on all sides,pievienot,iežogot|enclose
 evaluation or estimation of the nature, quality, or ability of someone or something, novērtējums (A full ... of our existing deployment)|assessment
 make suffering or problem less severe, atvieglot, sākas ar viss un beidzas ar apēst (Please let me know what can be done to ... these aggressive SQL calls)|alleviate
+an obstruction that makes movement or flow difficult or impossible|blockage
+an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
+brīvprātīgi (we are funded by ... contributions)|voluntary
+mēģinu (I'm ... to use discovery rules)|attempting
+pēc tam, vēlāk (It is suggested that you restrict the permissions on this file ... to be readable only by the web server user, by issuing these commands as root)|afterwards
