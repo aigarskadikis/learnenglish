@@ -599,7 +599,6 @@ a minor change in a document, grozījumi (please make ... as appropriate)|amendm
 EDFA stands for|erbium-doped fiber amplifier
 an area of a country or city, especially one regarded as a distinct unit because of a particular characteristic, apgabals (I would like a map that covers the whole school ...)|district
 form or group into a class or cluster, sakopot, pulcēties (Perhaps then we should notify of the problem and ... by eventid)|aggregate
-a limitation or restriction, ierobežojumi, saražģītais kļūdas paziņojums zabbixā (the availability of water is the main ... on food production)|constraint
 disturbance or problems that interrupt an event, activity, or process, traucējumi (the schedule was planned to minimize ...)|disruption
 DRBD stands for|distributed replicated block device
 make clearer and easier to understand (this book attempts to ... technology)|demystify
@@ -607,7 +606,6 @@ koncepta pierādījuma vienība (Any subset of the parameters d, c, l, m, and s 
 transport or carry to a place, nodot, nogādāt (whichever way works to ... the intent is good)|convey
 regard or consider in a specified way, uzskatīt, domāt par (As far as I understand, the bug here is ... to be too hard to fix)|deemed
 iemītnieks (Not ... OS performance)|guest
-improvement in quality (really good security ...)|enhancement
 make suffering or problem less severe, atvieglot, sākas ar viss un beidzas ar apēst (Please let me know what can be done to ... these aggressive SQL calls)|alleviate
 an obstruction that makes movement or flow difficult or impossible|blockage
 an official or authoritative instruction (Please explain what happens in the database when a check now ... is given)|directive
@@ -619,9 +617,11 @@ brīvprātīgi (we are funded by ... contributions)|voluntary
 force to be accepted or put in place, uzlikt, uzspiest (Some network appliances ... a delay on returning a valid SSH banner when setting up a connection as a security measure.)|impose
 take a substance into the body by swallowing or absorbing it, uzņemt, norīt|ingest
 evaluation or estimation of the nature, quality, or ability of someone or something, novērtējums (A full ... of our existing deployment)|assessment
-surround or close off on all sides,pievienot,iežogot|enclose
 imagine as a future possibility, paredzēts (Could you please expand in detail on what was the ... solution?)|envisioned
 make someone aware of or familiar with, iepazīties, vārds satur aint (Within the next few days I will surely contact each of you personally to get ... closer)|acquainted
 make something denser or more concentrated, kondesēt (In a description, you stated that you want to ... these 19 instances)|condense
 mēģinu (I'm ... to use discovery rules)|attempting
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
+a limitation or restriction, ierobežojumi, saražģītais kļūdas paziņojums zabbixā (the availability of water is the main ... on food production)|constraint
+improvement in quality (really good security ...)|enhancement
+surround or close off on all sides,pievienot,iežogot|enclose
