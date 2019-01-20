@@ -67,64 +67,66 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 	if [ $len -gt 0 ]; then
 
 
-		#alternative exit answer
+		#look for "end" as alternate answer to quite the program now
 		echo "end" | grep "$answer" > /dev/null
 		if [ $? -eq 0 ]; then
 		
-		echo
-		echo good bye!
-		c=$((c+1000))
+			echo
+			echo good bye!
+			c=$((c+1000))
 		
 		else
-
-	        echo "help" | grep "$answer" > /dev/null
-		if [ $? -eq 0 ]; then
-		echo help detected
-		else
-		
-		#compare the correct answer with user input
-		echo $correct | grep "$answer" > /dev/null
-
-			#if you typed correct answer and the letter count is equal
-			if [ $? -eq 0 -a ${#correct} -eq ${#answer} ]; then
-
-			c=$((c+1))
-			togo=$((s-c))
-
-			echo correct! $togo more to go. $e incorrect answers.
+            #look if the user typed help
+			echo "help" | grep "$answer" > /dev/null
+			if [ $? -eq 0 ]; then
+				echo the word start with
+				echo "$answer" | grep -E -o "^."
+				
+			else
 			
-			#set one more word as known
+				#compare the correct answer with user input
+				echo $correct | grep "$answer" > /dev/null
 
-			#put the word in database (session)
-			echo "$line">> "$tmp"
+					#if you typed correct answer and the letter count is equal
+					if [ $? -eq 0 -a ${#correct} -eq ${#answer} ]; then
 
-			#the word in not coorect. bad news
-			else 
-			echo wrong!
-			sleep 1
-			clear
-			echo
-			echo "   your: $answer"
-			echo
-			echo "correct: $correct"
-			echo 
-			sleep 2
+					c=$((c+1))
+					togo=$((s-c))
 
-				echo "$line" | grep "(.*)" > /dev/null
-				if [ $? -eq 0 ]; then
-				full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
-				echo "$full"
-				fi
-			
-			echo
-			read -p "Press any key to continue... "
-			
-			clear
-			e=$((e+1))
-			echo "$line">> "$todo"
+					echo correct! $togo more to go. $e incorrect answers.
+					
+					#set one more word as known
+
+					#put the word in database (session)
+					echo "$line">> "$tmp"
+
+					#the word in not coorect. bad news
+					else 
+					echo wrong!
+					sleep 1
+					clear
+					echo
+					echo "   your: $answer"
+					echo
+					echo "correct: $correct"
+					echo 
+					sleep 2
+
+						echo "$line" | grep "(.*)" > /dev/null
+						if [ $? -eq 0 ]; then
+						full=$(echo "$ask" | sed "s/\.\.\./$correct/" | sed "s/^.*(//g;s/).*$//g")
+						echo "$full"
+						fi
+					
+					echo
+					read -p "Press any key to continue... "
+					
+					clear
+					e=$((e+1))
+					echo "$line">> "$todo"
+					fi
+					echo
 			fi
-			echo
-		fi
 		fi
 	
 	#if the answer was empy string
