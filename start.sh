@@ -79,8 +79,9 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
             #look if the user typed help
 			echo "help" | grep "$answer" > /dev/null
 			if [ $? -eq 0 ]; then
-				echo the word start with letter "$(echo \"$answer\" | grep -E -o \"^.\")"
-				
+				echo the word start with letter:
+				echo "$answer" | grep -E -o "^."
+				echo
 				
 			else
 			
