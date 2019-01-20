@@ -80,7 +80,7 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 			echo "help" | grep "$answer" > /dev/null
 			if [ $? -eq 0 ]; then
 			    startwith=$(echo "$correct" | grep -E -o "^.")
-				echo the word start with letter "$startwith"
+				echo the word starts with letter \"$startwith\"
 				echo
 				
 			else
