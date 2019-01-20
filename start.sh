@@ -5,7 +5,7 @@ start=$(date +%s)
 if [ ! -z "$1" ]; then
 last=$1
 else
-last=500
+last=9999
 fi
 
 clear

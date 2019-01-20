@@ -5,7 +5,6 @@ brīvs gads (I have had a ... and done some travelling)|gap year
 talons, žetons (So, you win the book ... Ethan)|token
 apmesties, nokārtot, atrisināt (one day I will ... down and raise a family)|settle
 divvalodīga (a ... secretary)|bilingual
-uz ārzemēm, ārpus mājas, ārzemes (do you go ... to watch the big races?)|abroad
 kopums, kopumā (so I think on the ... I think it is better to tell the truth)|whole
 daudzskaitlis (Is nobody singular or ... ?)|plural
 tādā veidā, tādējādi (it cannot graph logs, ... there is a history link)|thus
@@ -228,7 +227,6 @@ iešņaukt (remember that anyone will be able to ... the root password)|sniff
 piemēram, divi vārdi (..., we can make use of avg, count, max, min, sum, and so on)|for instance
 mest, sviest, iegāzt (What we have not seen yet is a way to test our triggers before ... everything in production)|throwing
 uzraksts, sinonīms vārdam teika (The Show legend will display the graphs ... if marked)|legend
-make small adjustments in order to achieve the best or a desired performance, divi vārdi (Press the Show filter button on top to ... the selection by host, host group, and period)|fine tune
 spraigums, spriegums (Palette will give you the ability to change the colors and the ...)|intensity
 mērogojams|scalable
 trūkumi, daudzskaitlī, sīmējuma-muguras (One of the ... is that Zabbix will create automatically a new guest for each VMware guest and link it to a VMware guest template)|drawbacks
@@ -492,7 +490,6 @@ allow oneself to enjoy the pleasure of, nodoties (let's gather in our training r
 express something definitely or clearly in speech or writing, norādīts, noteiks (As ... in the doc, db rollback is not possible)|stated
 officially register as a member of an institution or a student on a course, uzņemt, istāties|enroll
 maintain something in its original or existing state, saglabāt, pasargāt, vārdam ir priedēklis (Once a language has less than about a hundred speakers, it is almost impossible to ... it)|preserve
-atsaukties, 5 burti, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
 nolūkā, ievada teikums, trīs vārdi (... of our installation, we will settle for running Zabbix on Linux, using a MySQL database)|for the purpose
 an apparatus for signaling, consisting of an upright with movable parts|semaphore
 atšķirties mežonīgi|vary wildly
@@ -504,7 +501,6 @@ the way in which one acts or conducts oneself, especially toward others, uzvedī
 a word, letter, or number placed before another, priedēklis (unless you manually changed the ... or installed an older Apache version)|prefix
 give a polite word or sign of welcome or recognition to someone on meeting, sveicināts (If everything has been configured properly, you should be ... by the installation wizard)|greeted
 suitable or proper in the circumstances, piemērots, atbilstošs (If you left the defaults where ... and your database connection test was successful, it should be safe to continue by clicking on Next step)|appropriate
-put a limit on, keep under control, ierobežot (It is suggested that you ... the permissions on this file afterwards to be readable only by the web server user, by issuing these commands as root)|restrict
 easily understood, not needing explanation, pašsaprotami, ar svītru pa vidu (Most of the parameters in that file should be ...)|self-explanatory
 an advantage or profit gained from something, gūt labumu (The defaults for the host and port are suitable for us, but we could ... from filling in the Name field)|benefit
 suggest as a desirable or necessary course of action, norāda (This ... that the zabbix_agentd process is running and listening on all addresses on port 10050, just what we need)|indicates
@@ -631,3 +627,7 @@ to a great or significant extent, būtiski (In our case the B-Tree type of index
 an area of a country or city, especially one regarded as a distinct unit because of a particular characteristic, apgabals (I would like a map that covers the whole school ...)|district
 form or group into a class or cluster, sakopot, pulcēties (Perhaps then we should notify of the problem and ... by eventid)|aggregate
 patstāvīgums (the grading system is to be streamlined to ensure greater ...)|consistency
+atsaukties, 5 burti, trace or attribute something to someone as a cause or source (The following commands ... to the files as they appear in the Zabbix source)|refer
+make small adjustments in order to achieve the best or a desired performance, divi vārdi (Press the Show filter button on top to ... the selection by host, host group, and period)|fine tune
+put a limit on, keep under control, ierobežot (It is suggested that you ... the permissions on this file afterwards to be readable only by the web server user, by issuing these commands as root)|restrict
+uz ārzemēm, ārpus mājas, ārzemes (do you go ... to watch the big races?)|abroad
