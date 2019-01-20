@@ -75,14 +75,11 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 		echo good bye!
 		c=$((c+1000))
 		
-		elif
-		
-        echo "help" | grep "$answer" > /dev/null
-        if [ $? -eq 0 ]; then
-		echo help detected
-		fi
-		
+		else
 
+	        echo "help" | grep "$answer" > /dev/null
+		if [ $? -eq 0 ]; then
+		echo help detected
 		else
 		
 		#compare the correct answer with user input
@@ -127,7 +124,7 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 			echo "$line">> "$todo"
 			fi
 			echo
-		
+		fi
 		fi
 	
 	#if the answer was empy string
