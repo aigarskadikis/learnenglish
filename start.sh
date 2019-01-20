@@ -69,7 +69,13 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 
 		#alternative exit answer
 		echo "end" | grep "$answer" > /dev/null
-		if [ $? -ne 0 ]; then
+		if [ $? -eq 0 ]; then
+		
+		echo
+		echo good bye!
+		c=$((c+1000))
+
+		else
 		
 		#compare the correct answer with user input
 		echo $correct | grep "$answer" > /dev/null
@@ -114,8 +120,6 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 			fi
 			echo
 		
-		else
-		c=$((c+1000))
 		fi
 	
 	#if the answer was empy string
