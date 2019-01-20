@@ -74,6 +74,14 @@ line=$(grep -v "^$" vocabulary.db | tail -$last | sort -R | head -1)
 		echo
 		echo good bye!
 		c=$((c+1000))
+		
+		elif
+		
+        echo "help" | grep "$answer" > /dev/null
+        if [ $? -eq 0 ]; then
+		echo help detected
+		fi
+		
 
 		else
 		
