@@ -126,7 +126,6 @@ pārklājas (That allows us to ... host group permissions with action conditions
 izsmalcināts (That allows us to overlap host group permissions with action conditions to create quite ... notification scenarios)|sophisticated
 izcelt vienu pašu ārā (Allows us to ... an important or unimportant host for action invocation)|single out
 izsaukšana (A bit more flexible than the previous one, with this condition we can limit ... based on trigger name)|invocation
-pēc (only acting ... triggers that have the string database in their names)|upon
 nomākts, abspiests (Operations can be carried out only if a problem has happened in a specified time period, or they can be ... for a specified time period instead)|suppressed
 viedturis (Actual ... letters are likely to be different in the Zabbix frontend as the conditions are ordered)|placeholder
 vienības (A set of ... .items, triggers, etc. ready to be applied to one or several hosts)|entities
@@ -185,7 +184,6 @@ apakšpunkts, below an average level|subpar
 aizrautīgi (High sense of responsibility, ability to work in a team and ... to learn and grow professionally)|eagerness
 ieguvums (Constant in-depth ... of Zabbix monitoring software)|acquisition
 apmeklēt (As a general rule, all persons wishing to ... the conference must register and pay for participation)|attend
-realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 cūkošanās (neat and clean script system starts to grow into a performance-... script hairball that costs more time in upkeep than it saves)|hogging
 a ball of hair that collects in the stomach of a cat or similar animal as a result of the animal's licking its coat|hairball
 atškirt (Humans are better at ... visualized data than raw numbers)|distinguishing
@@ -257,7 +255,6 @@ netālu, blakus (..., we can find actual information we are interested in-traffi
 salikts (Make sure that the ... OID is entered correctly, paying close attention to quotes and spelling)|compound
 kopējā slodze (Using dynamic index items can slightly increase ..., as two SNMP values are required to obtain the final data)|overall load
 lielapjoma pieprasījumi|bulk requests
-pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 daļēja decentralizācija, pa daļām (One drawback is ... of the configuration. SNMP trap-sending conditions and parameters have to be set for each device or device group individually)|partial decentralization
 papildināt (Before we create a rule, it might be helpful to understand what an LLD rule is and what other entities ... it)|supplement
 izcelsmes (Filtering values by ... host)|originating
@@ -291,7 +288,6 @@ novērtē (Instead it ... the ICMP ping itself)|evaluates
 iesaistīt, iejaukt, iepīt (Some of the approaches you can try when troubleshooting the issue may ... reinstalling the browser completely on your OS)|involve
 nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|irregular
 vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values
-sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
 acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
 audzināt (What has your project team done to help build and ... your community)|nurture
 izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
@@ -439,7 +435,6 @@ atgūt, reģenerēt, obtain the return of (Memory used does not get ... after cl
 izraisīt (Navigating to the dashboard ... the node to eventually run out of memory and crash)|causes
 noliegumi (I can see different ...)|denials
 apgūt, buy or obtain an object or asset for oneself (I tried to ... the information on the internet, but could find nothing useful)|acquire
-dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 sākotnēji (... they were supposed to be only included in 4.0)|initially
 virtuves māksla, a style or method of cooking, especially as characteristic of a particular country, region, or establishment|cuisine
 izmantotas (The standard output can be further ... to created triggers)|utilised
@@ -641,7 +636,12 @@ at or to the further side of, aiz (Firewall and SELinux are disabled or configur
 lift or move to a higher position or level, paceļ gaismā (It is often possible to find such a JMX endpoint and the way it looks ... lots of questions)|raises
 turn to and adopt a strategy so as to resolve a difficult situation, uzturēties, glabāties (it can greatly improve your life, because you had to ... to various tricks before, and now everything works, as they say, out of the box)|resort
 unnecessary, especially through being more than enough, lieks, nevajadzīgs (If you know that the RMI registry returns the address and port of the RMI server at the request of the client, it becomes clear that the first part here is ...)|superfluous
-think about a fact, proposal, or request deeply and at length, sagatavot karstvīnu (we have be ... the possibility of creating a server with latest version of curl)|mulling
+think about a fact, proposal, or request deeply and at length (we have be ... the possibility of creating a server with latest version of curl)|mulling
 vīriešu dzimte|masculine
 fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
 fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
+dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
+pēc (only acting ... triggers that have the string database in their names)|upon
+pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
+realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
+sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
