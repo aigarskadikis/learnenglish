@@ -623,7 +623,6 @@ observe and direct the execution of a task (I tell you to ... me in the process 
 regard or consider in a specified way, uzskatīt, domāt par (As far as I understand, the bug here is ... to be too hard to fix)|deemed
 SDN stands for|software defined network
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
-DRBD stands for|distributed replicated block device
 imagine as a future possibility, paredzēts (Could you please expand in detail on what was the ... solution?)|envisioned
 relevant or appropriate, piemērojams, derīgs (According to documentation only Type, Key, Type of information, Update interval, Log time format options are ... and others are just ignored)|applicable
 in a manner conforming with, atbilstoši (If not, then you can do it in ... with the documentation)|accordance
@@ -639,9 +638,11 @@ unnecessary, especially through being more than enough, lieks, nevajadzīgs (If 
 think about a fact, proposal, or request deeply and at length (we have be ... the possibility of creating a server with latest version of curl)|mulling
 vīriešu dzimte|masculine
 fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
-fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
 dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 pēc (only acting ... triggers that have the string database in their names)|upon
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
+fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
+DRBD stands for|distributed replicated block device
+with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
