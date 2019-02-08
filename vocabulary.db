@@ -637,14 +637,16 @@ turn to and adopt a strategy so as to resolve a difficult situation, uzturēties
 unnecessary, especially through being more than enough, lieks, nevajadzīgs (If you know that the RMI registry returns the address and port of the RMI server at the request of the client, it becomes clear that the first part here is ...)|superfluous
 think about a fact, proposal, or request deeply and at length (we have be ... the possibility of creating a server with latest version of curl)|mulling
 vīriešu dzimte|masculine
-fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
 dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 pēc (only acting ... triggers that have the string database in their names)|upon
-pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
 fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
 DRBD stands for|distributed replicated block device
+organize and carry out, vadīšana (I will be ... some additional tests to validate scripts)|conducting
+no longer produced or used; out of date, novecojis (macro hostname is ...)|obsolete
+large or heavy and therefore difficult to carry or use, apgrūtinošs (creating items on the server and then waiting for them to be updated through the gateway can be quite ... if we don not know the exact parameters beforehand)|cumbersome
 with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
-organize and carry out, vadīšana (I will be ... some additional tests to validate that the specific scripts)|conducting
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
+fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
+pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
