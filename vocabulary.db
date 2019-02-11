@@ -618,7 +618,6 @@ disturbance or problems that interrupt an event, activity, or process, traucēju
 galvenā mītne|headquarter
 MTU stands for|maximum transmission unit
 capable of working successfully; feasible, dzīvotspējīgs (does this sound like a ... alternative?)|viable
-izmeklēšanas ceļš|avenue of inquiry
 observe and direct the execution of a task (I tell you to ... me in the process in the case we have any issue)|supervise
 regard or consider in a specified way, uzskatīt, domāt par (As far as I understand, the bug here is ... to be too hard to fix)|deemed
 SDN stands for|software defined network
@@ -646,7 +645,8 @@ large or heavy and therefore difficult to carry or use, apgrūtinošs (creating 
 with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
 fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
-pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 of the thing just mentioned, tās (And allows you to specify whether discovery of MBeans or their attributes is required, and what pattern to use for search ...)|thereof
 organize and carry out, vadīšana (I will be ... some additional tests to validate scripts)|conducting
 vīriešu dzimte|masculine
+izmeklēšanas ceļš|avenue of inquiry
+pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
