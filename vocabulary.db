@@ -304,14 +304,12 @@ kupris, aizmugurkupris (we were on a boat looking for ... whales)|hampback
 kāpt, pieaugt (if the NFS service is down or is having performance problems of its own, then the system load on these two servers most likely has ... because of that, and the NFS server admin will have to take care of that)|risen
 beidzas, pārtraukt, norimt (when it ... to match, it switches back to the OK state)|ceases
 apzināts (People today have become more ... of their individual responsibility to protect the environment)|conscious
-par, attiecoties uz (here, you can set some options ... your user account)|concerning
 pamatotu, garantētu, attaisnotu (if we had a trigger that ... rebooting the whole system, we would create an action with appropriate conditions)|warranted
 aptver (If an operation ... steps 5-7)|spans
 nepārprotami (this is the property that ... specifies what data has to be gathered for this item)|explicitly
 noskaidrot, jautāt (Where can I ... about the teaching job I saw in the newspaper?)|inquire
 gudrs, prātīgs (The government has taken the ... decision to consult the public before passing the proposed law)|wise
 ierosinu (As a solution to this problem I ... that all negotiation parameters be delimited at the end)|propose
-lieta, darišana, jautajums (The school is investigating the ...)|affair
 inquire too closely into a person's private affairs|prying
 pieņēmums (That was the ... but needed to make sure)|assumption
 pulksteņa mehānisms|clockwork
@@ -433,14 +431,12 @@ sakritība, a remarkable concurrence of events or circumstances without apparent
 šķietami, so as to give the impression of having a certain quality|seemingly
 atgūt, reģenerēt, obtain the return of (Memory used does not get ... after closing the window or navigating away from the dashboard page)|reclaimed
 izraisīt (Navigating to the dashboard ... the node to eventually run out of memory and crash)|causes
-noliegumi (I can see different ...)|denials
 apgūt, buy or obtain an object or asset for oneself (I tried to ... the information on the internet, but could find nothing useful)|acquire
 sākotnēji (... they were supposed to be only included in 4.0)|initially
 virtuves māksla, a style or method of cooking, especially as characteristic of a particular country, region, or establishment|cuisine
 izmantotas (The standard output can be further ... to created triggers)|utilised
 beidzot (Navigating to the dashboard causes the node to ... run out of memory and crash)|eventually
 a mixture of flour and butter that is rubbed to the texture of breadcrumbs and cooked as a topping for fruit|crumbles
-daļēji (I think I was able to reproduce the issue ...)|partially
 domādams, izskatās ka (the Yakima Indians ... came from Asia by way of the Bering Strait)|presumably
 sakārtojās, divi vārdi (glad it ...)|sorted out
 turpinātu (Key point is memory required for PHP engine to ... the data through the PHP code)|proceed
@@ -550,7 +546,6 @@ apaļās iekavas (These values correspond to the descriptions in ... located in 
 izstāde mikslis (The new CEBIT is a ..., conferences and festival, with more than 200,000 participants)|mix of exhibition
 occur again, periodically, or repeatedly, atkārtojas, atgriezties (the issue is now ...)|recurring
 obtain something from a specified source, atvasināt, are priedēkli, 6 burti (But how do we ... the corresponding numeric OID from a textual one)|derive
-interrupt an event, activity, or process by causing a disturbance or problem, pārtraukt, sagraut (This functionality can only be included in the next major release, as it can ... existing installations)|disrupt
 spread and promote an idea, theory widely, pavairot, izplatīt (prototype status does not ... to already created entities)|propagate
 sloppiness, unkemptness, niknums, pa vidu vārdam ir line|slovenliness
 a particular time or instance of an event, izdevība (but on ... we import a template)|occasion
@@ -662,3 +657,8 @@ process of absorbing information, norīšana (do you have some kind of best prac
 declare one's public approval, apstiprināts (that is likely to be the library that is ... by the packagers and maintained well)|endorsed
 not discovered or known about, uncertain, neskaidrs (There could be differences regarding support for some specific features, but those are likely to be more ... ones)|obscure
 secretly make plans to carry out an illegal or harmful action (the two men are serving sentences for ... a bomb campaign)|plotting
+to a limited extent, daļēji (I think I was able to reproduce the issue ...)|partially
+interrupt an event, activity, or process by causing a disturbance or problem, pārtraukt, sagraut (This functionality can only be included in the next major release, as it can ... existing installations)|disrupt
+an event or sequence of events of a specified kind or that has previously been referred to, lieta, darišana, jautajums (The school is investigating the ...)|affair
+action of declaring something to be untrue, noliegumi daudzskaitlī (I can see different ...)|denials
+on the subject of or in connection with, about, par, attiecoties uz (here, you can set some options ... your user account)|concerning
