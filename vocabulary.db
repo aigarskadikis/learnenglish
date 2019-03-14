@@ -290,7 +290,6 @@ nesimetrisks, neregulārs (occurring at ... intervals or only in a few places)|i
 vērtību atgūšana (Start snmpd again, and test the ... using version 3)|retrieval of values
 acīmredzams (The flow of information between Zabbix entities can be non-... at first glance)|obvious
 audzināt (What has your project team done to help build and ... your community)|nurture
-izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 nepieciešams (Add the user that Zabbix would connect to the database as, and grant the ... permissions to this user)|necessary
 pārvietots (the window itself can be ... vertically, but not horizontally)|repositioned
 veltīt, no visas sirds (The company has decided to ... its main attention to increasing business in the developing Chinese market)|devote
@@ -629,11 +628,9 @@ lift or move to a higher position or level, paceļ gaismā (It is often possible
 turn to and adopt a strategy so as to resolve a difficult situation, uzturēties, glabāties (it can greatly improve your life, because you had to ... to various tricks before, and now everything works, as they say, out of the box)|resort
 unnecessary, especially through being more than enough, lieks, nevajadzīgs (If you know that the RMI registry returns the address and port of the RMI server at the request of the client, it becomes clear that the first part here is ...)|superfluous
 think about a fact, proposal, or request deeply and at length (we have be ... the possibility of creating a server with latest version of curl)|mulling
-dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 pēc (only acting ... triggers that have the string database in their names)|upon
 realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
-fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
 with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
 fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
@@ -654,7 +651,6 @@ on the subject of or in connection with, about, par, attiecoties uz (here, you c
 process of absorbing information, norīšana (do you have some kind of best practices to deal with ... delays affecting nodata triggers)|ingestion
 action of declaring something to be untrue, noliegumi daudzskaitlī (I can see different ...)|denials
 not present in a place, at an occasion, or as part of something, iztrūkstošs (Depending on the cache state the value and error fields can be ...)|absent
-an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
 closely compacted in substance, blīvs (Sorry for being ... here)|dense
 done on purpose, apzināti, tīšs, ar nolūku (Maybe an issue would be good to clarify if this is ...)|intentional
 not or no longer needed or useful; superfluous (from one point of view it is ... to force users to configure actions as well)|redundant
@@ -664,3 +660,7 @@ DRBD stands for|distributed replicated block device
 large or heavy and therefore difficult to carry or use, apgrūtinošs (creating items on the server and then waiting for them to be updated through the gateway can be quite ... if we don not know the exact parameters beforehand)|cumbersome
 created or done for a particular purpose as necessary|ad hoc
 occur at or during the same time, sakrīt (publication is timed to ... with a major exhibition)|coincide
+dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
+izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
+an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
+fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
