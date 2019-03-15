@@ -624,12 +624,9 @@ make a choice from a range of possibilities, izvēlēties, 3 burti (We ... not t
 in a natural or raw state; not yet processed or refined, neapstrādāts, rupjš (This function is the responsibility of the undocumented jmx.discovery key. The documentation mentioned nothing about it, because it was still a very ... function)|crude
 the arrival of a notable person, thing, or event, atnākšana, atbalsta atnākšana (JMX discovery appeared in Zabbix simultaneously with the ... of native support for monitoring Java applications via JMX)|advent
 at or to the further side of, aiz (Firewall and SELinux are disabled or configured accordingly, but this is ... the scope of the article)|beyond
-lift or move to a higher position or level, paceļ gaismā (It is often possible to find such a JMX endpoint and the way it looks ... lots of questions)|raises
-turn to and adopt a strategy so as to resolve a difficult situation, uzturēties, glabāties (it can greatly improve your life, because you had to ... to various tricks before, and now everything works, as they say, out of the box)|resort
 unnecessary, especially through being more than enough, lieks, nevajadzīgs (If you know that the RMI registry returns the address and port of the RMI server at the request of the client, it becomes clear that the first part here is ...)|superfluous
 think about a fact, proposal, or request deeply and at length (we have be ... the possibility of creating a server with latest version of curl)|mulling
 pēc (only acting ... triggers that have the string database in their names)|upon
-realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
 with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
@@ -638,7 +635,6 @@ of the thing just mentioned, tās (And allows you to specify whether discovery o
 vīriešu dzimte|masculine
 izmeklēšanas ceļš|avenue of inquiry
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
-DST stands for|daylight saving time
 made up of various parts or elements, jaukts (it is a ... data type with tabular data)|composite
 no longer produced or used; out of date, novecojis (macro hostname is ...)|obsolete
 strongly suggest the truth or existence of, nozīmē (implementation does not ... automatic migration to database)|imply
@@ -664,3 +660,7 @@ dažādība, the quality or state of being different or diverse (Well, I’m not
 izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
 fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
+DST stands for|daylight saving time
+lift or move to a higher position or level, paceļ gaismā (It is often possible to find such a JMX endpoint and the way it looks ... lots of questions)|raises
+realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
+turn to and adopt a strategy so as to resolve a difficult situation, uzturēties, glabāties (it can greatly improve your life, because you had to ... to various tricks before, and now everything works, as they say, out of the box)|resort
