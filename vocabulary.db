@@ -556,7 +556,6 @@ clearly visible or understood; obvious, acīmredzams (these benefits usually bec
 let out, izlaist, supply or distribute (To actually compile Zabbix, ... the following command)|issue
 pārtverts, aizturēts, obstruct someone or something so as to prevent them from continuing to a destination (Using this technology, servers can send traffic safely between the server and the client without the concern that the messages will be ... and read)|intercepted
 take food into the body by swallowing or absorbing it, norijot (I was talking about data being ... by zabbix server into the database)|ingested
-without being affected by, neraugoties uz to (... I see values in the log, they do not appear in Latest Data)|despite
 pretstatā (I have also tried as you said, setting the Macro values against the host, and the host group ... to the template)|as opposed
 the capacity to gain an accurate and deep intuitive understanding of a person or thing, ieskats, ieskatīšanās (any ... you could provide would be most appreciated)|insight
 carry out a systematic or formal inquiry to discover and examine the facts of so as to establish the truth, izmeklēt (no need to ... this further)|investigate
@@ -607,7 +606,6 @@ atsaukties, 5 burti, trace or attribute something to someone as a cause or sourc
 make small adjustments in order to achieve the best or a desired performance, divi vārdi (Press the Show filter button on top to ... the selection by host, host group, and period)|fine tune
 put a limit on, keep under control, ierobežot (It is suggested that you ... the permissions on this file afterwards to be readable only by the web server user, by issuing these commands as root)|restrict
 uz ārzemēm, ārpus mājas, ārzemes (do you go ... to watch the big races?)|abroad
-a limitation or restriction, ierobežojumi (the availability of water is the main ... on food production)|constraint
 disturbance or problems that interrupt an event, activity, or process, traucējumi (the schedule was planned to minimize ...)|disruption
 MTU stands for|maximum transmission unit
 capable of working successfully; feasible, dzīvotspējīgs (does this sound like a ... alternative?)|viable
@@ -638,7 +636,6 @@ not discovered or known about, uncertain, neskaidrs (There could be differences 
 secretly make plans to carry out an illegal or harmful action (the two men are serving sentences for ... a bomb campaign)|plotting
 to a limited extent, daļēji (I think I was able to reproduce the issue ...)|partially
 interrupt an event, activity, or process by causing a disturbance or problem, pārtraukt, sagraut (This functionality can only be included in the next major release, as it can ... existing installations)|disrupt
-an event or sequence of events of a specified kind or that has previously been referred to, lieta, darišana, jautajums (The school is investigating the ...)|affair
 on the subject of or in connection with, about, par, attiecoties uz (here, you can set some options ... your user account)|concerning
 process of absorbing information, norīšana (do you have some kind of best practices to deal with ... delays affecting nodata triggers)|ingestion
 action of declaring something to be untrue, noliegumi daudzskaitlī (I can see different ...)|denials
@@ -664,3 +661,9 @@ the arrival of a notable person, thing, or event, atnākšana, atbalsta atnākš
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
 galvenā mītne|headquarter
+a limitation or restriction, ierobežojumi (the availability of water is the main ... on food production)|constraint
+an event or sequence of events of a specified kind or that has previously been referred to, lieta, darišana, jautajums (The school is investigating the ...)|affair
+neraugoties uz to, without being affected by (... I see values in the log, they do not appear in Latest Data)|despite
+abpusējs, savstarpējs, held in common by two or more parties (... authentication means that not only the client authenticates to the service, but also the service authenticates to the client)|mutual
+increased in quantity, kopīgs, sekmīgi secīgi sastampāts pēc kārtas, cits vārds ne common (... updates)|cumulative
+rūpīgi, pamatīgi, pilnīgi|thoroughly
