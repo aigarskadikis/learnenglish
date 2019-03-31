@@ -626,7 +626,6 @@ sacencību stāvoklis (Make sure to adjust item intervals and trigger expression
 with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
 fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
-of the thing just mentioned, tās (And allows you to specify whether discovery of MBeans or their attributes is required, and what pattern to use for search ...)|thereof
 vīriešu dzimte|masculine
 izmeklēšanas ceļš|avenue of inquiry
 made up of various parts or elements, jaukts (it is a ... data type with tabular data)|composite
@@ -652,18 +651,19 @@ occur at or during the same time, sakrīt (publication is timed to ... with a ma
 dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
 an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
-fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
 DST stands for|daylight saving time
 lift or move to a higher position or level, paceļ gaismā (It is often possible to find such a JMX endpoint and the way it looks ... lots of questions)|raises
 realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 turn to and adopt a strategy so as to resolve a difficult situation, ķerties pie, pielietot, divi vārdi (it can greatly improve your life, because you had to ... various tricks before, and now everything works, as they say, out of the box)|resort to
 the arrival of a notable person, thing, or event, atnākšana, atbalsta atnākšana (JMX discovery appeared in Zabbix simultaneously with the ... of native support for monitoring Java applications via JMX)|advent
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
-to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
 galvenā mītne|headquarter
 a limitation or restriction, ierobežojumi (the availability of water is the main ... on food production)|constraint
-an event or sequence of events of a specified kind or that has previously been referred to, lieta, darišana, jautajums (The school is investigating the ...)|affair
 abpusējs, savstarpējs, held in common by two or more parties (... authentication means that not only the client authenticates to the service, but also the service authenticates to the client)|mutual
 increased in quantity, kopīgs, sekmīgi secīgi sastampāts pēc kārtas, cits vārds ne common (... updates)|cumulative
 neraugoties uz to, without being affected by (... I see values in the log, they do not appear in Latest Data)|despite
 rūpīgi, pamatīgi, pilnīgi|thoroughly
+an event or sequence of events of a specified kind or that has previously been referred to, lieta, darišana, jautajums (The school is investigating the ...)|affair
+fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
+to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
+of the thing just mentioned, tās (And allows you to specify whether discovery of MBeans or their attributes is required, and what pattern to use for search ...)|thereof
