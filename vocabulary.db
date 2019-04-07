@@ -625,7 +625,6 @@ pēc (only acting ... triggers that have the string database in their names)|upo
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
 with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
-fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
 vīriešu dzimte|masculine
 izmeklēšanas ceļš|avenue of inquiry
 made up of various parts or elements, jaukts (it is a ... data type with tabular data)|composite
@@ -667,3 +666,4 @@ an event or sequence of events of a specified kind or that has previously been r
 fix in place with tacks, pievienota, pieskarta virsū (There is also some network statistics information ... on)|tacked
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
 of the thing just mentioned, tās (And allows you to specify whether discovery of MBeans or their attributes is required, and what pattern to use for search ...)|thereof
+fact or condition of being prevalent, izplatība (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
