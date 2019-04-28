@@ -570,7 +570,6 @@ having or showing eagerness or enthusiasm, vērīgs, aizrautīgs (we are ... to 
 PoC stands for|proof of concept
 a minor change in a document, grozījumi (please make ... as appropriate)|amendments
 make clearer and easier to understand (this book attempts to ... technology)|demystify
-koncepta pierādījuma vienība (Any subset of the parameters d, c, l, m, and s may be present in a ...)|poc instance
 transport or carry to a place, nodot, nogādāt (whichever way works to ... the intent is good)|convey
 iemītnieks (Not ... OS performance)|guest
 make suffering or problem less severe, atvieglot (Please let me know what can be done to ... these aggressive SQL calls)|alleviate
@@ -581,20 +580,14 @@ deviating from what is normal or usual, typically in a way that is undesirable o
 exist or occur at a date earlier than blah-bla-bla, iepriekš pirms (my issue ... the other one by 6 years so closing this as duplicate seems odd)|predates
 a heap of things laid or lying one on top of another, uzkrāj, krauj (Usually, when the slave IO_THREAD is able to read binary logs quickly enough it copies and ... up the relay logs on the slave)|piles
 brīvprātīgi (we are funded by ... contributions)|voluntary
-force to be accepted or put in place, uzlikt, uzspiest (Some network appliances ... a delay on returning a valid SSH banner when setting up a connection as a security measure)|impose
 take a substance into the body by swallowing or absorbing it, uzņemt, norīt|ingest
-evaluation or estimation of the nature, quality, or ability of someone or something, novērtējums (A full ... of our existing deployment)|assessment
 make someone aware of or familiar with, iepazīties (Within the next few days I will surely contact each of you personally to get ... closer)|acquainted
 make something denser or more concentrated, kondesēt (In a description, you stated that you want to ... these 19 instances)|condense
 mēģinu (I'm ... to use discovery rules)|attempting
 improvement in quality (really good security ...)|enhancement
 surround or close off on all sides,pievienot,iežogot|enclose
-cause to feel distress (they were ... about politics)|dismayed
 a spoken or written account of connected events, a story|narrative
-EDFA stands for|erbium-doped fiber amplifier
 condition of being grossly fat or overweight, aptaukošanās (Secondly, we spend extra time on the computer and it eventually leads to a lack of movement, which also leads to ...)|obesity
-balstīts uz droselēšanu (Percona XtraBackup performs ... on the number of IO operations per second )|throttling based
-following continuously, pēc kārtas, secīgs (five ... months of serious decline)|consecutive
 in other words|i.e.
 having no special or extra features; ordinary or standard (choosing plain ... technology wherever you can will save you mone)|vanilla
 the action of departing from an established course or accepted standard, novirze (it would be nice if any such ... is visually indicated, ideally by revealing the upstream setting)|deviation
@@ -640,20 +633,17 @@ closely compacted in substance, blīvs (Sorry for being ... here)|dense
 done on purpose, apzināti, tīšs, ar nolūku (Maybe an issue would be good to clarify if this is ...)|intentional
 not or no longer needed or useful; superfluous (from one point of view it is ... to force users to configure actions as well)|redundant
 organize and carry out, vadīšana (I will be ... some additional tests to validate scripts)|conducting
-declare one's public approval, apstiprināts (that is likely to be the library that is ... by the packagers and maintained well)|endorsed
 DRBD stands for|distributed replicated block device
 large or heavy and therefore difficult to carry or use, apgrūtinošs (creating items on the server and then waiting for them to be updated through the gateway can be quite ... if we don not know the exact parameters beforehand)|cumbersome
 created or done for a particular purpose as necessary|ad hoc
 occur at or during the same time, sakrīt (publication is timed to ... with a major exhibition)|coincide
 dažādība, the quality or state of being different or diverse (Well, I’m not sure about British food, but I think eating in Britain is fantastic. There’s so much ...)|variety
 izstādīt, sinonīms vārdam display (if the agent or device does not ... a specific view of data, we can do the calculation from already retrieved values)|expose
-an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
 DST stands for|daylight saving time
 lift or move to a higher position or level, paceļ gaismā (It is often possible to find such a JMX endpoint and the way it looks ... lots of questions)|raises
 realizēt, īstenot, paveikt (One of the first monitoring solutions most administrators ... is a simple shell script invoked from a crontab)|implement
 turn to and adopt a strategy so as to resolve a difficult situation, ķerties pie, pielietot, divi vārdi (it can greatly improve your life, because you had to ... various tricks before, and now everything works, as they say, out of the box)|resort to
 the arrival of a notable person, thing, or event, atnākšana, atbalsta atnākšana (JMX discovery appeared in Zabbix simultaneously with the ... of native support for monitoring Java applications via JMX)|advent
-pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 galvenā mītne|headquarter
 a limitation or restriction, ierobežojumi (the availability of water is the main ... on food production)|constraint
 abpusējs, savstarpējs, held in common by two or more parties (... authentication means that not only the client authenticates to the service, but also the service authenticates to the client)|mutual
@@ -670,3 +660,13 @@ minimum number of members of an assembly or society that must be present at any 
 RFP stands for|request for proposal
 satisfy a demand or a feeling, nomierināt (in order to ... the monitoring tool)|appease
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
+an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
+declare one's public approval, apstiprināts (that is likely to be the library that is ... by the packagers and maintained well)|endorsed
+balstīts uz droselēšanu, divi vārdi (Percona XtraBackup performs ... on the number of IO operations per second )|throttling based
+evaluation or estimation of the nature, quality, or ability of someone or something, novērtējums, (A full ... of our existing deployment)|assessment
+following continuously, pēc kārtas, secīgs (five ... months of serious decline)|consecutive
+koncepta pierādījuma vienība, divi vārdi, pirmais ir saīsinājums (Any subset of the parameters d, c, l, m, and s may be present in a ...)|poc instance
+pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
+cause to feel distress (they were ... about politics)|dismayed
+EDFA stands for|erbium-doped fiber amplifier
+force to be accepted or put in place, uzlikt, uzspiest (Some network appliances ... a delay on returning a valid SSH banner when setting up a connection as a security measure)|impose
