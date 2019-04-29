@@ -569,7 +569,6 @@ having been deserted or cast off, pamests, vārdam pa vidu ir padarīts vārds a
 having or showing eagerness or enthusiasm, vērīgs, aizrautīgs (we are ... to get this issue fixed ASAP)|keen
 PoC stands for|proof of concept
 a minor change in a document, grozījumi (please make ... as appropriate)|amendments
-make clearer and easier to understand (this book attempts to ... technology)|demystify
 transport or carry to a place, nodot, nogādāt (whichever way works to ... the intent is good)|convey
 iemītnieks (Not ... OS performance)|guest
 make suffering or problem less severe, atvieglot (Please let me know what can be done to ... these aggressive SQL calls)|alleviate
@@ -614,7 +613,6 @@ unnecessary, especially through being more than enough, lieks, nevajadzīgs (If 
 think about a fact, proposal, or request deeply and at length (we have be ... the possibility of creating a server with latest version of curl)|mulling
 pēc (only acting ... triggers that have the string database in their names)|upon
 sacencību stāvoklis (Make sure to adjust item intervals and trigger expressions to avoid ... for these items)|race condition
-with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
 a lack of compatibility or similarity between two or more facts, neatbilstības, daudzskaitlī (There seem to be two ...)|discrepancies
 vīriešu dzimte|masculine
 izmeklēšanas ceļš|avenue of inquiry
@@ -653,7 +651,6 @@ an event or sequence of events of a specified kind or that has previously been r
 pievienots, pieskarts, divi vārdi (There is also some network statistics information ...)|tacked on
 of the thing just mentioned, tās (And allows you to specify whether discovery of MBeans or their attributes is required, and what pattern to use for search ...)|thereof
 izplatība, fact or condition of being prevalent (Given the ... of SNMP, it is no wonder Zabbix supports it out-of-the-box)|prevalence
-increased in quantity, kopīgs, sekmīgi secīgi sastampāts pēc kārtas, cits vārds ne common (... updates)|cumulative
 conformity in the application of something, typically that which is necessary for the sake of logic, accuracy, or fairness. patstāvīgums (the grading system is to be streamlined to ensure greater ...)|consistency
 software is installed and runs on computers on the premises in the building of the person or organization using the software, rather than at a remote facility such as a server farm or cloud. ar domu zīmi pa vidu|on-premises
 minimum number of members of an assembly or society that must be present at any of its meetings to make the proceedings of that meeting valid|quorum
@@ -668,9 +665,12 @@ following continuously, pēc kārtas, secīgs (five ... months of serious declin
 koncepta pierādījuma vienība, divi vārdi, pirmais ir saīsinājums (Any subset of the parameters d, c, l, m, and s may be present in a ...)|poc instance
 pretstatā (... to port 161 on the agent side, which is used for queries)|as opposed
 cause to feel distress (they were ... about politics)|dismayed
-EDFA stands for, domu zīme starp pirmo un ontro vārdu|erbium-doped fiber amplifier
 force to be accepted or put in place, uzlikt, uzspiest (Some network appliances ... a delay on returning a valid SSH banner when setting up a connection as a security measure)|impose
 vajadzētu, used to indicate duty or correctness (they might not have much of an idea what they ... to do next)|ought
 izstarot, emit in the form of rays or waves (In order for 5G WiFi hardware to be certified for use, it must not ... unless a country has been set)|radiate
 establishment or starting point of an institution or activity, sākums (Raspbian has used Xpdf since its ..., but this venerable application has become dated in its look, capabilities, and performance)|inception
 accorded a great deal of respect, godājams, cienījams (Raspbian has used Xpdf since its inception, but this ... application has become dated in its look, capabilities, and performance)|venerable
+EDFA stands for, domu zīme starp pirmo un ontro vārdu|erbium-doped fiber amplifier
+increased in quantity, kopīgs, sekmīgi secīgi sastampāts pēc kārtas, cits vārds ne common (... updates)|cumulative
+make clearer and easier to understand (this book attempts to ... technology)|demystify
+with unwanted elements having been removed by processing, attīrīts, izsmalcināts|refined
