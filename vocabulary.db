@@ -562,7 +562,6 @@ carry out a systematic or formal inquiry to discover and examine the facts of so
 not quite right; inappropriate or out of place, neveiksmīgi, nepareizi (it seems like there is something ... with a configuration somewhere)|amiss
 occurring in or practiced by some members of a community, starp, vidū, pie (supported KPI's – interested in Service availability and bandwidth utilization ... others)|among
 make previously unknown or secret information known to others, atklājot, celt gaismā (it would be nice if any such deviation is visually indicated, ideally by ... the upstream setting)|revealing
-MAN stands for|metropolitan area network
 IMHO stands for, saudzīgs viedoklis|in my humble opinion
 nodrošināšanas laiks|provisioning time
 having been deserted or cast off, pamests, vārdam pa vidu ir padarīts vārds angļu valodā (sounds like a fixing an ... zabbix server)|abandoned
@@ -604,7 +603,6 @@ regard or consider in a specified way, uzskatīt, domāt par (As far as I unders
 SDN stands for|software defined network
 imagine as a future possibility, paredzēts (Could you please expand in detail on what was the ... solution?)|envisioned
 relevant or appropriate, piemērojams, derīgs (According to documentation only Type, Key, Type of information, Update interval, Log time format options are ... and others are just ignored)|applicable
-in a manner conforming with, atbilstoši (If not, then you can do it in ... with the documentation)|accordance
 inside, iekšā (In this form, you can create only one discovery rule ... the host, which is very sad, because in practice I would like to create a lot of rules)|within
 make a choice from a range of possibilities, izvēlēties, 3 burti (We ... not to use first two options, because they do not offer nice solutions in terms of performance)|opt
 in a natural or raw state; not yet processed or refined, neapstrādāts, rupjš (This function is the responsibility of the undocumented jmx.discovery key. The documentation mentioned nothing about it, because it was still a very ... function)|crude
@@ -655,7 +653,6 @@ conformity in the application of something, typically that which is necessary fo
 software is installed and runs on computers on the premises in the building of the person or organization using the software, rather than at a remote facility such as a server farm or cloud. ar domu zīmi pa vidu|on-premises
 minimum number of members of an assembly or society that must be present at any of its meetings to make the proceedings of that meeting valid|quorum
 RFP stands for|request for proposal
-satisfy a demand or a feeling, nomierināt (in order to ... the monitoring tool)|appease
 to a great or significant extent, būtiski (In our case the B-Tree type of indexes are used that ... benefit in performance from partitioning)|substantially
 an unintended consequence occurring some time after an event or action, especially an unwelcome one, sekas (What are the ... of allowing agent to run as root, other than it has access to everything)|repercussions
 declare one's public approval, apstiprināts (that is likely to be the library that is ... by the packagers and maintained well)|endorsed
@@ -668,7 +665,6 @@ cause to feel distress (they were ... about politics)|dismayed
 force to be accepted or put in place, uzlikt, uzspiest (Some network appliances ... a delay on returning a valid SSH banner when setting up a connection as a security measure)|impose
 vajadzētu, used to indicate duty or correctness (they might not have much of an idea what they ... to do next)|ought
 izstarot, emit in the form of rays or waves (In order for 5G WiFi hardware to be certified for use, it must not ... unless a country has been set)|radiate
-establishment or starting point of an institution or activity, sākums (Raspbian has used Xpdf since its ..., but this venerable application has become dated in its look, capabilities, and performance)|inception
 EDFA stands for, domu zīme starp pirmo un ontro vārdu|erbium-doped fiber amplifier
 increased in quantity, kopīgs, sekmīgi secīgi sastampāts pēc kārtas, cits vārds ne common (... updates)|cumulative
 make clearer and easier to understand (this book attempts to ... technology)|demystify
@@ -676,3 +672,7 @@ with unwanted elements having been removed by processing, attīrīts, izsmalcin�
 an official document giving someone authorization to do something, autļauja|permit
 manifest or deliberately display a quality or a type of behavior, izstādīt, sinonīms expose, beidzas ar papildus s (just tested it and vanilla version ... the same behavior)|exhibits
 accorded a great deal of respect, godājams, cienījams (Raspbian has used Xpdf since its inception, but this ... application has become dated in its look, capabilities, and performance)|venerable
+establishment or starting point of an institution or activity, sākums (Raspbian has used Xpdf since its ..., but this venerable application has become dated in its look, capabilities, and performance)|inception
+in a manner conforming with, atbilstoši (If not, then you can do it in ... with the documentation)|accordance
+MAN stands for|metropolitan area network
+satisfy a demand or a feeling, nomierināt (in order to ... the monitoring tool)|appease
